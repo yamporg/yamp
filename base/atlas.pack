@@ -1,0 +1,16 @@
+/*
+- #### [AntiqueAtlas](https://curseforge.com/minecraft/mc-mods/antique-atlas)
+
+  Antique Atlas adds a craftable item that enables a special map screen and minimap.
+
+  Date: Nov 6, 2019
+  Version: [4.6.3](https://curseforge.com/minecraft/mc-mods/antique-atlas/files/2823030)
+  Source: [GitHub](https://github.com/Hunternif/AntiqueAtlas)
+
+  ![](https://i.imgur.com/i90KA8K.png)
+*/
+mod "mods/AntiqueAtlas.jar" {
+  method    = "curse"
+  projectID = 227795
+  fileID    = 2823030
+}
