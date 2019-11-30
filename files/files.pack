@@ -37,3 +37,7 @@ mod "config/mca.cfg" {
 mod "config/improvedmobs/main.cfg" {
   file = "files/config/improvedmobs/main.cfg"
 }
+
+mod "config/multimine.cfg" {
+  file = "files/config/multimine.cfg"
+}
