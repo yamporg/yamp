@@ -33,3 +33,7 @@ mod "config/ice_and_fire.cfg" {
 mod "config/mca.cfg" {
   file = "files/config/mca.cfg"
 }
+
+mod "config/improvedmobs/main.cfg" {
+  file = "files/config/improvedmobs/main.cfg"
+}
