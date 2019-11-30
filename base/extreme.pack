@@ -54,23 +54,6 @@ mod "mods/TAN.jar" {
 }
 
 /*
-- #### [LycanitesMobs](https://curseforge.com/minecraft/mc-mods/lycanites-mobs)
-
-  This mod adds many new mobs to specific biomes, dimensions and more. These mobs range from peaceful Makas, farmable mammal-like reptiles with massive sails (watch out for the alphas) to horrific Grues that are made of the very shadows themselves! Expect to see angry elementals such as Cinders spawning from large fires or Spriggans from tall grass and crops!
-
-  Date: Nov 29, 2019
-  Version: [2.0.2.0](https://curseforge.com/minecraft/mc-mods/lycanites-mobs/files/2834372)
-  Source: [GitLab](https://gitlab.com/Lycanite/LycanitesMobs)
-
-  ![](https://i.imgur.com/RD9G3OI.png)
-*/
-mod "mods/LycanitesMobs.jar" {
-  method    = "curse"
-  projectID = 224770
-  fileID    = 2834372
-}
-
-/*
 - #### [Bloodmoon](https://curseforge.com/minecraft/mc-mods/bloodmoon)
 
   This mod adds a lunar event called "Bloodmoon". During the night monsters will spawn faster and closer to the player. The spawn limit of monsters will also be higher.
