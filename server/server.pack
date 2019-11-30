@@ -16,6 +16,21 @@ mod "mods/Dynmap.jar" {
 }
 
 /*
+- ### [CIJN](https://curseforge.com/minecraft/mc-mods/can-i-join-now)
+
+  Can I Join Now updates the server’s MOTD with current in-game time to show whether it is safe to join. 
+
+  Date: Aug 31, 2017
+  Version: [1.1-3](https://curseforge.com/minecraft/mc-mods/can-i-join-now/files/2473645)
+  Source: [GitHub](https://github.com/CallMeFoxie/CanIJoinNow)
+*/
+mod "mods/CIJN.jar" {
+  method    = "curse"
+  projectID = 246125
+  fileID    = 2473645
+}
+
+/*
 - #### [Stackie](https://curseforge.com/minecraft/mc-mods/stackie)
 
   This mod stacks all dropped experience and items.
