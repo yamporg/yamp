@@ -1,2 +1,2 @@
 # yamp
-Yet another Minecraft pack.
+Yet another Minecraft modpack.
