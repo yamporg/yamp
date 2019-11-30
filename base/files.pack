@@ -1,15 +1,3 @@
-mod "eula.txt" {
-  file = "files/eula.txt"
-}
-
-mod "options.txt" {
-  file = "files/options.txt"
-}
-
-mod "optionsof.txt" {
-  file = "files/optionsof.txt"
-}
-
 mod "config/forge.cfg" {
   file = "files/config/forge.cfg"
 }

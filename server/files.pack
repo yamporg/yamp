@@ -1,0 +1,3 @@
+mod "eula.txt" {
+  file = "files/eula.txt"
+}
