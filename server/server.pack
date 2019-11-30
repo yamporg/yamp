@@ -1,0 +1,48 @@
+/*
+- #### [Dynmap](https://curseforge.com/minecraft/mc-mods/dynmapforge)
+
+  A Google Maps-like map for your Minecraft server that can be viewed in a browser.
+
+  Date: Jun 9, 2019
+  Version: [3.0-beta-4](https://curseforge.com/minecraft/mc-mods/dynmapforge/files/2722448)
+  Source: [GitHub](https://github.com/webbukkit/dynmap)
+
+  ![](https://media.forgecdn.net/attachments/8/340/dynmap3.png)
+*/
+mod "mods/Dynmap.jar" {
+  method    = "curse"
+  projectID = 59433
+  fileID    = 2722448
+}
+
+/*
+- #### [Stackie](https://curseforge.com/minecraft/mc-mods/stackie)
+
+  This mod stacks all dropped experience and items.
+
+  Date: Oct 11, 2017
+  Version: [1.6.0.48](https://curseforge.com/minecraft/mc-mods/stackie/files/2489553)
+  Source: [GitHub](https://github.com/Lunatrius/Stackie)
+
+  Requires: [LunatriusCore](#LunatriusCore)
+*/
+mod "mods/Stackie.jar" {
+  method    = "curse"
+  projectID = 225606
+  fileID    = 2489553
+}
+
+/*
+- #### [WorldEdit](https://curseforge.com/minecraft/mc-mods/worldedit)
+
+  WorldEdit is an easy-to-use in-game Minecraft map editor. Through a combination of commands and "brushes," you can sculpt your world or simply perform numerous terraforming tasks. 
+
+  Date: Jan 2, 2019
+  Version: [6.1.10](https://curseforge.com/minecraft/mc-mods/worldedit/files/2655056)
+  Source: [GitHub](https://github.com/enginehub/WorldEdit)
+*/
+mod "mods/WorldEdit.jar" {
+  method    = "curse"
+  projectID = 225608
+  fileID    = 2655056
+}

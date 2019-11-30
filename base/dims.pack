@@ -1,0 +1,35 @@
+/*
+- #### [HuntingDim](https://curseforge.com/minecraft/mc-mods/hunting-dimension)
+
+  Many players encounter a situation where they need mob drops but can’t hunt the mobs because it is day time. This issue is especially prominent on servers. This mod hopes to solve this issue, and any potential disputes it may cause by providing a hunting dimension. The hunting dimension provided by this mod is eternally night, meaning that mobs can spawn all day long. 
+
+  Date: Nov 16, 2019
+  Version: [1.0.42](https://curseforge.com/minecraft/mc-mods/hunting-dimension/files/2827888)
+  Source: [GitHub](https://github.com/Darkhax-Minecraft/Hunting-Dimension)
+
+  Requires: [Bookshelf](#Bookshelf)
+
+  ![](https://media.forgecdn.net/attachments/221/143/2017-12-09_16.png)
+*/
+mod "mods/HuntingDim.jar" {
+  method    = "curse"
+  projectID = 283235
+  fileID    = 2827888
+}
+
+/*
+- #### [YAMDA](https://curseforge.com/minecraft/mc-mods/yamda)
+
+  Yet Another Mining Dimension Attempt (YAMDA) mod adds a simple flat world without caves, lava, and water!
+
+  Date: Feb 25, 2019
+  Version: [1.0.2](https://curseforge.com/minecraft/mc-mods/yamda/files/2679824)
+  Source: [GitHub](https://github.com/Sunekaer/YAMDA)
+
+  ![](https://media.forgecdn.net/avatars/191/152/636858609551782920.png)
+*/
+mod "mods/YAMDA.jar" {
+  method    = "curse"
+  projectID = 314569
+  fileID    = 2679824
+}

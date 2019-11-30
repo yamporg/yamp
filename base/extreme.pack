@@ -1,0 +1,88 @@
+/*
+- #### [ImprovedMobs](https://curseforge.com/minecraft/mc-mods/improved-mobs)
+
+  This mod provides several tweaks to mobs with all of the features being customizable. Mostly it makes mobs more harder.
+
+  Note: Author actually responds to user requests.
+
+  Date: Nov 6, 2019
+  Version: [1.5.2](https://curseforge.com/minecraft/mc-mods/improved-mobs/files/2822916)
+  Source: [GitHub](https://github.com/Flemmli97/ImprovedMobs)
+
+  Requires: [TenshiLib](#TenshiLib)
+*/
+mod "mods/ImprovedMobs.jar" {
+  method    = "curse"
+  projectID = 282639
+  fileID    = 2822916
+}
+
+/*
+- #### [FirstAid](https://curseforge.com/minecraft/mc-mods/first-aid)
+
+  First Aid is a game changing mod focused around a new health system.
+
+  The old health bar got replaced by 8 different health regions, so your Head, Body, Legs and Feet have their own health bar.
+
+  Date: Nov 19, 2019
+  Version: [1.6.12](https://curseforge.com/minecraft/mc-mods/first-aid/files/2829601)
+  Source: [GitHub](https://github.com/ichttt/FirstAid)
+
+  ![](https://media.forgecdn.net/attachments/221/374/firstaidoverlay.PNG)
+*/
+mod "mods/FirstAid.jar" {
+  method    = "curse"
+  projectID = 276837
+  fileID    = 2829601
+}
+
+/*
+- #### [TAN](https://curseforge.com/minecraft/mc-mods/tough-as-nails)
+
+  Tough As Nails is a Minecraft mod that adds survival features to increase difficulty and realism, including thirst, body temperature, seasons, and more!
+
+  Date: Dec 6, 2018
+  Version: [3.1.0.139](https://curseforge.com/minecraft/mc-mods/tough-as-nails/files/2644652)
+  Source: [GitHub](https://github.com/Glitchfiend/ToughAsNails)
+
+  ![](https://media.forgecdn.net/attachments/225/896/687474703a2f2f692e696d6775722e636f6d2f436e79463233.png)
+*/
+mod "mods/TAN.jar" {
+  method    = "curse"
+  projectID = 246391
+  fileID    = 2644652
+}
+
+/*
+- #### [LycanitesMobs](https://curseforge.com/minecraft/mc-mods/lycanites-mobs)
+
+  This mod adds many new mobs to specific biomes, dimensions and more. These mobs range from peaceful Makas, farmable mammal-like reptiles with massive sails (watch out for the alphas) to horrific Grues that are made of the very shadows themselves! Expect to see angry elementals such as Cinders spawning from large fires or Spriggans from tall grass and crops!
+
+  Date: Nov 29, 2019
+  Version: [2.0.2.0](https://curseforge.com/minecraft/mc-mods/lycanites-mobs/files/2834372)
+  Source: [GitLab](https://gitlab.com/Lycanite/LycanitesMobs)
+
+  ![](https://i.imgur.com/RD9G3OI.png)
+*/
+mod "mods/LycanitesMobs.jar" {
+  method    = "curse"
+  projectID = 224770
+  fileID    = 2834372
+}
+
+/*
+- #### [Bloodmoon](https://curseforge.com/minecraft/mc-mods/bloodmoon)
+
+  This mod adds a lunar event called "Bloodmoon". During the night monsters will spawn faster and closer to the player. The spawn limit of monsters will also be higher.
+
+  Date: Mar 6, 2018
+  Version: [1.5.3](https://curseforge.com/minecraft/mc-mods/bloodmoon/files/2537917)
+  Source: [GitHub](https://github.com/lumien231/Bloodmoon)
+
+  ![](https://i.imgur.com/CuiyPKO.png)
+*/
+mod "mods/Bloodmoon.jar" {
+  method    = "curse"
+  projectID = 226321
+  fileID    = 2537917
+}

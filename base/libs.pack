@@ -1,0 +1,365 @@
+/*
+- #### [CTM](https://curseforge.com/minecraft/mc-mods/ctm)
+
+  Allows resource packs to add connected textures, emissive rendering, and much more.
+
+  Date: Nov 26, 2019
+  Version: [1.0.1.30](https://curseforge.com/minecraft/mc-mods/ctm/files/2832564)
+  Source: [GitHub](https://github.com/Chisel-Team/ConnectedTexturesMod)
+
+  Dependent: [Chisel](#Chisel)
+*/
+mod "mods/CTM.jar" {
+  method    = "curse"
+  projectID = 267602
+  fileID    = 2832564
+}
+
+/*
+- #### [GuideAPI](https://curseforge.com/minecraft/mc-mods/guide-api)
+
+  Allows modders to easily create in-game documentation.
+
+  Date: Dec 10, 2018
+  Version: [2.1.8-63](https://curseforge.com/minecraft/mc-mods/guide-api/files/2645992)
+  Source: [GitHub](https://github.com/TeamAmeriFrance/Guide-API)
+
+  Dependent: [BloodMagic](#BloodMagic)
+*/
+mod "mods/GuideAPI.jar" {
+  method    = "curse"
+  projectID = 228832
+  fileID    = 2645992
+}
+
+/*
+- #### [OpenModsLib](https://curseforge.com/minecraft/mc-mods/openmodslib)
+
+  OpenModsLib is a library of common code from OpenBlocks and OpenPeripheral.
+
+  Date: Apr 14, 2019
+  Version: [0.12.2](https://curseforge.com/minecraft/mc-mods/openmodslib/files/2699055)
+  Source: [GitHub](https://github.com/OpenMods/OpenModsLib)
+
+  Dependent: [OpenBlocks](#OpenBlocks)
+*/
+mod "mods/OpenModsLib.jar" {
+  method    = "curse"
+  projectID = 228815
+  fileID    = 2699055
+}
+
+/*
+- #### [WanionLib](https://curseforge.com/minecraft/mc-mods/wanionlib)
+
+  Date: Oct 12, 2019
+  Version: [2.4](https://curseforge.com/minecraft/mc-mods/wanionlib/files/2807433)
+  Source: [GitHub](https://github.com/WanionCane/WanionLib)
+
+  Dependent: [UniDict](#UniDict)
+*/
+mod "mods/WanionLib.jar" {
+  method    = "curse"
+  projectID = 253043
+  fileID    = 2807433
+}
+
+/*
+- #### [ThermalFoundation](https://curseforge.com/minecraft/mc-mods/thermal-foundation)
+
+  Date: May 26, 2019
+  Version: [2.6.3.27](https://curseforge.com/minecraft/mc-mods/thermal-foundation/files/2715788)
+  Source: [GitHub](https://github.com/CoFH/ThermalFoundation)
+
+  Requires: [CoFHCore](#CoFHCore)
+  Requires: [CoFHWorld](#CoFHWorld)
+
+  Dependent: [ThermalExpansion](#ThermalExpansion)
+*/
+mod "mods/ThermalFoundation.jar" {
+  method    = "curse"
+  projectID = 222880
+  fileID    = 2715788
+}
+
+/*
+- #### [CoFHCore](https://curseforge.com/minecraft/mc-mods/cofh-core)
+
+  Date: May 26, 2019
+  Version: [4.6.3.27](https://curseforge.com/minecraft/mc-mods/cofh-core/files/2716100)
+  Source: [GitHub](https://github.com/CoFH/CoFHCore)
+
+  Requires: [RedstoneFlux](#RedstoneFlux)
+
+  Dependent: [ThermalFoundation](#ThermalFoundation)
+*/
+mod "mods/CoFHCore.jar" {
+  method    = "curse"
+  projectID = 69162
+  fileID    = 2716100
+}
+
+/*
+- #### [CoFHWorld](https://curseforge.com/minecraft/mc-mods/cofh-world)
+
+  Date: May 26, 2019
+  Version: [1.3.1.7](https://curseforge.com/minecraft/mc-mods/cofh-world/files/2715784)
+  Source: [GitHub](https://github.com/CoFH/CoFHWorld)
+
+  Dependent: [ThermalFoundation](#ThermalFoundation)
+*/
+mod "mods/CoFHWorld.jar" {
+  method    = "curse"
+  projectID = 271384
+  fileID    = 2715784
+}
+
+/*
+- #### [RedstoneFlux](https://curseforge.com/minecraft/mc-mods/redstone-flux)
+
+  Date: Oct 2, 2018
+  Version: [2.1.0.6](https://curseforge.com/minecraft/mc-mods/redstone-flux/files/2623090)
+  Source: [GitHub](https://github.com/CoFH/RedstoneFlux)
+
+  Dependent: [CoFHCore](#CoFHCore)
+*/
+mod "mods/RedstoneFlux.jar" {
+  method    = "curse"
+  projectID = 270789
+  fileID    = 2623090
+}
+
+/*
+- #### [TrackAPI](https://curseforge.com/minecraft/mc-mods/track-api)
+
+  This API is a required mod for Immersive Railroading and other train mods in the future.
+
+  Date: Nov 10, 2019
+  Version: [1.2](https://curseforge.com/minecraft/mc-mods/track-api/files/2825260)
+  Source: [GitHub](https://github.com/cam72cam/TrackAPI)
+
+  Dependent: [ImmersiveRailroading](#ImmersiveRailroading)
+*/
+mod "mods/TrackAPI.jar" {
+  method    = "curse"
+  projectID = 282613
+  fileID    = 2825260
+}
+
+/*
+- #### [McJtyLib](https://curseforge.com/minecraft/mc-mods/mcjtylib)
+
+  Date: Jul 22, 2019
+  Version: [3.5.4](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
+  Source: [GitHub](https://github.com/McJtyMods/McJtyLib)
+
+  Dependent: [RFTools](#RFTools)
+*/
+mod "mods/McJtyLib.jar" {
+  method    = "curse"
+  projectID = 233105
+  fileID    = 2745846
+}
+
+/*
+- #### [Chameleon](https://curseforge.com/minecraft/mc-mods/chameleon)
+
+  Date: Jul 15, 2017
+  Version: [4.1.3](https://curseforge.com/minecraft/mc-mods/chameleon/files/2450900)
+  Source: [GitHub](https://github.com/jaquadro/Chameleon)
+
+  Dependent: [StorageDrawers](#StorageDrawers)
+*/
+mod "mods/Chameleon.jar" {
+  method    = "curse"
+  projectID = 230497
+  fileID    = 2450900
+}
+
+/*
+- #### [AutoRegLib](https://curseforge.com/minecraft/mc-mods/autoreglib)
+
+  Date: Jul 22, 2019
+  Version: [1.3-32](https://curseforge.com/minecraft/mc-mods/autoreglib/files/2746011)
+  Source: [GitHub](https://github.com/Vazkii/AutoRegLib)
+
+  Dependent: [Psi](#Psi)
+*/
+mod "mods/AutoRegLib.jar" {
+  method    = "curse"
+  projectID = 250363
+  fileID    = 2746011
+}
+
+/*
+- #### [LLibrary](https://curseforge.com/minecraft/mc-mods/llibrary)
+
+  Date: Apr 27, 2019
+  Version: [1.7.19](https://curseforge.com/minecraft/mc-mods/llibrary/files/2704186)
+  Source: [GitHub](https://github.com/iLexiconn/LLibrary)
+
+  Dependent: [IceAndFire](#IceAndFire)
+*/
+mod "mods/LLibrary.jar" {
+  method    = "curse"
+  projectID = 243298
+  fileID    = 2704186
+}
+
+/*
+- #### [MysticalLib](https://curseforge.com/minecraft/mc-mods/mysticallib)
+
+  Date: Oct 28, 2019
+  Version: [1.4.0](https://curseforge.com/minecraft/mc-mods/mysticallib/files/2817910)
+  Source: [GitHub](https://github.com/EpicSquid/MysticalLib)
+
+  Dependent: [Blockcraftery](#Blockcraftery)
+*/
+mod "mods/MysticalLib.jar" {
+  method    = "curse"
+  projectID = 277064
+  fileID    = 2817910
+}
+
+/*
+- #### [CodeChickenLib](https://curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
+
+  Date: Sep 7, 2019
+  Version: [3.2.3.358](https://curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848)
+  Source: [GitHub](https://github.com/TheCBProject/CodeChickenLib)
+
+  Dependent: [ThermalExpansion](#ThermalExpansion)
+  Dependent: [EnderStorage](#EnderStorage)
+*/
+mod "mods/CodeChickenLib.jar" {
+  method    = "curse"
+  projectID = 242818
+  fileID    = 2779848
+}
+
+/*
+- #### [MalisisCore](https://curseforge.com/minecraft/mc-mods/malisiscore)
+
+  Date: Feb 27, 2019
+  Version: [6.5.1](https://curseforge.com/minecraft/mc-mods/malisiscore/files/2680892)
+  Source: [GitHub](https://github.com/Ordinastie/MalisisCore)
+
+  Dependent: [MalisisDoors](#MalisisDoors)
+*/
+mod "mods/MalisisCore.jar" {
+  method    = "curse"
+  projectID = 223896
+  fileID    = 2680892
+}
+
+/*
+- #### [Mantle](https://curseforge.com/minecraft/mc-mods/mantle)
+
+  Date: May 19, 2019
+  Version: [1.3.3.55](https://curseforge.com/minecraft/mc-mods/mantle/files/2713386)
+  Source: [GitHub](https://github.com/SlimeKnights/Mantle)
+
+  Dependent: [Natura](#Natura)
+  Dependent: [TConstruct](#TConstruct)
+*/
+mod "mods/Mantle.jar" {
+  method    = "curse"
+  projectID = 74924
+  fileID    = 2713386
+}
+
+/*
+- #### [Bookshelf](https://curseforge.com/minecraft/mc-mods/bookshelf)
+
+  Date: Jun 21, 2019
+  Version: [2.3.585](https://curseforge.com/minecraft/mc-mods/bookshelf/files/2727800)
+  Source: [GitHub](https://github.com/Darkhax-Minecraft/Bookshelf)
+
+  Dependent: [HuntingDim](#HuntingDim)
+*/
+mod "mods/Bookshelf.jar" {
+  method    = "curse"
+  projectID = 228525
+  fileID    = 2727800
+}
+
+/*
+- #### [IvTk](https://curseforge.com/minecraft/mc-mods/ivtoolkit)
+
+  Date: Jun 29, 2017
+  Version: [1.3.3](https://curseforge.com/minecraft/mc-mods/ivtoolkit/files/2443253)
+  Source: [GitHub](https://github.com/Ivorforce/IvToolkit)
+
+  Dependent: [RecurrentComplex](#RecurrentComplex)
+*/
+mod "mods/IvTk.jar" {
+  method    = "curse"
+  projectID = 224535
+  fileID    = 2443253
+}
+
+/*
+- #### [LibrarianLib](https://curseforge.com/minecraft/mc-mods/librarianlib)
+
+  Date: Jun 16, 2019
+  Version: [4.19.2](https://curseforge.com/minecraft/mc-mods/librarianlib/files/2725449)
+  Source: [GitHub](https://github.com/TeamWizardry/LibrarianLib)
+
+  Dependent: [PSIdeas](#PSIdeas)
+
+  Requires: [Forgelin](#Forgelin)
+*/
+mod "mods/LibrarianLib.jar" {
+  method    = "curse"
+  projectID = 252910
+  fileID    = 2725449
+}
+
+/*
+- #### [CreativeCore](https://curseforge.com/minecraft/mc-mods/creativecore)
+
+  Date: Nov 23, 2019
+  Version: [1.9.74](https://curseforge.com/minecraft/mc-mods/creativecore/files/2831308)
+  Source: [GitHub](https://github.com/CreativeMD/CreativeCore)
+
+  Dependent: [LittleTiles](#LittleTiles)
+  Dependent: [PlayerRevive](#PlayerRevive)
+*/
+mod "mods/CreativeCore.jar" {
+  method    = "curse"
+  projectID = 257814
+  fileID    = 2831308
+}
+
+/*
+- #### [Forgelin](https://curseforge.com/minecraft/mc-mods/shadowfacts-forgelin)
+
+  Provides a Kotlin language adapter for Forge and bundles the Kotlin standard, reflect, coroutines, and runtime libraries.
+
+  Date: Sep 13, 2019
+  Version: [1.8.4](https://curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465)
+  Source: [GitHub](https://github.com/shadowfacts/Forgelin)
+
+  Dependent: [PSIdeas](#PSIdeas)
+  Dependent: [LibrarianLib](#LibrarianLib)
+*/
+mod "mods/Forgelin.jar" {
+  method    = "curse"
+  projectID = 248453
+  fileID    = 2785465
+}
+
+/*
+- #### [TenshiLib](https://curseforge.com/minecraft/mc-mods/tenshilib)
+
+  Date: Nov 16, 2019
+  Version: [1.2.2](https://curseforge.com/minecraft/mc-mods/tenshilib/files/2828048)
+  Source: [GitHub](https://github.com/Flemmli97/TenshiLib)
+
+  Dependent: [ImprovedMobs](#ImprovedMobs)
+*/
+mod "mods/TenshiLib.jar" {
+  method    = "curse"
+  projectID = 312040
+  fileID    = 2828048
+}

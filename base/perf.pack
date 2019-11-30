@@ -1,0 +1,48 @@
+/*
+- #### [LagGoggles](https://curseforge.com/minecraft/mc-mods/laggoggles)
+
+  LagGoggles is a profiler where you can see timings in the world, visually. It’s an attempt to create an understanding of what causes lag on a server to regular players.
+
+  Note: FAT version ships Mixin, which is a library that LagGoggles needs in order to function. It’s possible that another mod already ships Mixin or has another version. If you have SpongeForge or another mod that requires a different version of Mixin, choose the THIN release.
+
+  Date: Nov 3, 2019
+  Version: [4.9-FAT](https://curseforge.com/minecraft/mc-mods/laggoggles/files/2821476)
+  Source: [GitHub](https://github.com/TerminatorNL/LagGoggles)
+
+  ![](https://raw.githubusercontent.com/TerminatorNL/LagGoggles/c4116a841f732ce8123bea64e8b23720c97fd34c/docs/1-enabled.png)
+*/
+mod "mods/LagGoogles.jar" {
+  method    = "curse"
+  projectID = 283525
+  fileID    = 2821476
+}
+
+/*
+- #### [FoamFix](https://curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
+
+  FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. Observations show that Java heap usage (measured using VisualVM on the main menu) can drop by as much as 50%!
+
+  Date: Nov 23, 2019
+  Version: [0.10.9](https://curseforge.com/minecraft/mc-mods/foamfix-for-minecraft/files/2831558)
+  Source: [Gitea (git.asie.pl)](https://git.asie.pl/asie-minecraft/FoamFix)
+*/
+mod "mods/FoamFix.jar" {
+  method    = "curse"
+  projectID = 278494
+  fileID    = 2831558
+}
+
+/*
+- #### [BetterFPS](https://curseforge.com/minecraft/mc-mods/betterfps)
+
+  BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods.
+
+  Date: Sep 24, 2017
+  Version: [1.4.8](https://curseforge.com/minecraft/mc-mods/betterfps/files/2483393)
+  Source: [GitHub](https://github.com/Guichaguri/BetterFps)
+*/
+mod "mods/BetterFPS.jar" {
+  method    = "curse"
+  projectID = 229876
+  fileID    = 2483393
+}

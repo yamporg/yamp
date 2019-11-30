@@ -1,0 +1,35 @@
+mod "eula.txt" {
+  file = "files/eula.txt"
+}
+
+mod "options.txt" {
+  file = "files/options.txt"
+}
+
+mod "optionsof.txt" {
+  file = "files/optionsof.txt"
+}
+
+mod "config/reccomplex.cfg" {
+  file = "files/config/reccomplex.cfg"
+}
+
+mod "config/bloodmoon.cfg" {
+  file = "files/config/bloodmoon.cfg"
+}
+
+mod "config/quark.cfg" {
+  file = "files/config/quark.cfg"
+}
+
+mod "config/toughasnails/gameplay.cfg" {
+  file = "files/config/toughasnails/gameplay.cfg"
+}
+
+mod "config/ice_and_fire.cfg" {
+  file = "files/config/ice_and_fire.cfg"
+}
+
+mod "config/mca.cfg" {
+  file = "files/config/mca.cfg"
+}

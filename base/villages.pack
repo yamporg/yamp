@@ -1,0 +1,33 @@
+/*
+- #### [Minecolonies](https://curseforge.com/minecraft/mc-mods/minecolonies)
+
+  Minecolonies is an interactive Town building mod that allows you to create your own thriving Town within Minecraft. It depicts real-life scenarios by providing you with different craftable options to build your own Town and enhance your gaming experience.
+
+  Date: Oct 30, 2019
+  Version: [0.10.488](https://curseforge.com/minecraft/mc-mods/minecolonies/files/2818963)
+  Source: [GitHub](https://github.com/Minecolonies/minecolonies)
+
+  ![](https://media.forgecdn.net/attachments/211/253/mesa2.png)
+*/
+mod "mods/Minecolonies.jar" {
+  method    = "curse"
+  projectID = 245506
+  fileID    = 2818963
+}
+
+/*
+- #### [MinecraftComesAlive](https://curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca)
+
+  Say goodbye to those annoying and ugly squidward-nosed villagers! Minecraft Comes Alive (MCA) completely replaces villagers with humans, and adds interactions, marriage, and babies! 
+
+  Date: Nov 9, 2019
+  Version: [6.1.0](https://curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca/files/2824328)
+  Source: [GitHub](https://github.com/WildBamaBoy/minecraft-comes-alive)
+
+  ![](https://media.forgecdn.net/attachments/22/106/mca-2.png)
+*/
+mod "mods/MinecraftComesAlive.jar" {
+  method    = "curse"
+  projectID = 59693
+  fileID    = 2824328
+}

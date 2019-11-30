@@ -1,0 +1,44 @@
+/*
+- #### [WorldStripper](https://curseforge.com/minecraft/mc-mods/world-stripper)
+
+  World Stripper is a utility mod that allows you to strip away the terrain to view the underground world generation.
+
+  Date: Nov 5, 2018
+  Version: [1.6.0](https://curseforge.com/minecraft/mc-mods/world-stripper/files/2635454)
+  Source: [GitHub](https://github.com/EwyBoy/World-Stripper)
+*/
+mod "mods/WorldStripper.jar" {
+  method    = "curse"
+  projectID = 250603
+  fileID    = 2635454
+}
+
+/*
+- #### [XRay](https://curseforge.com/minecraft/mc-mods/advanced-xray)
+
+  Minecraft Forge based XRay mod designed to aid players who don’t like the ore searching process.
+
+  Date: Jul 28, 2019
+  Version: [1.6.0](https://curseforge.com/minecraft/mc-mods/advanced-xray/files/2750239)
+  Source: [GitHub](https://github.com/MichaelHillcox/XRay-Mod)
+*/
+mod "mods/XRay.jar" {
+  method    = "curse"
+  projectID = 256256
+  fileID    = 2750239
+}
+
+/*
+- #### [LonelyBiome](https://curseforge.com/minecraft/mc-mods/lonely-biome)
+
+  Lonely Biome is a small mod that allows you to generate single-biome worlds. 
+
+  Date: Mar 24, 2019
+  Version: [2.0.2](https://curseforge.com/minecraft/mc-mods/lonely-biome/files/2691336)
+  Source: [GitHub](https://github.com/Team-RTG/Lonely-Biome)
+*/
+mod "mods/LonelyBiome.jar" {
+  method    = "curse"
+  projectID = 243006
+  fileID    = 2691336
+}

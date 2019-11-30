@@ -1,0 +1,13 @@
+/*
+- #### [OptiFine](https://optifine.net)
+
+  OptiFine is a Minecraft optimization mod. It allows Minecraft to run faster and look better with full support for HD textures and many configuration options.
+
+  Date: Oct 23, 2019
+  Version: [F4](https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F4.jar)
+  Source: _N/A_
+*/
+mod "mods/OptiFine.jar" {
+  method = "optifine"
+  file   = "OptiFine_1.12.2_HD_U_F4.jar"
+}

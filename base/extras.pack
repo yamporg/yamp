@@ -1,0 +1,143 @@
+/*
+- #### [OpenBlocks](https://curseforge.com/minecraft/mc-mods/openblocks)
+
+  OpenBlocks introduces a range of random ideas into Minecraft. There is no theme. Really.
+
+  Date: Apr 14, 2019
+  Version: [1.8.1](https://curseforge.com/minecraft/mc-mods/openblocks/files/2699056)
+  Source: [GitHub](https://github.com/OpenMods/OpenBlocks)
+
+  Requires: [OpenModsLib](#OpenModsLib)
+
+  ![](https://i.ytimg.com/vi/DqOA_c9yjgk/maxresdefault.jpg)
+*/
+mod "mods/OpenBlocks.jar" {
+  method    = "curse"
+  projectID = 228816
+  fileID    = 2699056
+}
+
+/*
+- #### [ExtraUtils](https://curseforge.com/minecraft/mc-mods/extra-utilities)
+
+  The Extra Utilities mod adds several random purposes utility blocks and items to the game.
+
+  Date: Feb 22, 2019
+  Version: [1.9.9](https://curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)
+  Source: [GitHub](https://github.com/rwtema/Extra-Utilities-2-Source)
+
+  ![](https://i.ytimg.com/vi/sSd0b0RomXw/maxresdefault.jpg)
+*/
+mod "mods/ExtraUtils.jar" {
+  method    = "curse"
+  projectID = 225561
+  fileID    = 2678374
+}
+
+/*
+- #### [LittleTiles](https://curseforge.com/minecraft/mc-mods/littletiles)
+
+  This mod allows you to build anything you want. It adds a way to add more detail to everything. You can hammer blocks into tiles which can be 4096 (or even more) times smaller than an ordinary minecraft block (you can do it even smaller, because its configurable). You can combine your tiles together to create doors, chairs, ladders, no-clip, storage and any kind of furniture structure. There are endless possibilities as shown in the trailer.
+
+  Date: Nov 20, 2019
+  Version: [1.5.0-pre180](https://curseforge.com/minecraft/mc-mods/littletiles/files/2829983)
+  Source: [GitHub](https://github.com/CreativeMD/LittleTiles)
+
+  Requires: [CreativeCore](#CreativeCore)
+*/
+mod "mods/LittleTiles.jar" {
+  method    = "curse"
+  projectID = 257818
+  fileID    = 2829983
+}
+
+/*
+- #### [Chisel](https://curseforge.com/minecraft/mc-mods/chisel)
+
+  Chisel adds a huge variety of decorative blocks to the game. The mod is very useful for people who like the construction aspect of Minecraft.
+
+  Date: Oct 21, 2019
+  Version: [1.0.1.44](https://curseforge.com/minecraft/mc-mods/chisel/files/2813538)
+  Source: [GitHub](https://github.com/Chisel-Team/Chisel)
+
+  Requires: [CTM](#CTM)
+
+  ![](https://i.imgur.com/ZAYNmbJ.png)
+*/
+mod "mods/Chisel.jar" {
+  method    = "curse"
+  projectID = 235279
+  fileID    = 2813538
+}
+
+/*
+- #### [MalisisDoors](https://curseforge.com/minecraft/mc-mods/malisisdoors)
+
+  This mod adds new animations for doors, trap doors and fence gates. It adds new several doors like glass doors, jail doors, laboratory doors, factory doors and garage doors that all have different and original animations. You can also entirely build your doors with a  machine that lets you chose the way it looks and the way it moves.
+
+  Date: Feb 1, 2018
+  Version: [7.3.0](https://curseforge.com/minecraft/mc-mods/malisisdoors/files/2526674)
+  Source: [GitHub](https://github.com/Ordinastie/MalisisDoors)
+
+  Requires: [MalisisCore](#MalisisCore)
+
+  ![](https://media.forgecdn.net/attachments/15/63/garagedoor_screen.png)
+*/
+mod "mods/MalisisDoors.jar" {
+  method    = "curse"
+  projectID = 223891
+  fileID    = 2526674
+}
+
+/*
+- #### [Blockcraftery](https://curseforge.com/minecraft/mc-mods/blockcraftery)
+
+  Blockcraftery is a mod that provides a very simple feature: Framed Blocks. Framed blocks can be placed in the world, then can be given another block’s texture by right-clicking.
+
+  Date: May 28, 2019
+  Version: [1.3.1](https://curseforge.com/minecraft/mc-mods/blockcraftery/files/2716712)
+  Source: [GitHub](https://github.com/EpicSquid/Blockcraftery)
+
+  Requires: [MysticalLib](#MysticalLib)
+
+  ![](https://i.imgur.com/m7CqhYA.jpg)
+*/
+mod "mods/Blockcraftery.jar" {
+  method    = "curse"
+  projectID = 278882
+  fileID    = 2716712
+}
+
+/*
+- #### [Quark](https://curseforge.com/minecraft/mc-mods/quark)
+
+  Quark is a fully modular mod with the objective of improving the vanilla gameplay experience. In other words, I would call it "what I would add if I was hired at mojang — the mod". Modules can be turned off and all features can be turned off individually. Some even have more in-depth configs.
+
+  Date: Aug 11, 2019
+  Version: [r1.6-177](https://curseforge.com/minecraft/mc-mods/quark/files/2759240)
+  Source: [GitHub](https://github.com/Vazkii/Quark)
+
+  ![](https://cdn.discordapp.com/attachments/568148272997466113/633372267035754547/quark_promo_2.png)
+*/
+mod "mods/Quark.jar" {
+  method    = "curse"
+  projectID = 243121
+  fileID    = 2759240
+}
+
+/*
+- #### [Torchmaster](https://curseforge.com/minecraft/mc-mods/torchmaster)
+
+  Adds a special torch which prevents mob spawning in a certain radius.
+
+  Date: Nov 19, 2019
+  Version: [1.8.1.81](https://curseforge.com/minecraft/mc-mods/torchmaster/files/2829232)
+  Source: [GitHub](https://github.com/xalcon/TorchMaster)
+
+  ![](https://media.forgecdn.net/attachments/201/574/torch_size.png)
+*/
+mod "mods/Torchmaster.jar" {
+  method    = "curse"
+  projectID = 254268
+  fileID    = 2829232
+}

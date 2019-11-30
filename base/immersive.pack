@@ -1,0 +1,120 @@
+/*
+- #### [ImmersiveEngineering](https://curseforge.com/minecraft/mc-mods/immersive-engineering)
+
+  Immersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard. Overall, it’s about realism-inspired technology.
+
+  Date: Sep 30, 2019
+  Version: [0.12-92](https://curseforge.com/minecraft/mc-mods/immersive-engineering/files/2799143)
+  Source: [GitHub](https://github.com/BluSunrize/ImmersiveEngineering)
+
+  Dependent: [ImmersiveCables](#ImmersiveCables)
+  Dependent: [ImmersivePosts](#ImmersivePosts)
+  Dependent: [ImmersivePetroleum](#ImmersivePetroleum)
+
+  ![](https://i.ytimg.com/vi/8FSIdtyuuwI/maxresdefault.jpg)
+*/
+mod "mods/ImmersiveEngineering.jar" {
+  method    = "curse"
+  projectID = 231951
+  fileID    = 2799143
+}
+
+/*
+- #### [ImmersivePetroleum](https://curseforge.com/minecraft/mc-mods/immersive-petroleum)
+
+  Immersive Petroleum is a lightweight content add-on for Immersive Engineering that introduces oil, oil extraction, and oil processing to the mod’s tech progression. It includes an expansive set of configuration options to ensure that it will be a welcome addition to any modpack that includes Immersive Engineering.
+
+  Date: Mar 25, 2018
+  Version: [1.1.9](https://curseforge.com/minecraft/mc-mods/immersive-petroleum/files/2544919)
+  Source: [GitHub](https://github.com/Flaxbeard/ImmersivePetroleum)
+
+  Requires: [ImmersiveEngineering](#ImmersiveEngineering)
+
+  Dependent: [JEP](#JEP)
+
+  ![](https://media.forgecdn.net/attachments/209/856/oilfactory.png)
+*/
+mod "mods/ImmersivePetroleum.jar" {
+  method    = "curse"
+  projectID = 268250
+  fileID    = 2544919
+}
+
+/*
+- #### [ImmersivePosts](https://curseforge.com/minecraft/mc-mods/immersiveposts)
+
+  This mod allows you to have very tall posts with some different types to choose from, instead of just the Treated-Wood, Aluminum and Steel variants.
+
+  Date: Oct 18, 2019
+  Version: [0.1.4](https://curseforge.com/minecraft/mc-mods/immersiveposts/files/2811389)
+  Source: [GitHub](https://github.com/TwistedGate/ImmersivePosts)
+
+  Requires: [ImmersiveEngineering](#ImmersiveEngineering)
+
+  ![](https://media.forgecdn.net/attachments/268/333/allposts.png)
+*/
+mod "mods/ImmersivePosts.jar" {
+  method    = "curse"
+  projectID = 314645
+  fileID    = 2811389
+}
+
+/*
+- #### [ImmersiveRailroading](https://curseforge.com/minecraft/mc-mods/immersive-railroading)
+
+  Immersive Railroading adds a new transport system (item and players) to the game. It is based on real world physics (where possible) and uses life size models to convey the true scale and grandeur of Railroading.
+
+  Note: Villagers pay with 1 emerald per 1000km (1 block is 1 meter). Nice!
+  Note: Immersive Engineering and Open Computers are recommended for full functionality.
+
+  Date: Nov 23, 2019 
+  Version: [1.7.2](https://curseforge.com/minecraft/mc-mods/immersive-railroading/files/2831104)
+  Source: [GitHub](https://github.com/TeamOpenIndustry/ImmersiveRailroading)
+
+  Requires: [TrackAPI](#TrackAPI)
+
+  ![](https://i.imgur.com/rRyPeEU.png)
+*/
+mod "mods/ImmersiveRailroading.jar" {
+  method    = "curse"
+  projectID = 277736
+  fileID    = 2831104
+}
+
+/*
+- #### [ImmersiveVehicles](https://curseforge.com/minecraft/mc-mods/minecraft-transport-simulator)
+
+  From the folks that brought you Minecraft Flight Simulator comes the all-new Immersive Vehicles mod! This mod is the result of over a year’s worth of work and is the continuation and future of Minecraft Flight Simulator.
+
+  Date: Nov 8, 2019
+  Version: [15.5.0](https://curseforge.com/minecraft/mc-mods/minecraft-transport-simulator/files/2823784)
+  Source: [GitHub](https://github.com/DonBruce64/MinecraftTransportSimulator)
+
+  Dependent: [MTSOfficialPack](#MTSOfficialPack)
+
+  ![](https://media.forgecdn.net/attachments/245/826/banner.png)
+*/
+mod "mods/ImmersiveVehicles.jar" {
+  method    = "curse"
+  projectID = 286703
+  fileID    = 2823784
+}
+
+/*
+- #### [MTSOfficialPack](https://curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set)
+
+  This is the official vehicle set for Immersive Vehicles. It contains all the vehicles that the dev team has worked on and feel fit to include into the mod.
+
+  Date: Sep 27, 2019
+  Version: [V12](https://curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set/files/2796237)
+  Source: N/A
+
+  Requires: [ImmersiveVehicles](#ImmersiveVehicles)
+
+  ![](https://media.forgecdn.net/attachments/227/591/mc172.png)
+*/
+mod "mods/MTSOfficialPack.jar" {
+  method    = "curse"
+  projectID = 292217
+  fileID    = 2796237
+}

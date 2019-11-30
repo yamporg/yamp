@@ -1,0 +1,31 @@
+/*
+- #### [PlayerRevive](https://curseforge.com/minecraft/mc-mods/playerrevive)
+
+  PlayerRevive allows to revive a player within 60 seconds after death. A stupid mistake must not be your end. Now it’s up to your friends.
+
+  Date: Oct 20, 2019
+  Version: [1.2.28](https://www.curseforge.com/minecraft/mc-mods/playerrevive/files/2812657)
+  Source: [GitHub](https://github.com/CreativeMD/PlayerRevive)
+
+  Requires: [CreativeCore](#CreativeCore)
+*/
+mod "mods/PlayerRevive.jar" {
+  method    = "curse"
+  projectID = 266890
+  fileID    = 2812657
+}
+
+/*
+- #### [MultiMine](https://curseforge.com/minecraft/mc-mods/multi-mine)
+
+  Multi Mine allows pausing and resuming breaking blocks, across players!
+
+  Date: Sep 21, 2019
+  Version: [20190921](https://curseforge.com/minecraft/mc-mods/multi-mine/files/2790649)
+  Source: [GitHub](https://github.com/AtomicStryker/atomicstrykers-minecraft-mods)
+*/
+mod "mods/MultiMine.jar" {
+  method    = "curse"
+  projectID = 227887
+  fileID    = 2790649
+}

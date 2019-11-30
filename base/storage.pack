@@ -1,0 +1,145 @@
+/*
+- #### [RefinedStorage](https://curseforge.com/minecraft/mc-mods/refined-storage)
+
+  Refined Storage is a mass storage mod for Minecraft that offers the player a network-based storage system, allowing them to store items and fluids on a massively expandable device network.
+
+  Date: Jul 21, 2019
+  Version: [1.6.15](https://curseforge.com/minecraft/mc-mods/refined-storage/files/2745458)
+  Source: [GitHub](https://github.com/raoulvdberge/refinedstorage)
+
+  Dependent: [RSAddons](#RSAddons)
+
+  ![](https://i.imgur.com/OLPN0AJ.jpg)
+*/
+mod "mods/RefinedStorage.jar" {
+  method    = "curse"
+  projectID = 243076
+  fileID    = 2745458
+}
+
+/*
+- #### [RSAddons](https://curseforge.com/minecraft/mc-mods/refined-storage-addons)
+
+  This is an addon mod for Refined Storage, from the original Refined Storage author. Adds wireless version of the Crafting Grid (needs to be charged with energy).
+
+  Date: Mar 23, 2019
+  Version: [0.4.4](https://curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2690723)
+  Source: [GitHub](https://github.com/raoulvdberge/refinedstorageaddons)
+
+  Requires: [RefinedStorage](#RefinedStorage)
+*/
+mod "mods/RSAddons.jar" {
+  method    = "curse"
+  projectID = 272302
+  fileID    = 2690723
+}
+
+/*
+- #### [ImmersiveCables](https://curseforge.com/minecraft/mc-mods/immersive-cables)
+
+  The point of the mod is that it adds IE-like cables that work with RS machines. It doesn’t merge RS and IM power/machine systems.
+
+  Date: Jul 30, 2018
+  Version: [1.3.2](https://curseforge.com/minecraft/mc-mods/immersive-cables/files/2595013)
+  Source: [GitHub](https://github.com/SanAndreasP/ImmersiveCables)
+
+  Requires: [ImmersiveEngineering](#ImmersiveEngineering)
+
+  ![](https://media.forgecdn.net/attachments/221/676/2017-12-22_23.png)
+*/
+mod "mods/ImmersiveCables.jar" {
+  method    = "curse"
+  projectID = 283992
+  fileID    = 2595013
+}
+
+/*
+- #### [StorageDrawers](https://curseforge.com/minecraft/mc-mods/storage-drawers)
+
+  Put your most frequently used items within convenient reach. Storage Drawers borrows ideas from Jabba and Bibliocraft, resulting in a highly functional, compact, and aesthetic storage solution that is meant to complement rather than replace those mods.
+
+  Date: Sep 4, 2019
+  Version: [5.4.0](https://curseforge.com/minecraft/mc-mods/storage-drawers/files/2777929)
+  Source: [GitHub](https://github.com/jaquadro/StorageDrawers)
+
+  Requires: [Chameleon](#Chameleon)
+
+  ![](https://media.forgecdn.net/attachments/15/37/scr_workshop.png)
+*/
+mod "mods/StorageDrawers.jar" {
+  method    = "curse"
+  projectID = 223852
+  fileID    = 2777929
+}
+
+/*
+- #### [EnderStorage](https://curseforge.com/minecraft/mc-mods/ender-storage-1-8)
+
+  EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time. All EnderStorage makes use of the magic of colors to link storage with its little piece of The END. Any EnderStorage with the same color code share inventory (even across dimensions).
+
+  Date: Aug 6, 2019
+  Version: [2.4.6.137](https://curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787)
+  Source: [GitHub](https://github.com/TheCBProject/EnderStorage)
+
+  Requires: [CodeChickenLib](#CodeChickenLib)
+
+  ![](https://i.ytimg.com/vi/T0rHWpzG4do/maxresdefault.jpg)
+*/
+mod "mods/EnderStorage.jar" {
+  method    = "curse"
+  projectID = 245174
+  fileID    = 2755787
+}
+
+/*
+- #### [IronBackpacks](https://curseforge.com/minecraft/mc-mods/iron-backpacks)
+
+   Iron Backpacks deals with portable storage and item manipulation through tiered backpacks and a system of modular upgrades.
+
+  Date: May 23, 2018
+  Version: [3.0.8-12](https://curseforge.com/minecraft/mc-mods/iron-backpacks/files/2564573)
+  Source: [GitHub](https://github.com/gr8pefish/IronBackpacks)
+
+  ![](https://media.forgecdn.net/attachments/74/390/looking_out_screnshot.png)
+*/
+mod "mods/IronBackpacks.jar" {
+  method    = "curse"
+  projectID = 227049
+  fileID    = 2564573
+}
+
+/*
+- #### [IronChests](https://curseforge.com/minecraft/mc-mods/iron-chests)
+
+  Iron Chests mod has chests for the various metals in vanilla minecraft with varying sizes!
+
+  Date: Jul 25, 2019
+  Version: [7.0.72.847](https://curseforge.com/minecraft/mc-mods/iron-chests/files/2747935)
+  Source: [GitHub](https://github.com/progwml6/ironchest)
+
+  ![](https://media.forgecdn.net/avatars/15/434/635625656444075090.png)
+*/
+mod "mods/IronChests.jar" {
+  method    = "curse"
+  projectID = 228756
+  fileID    = 2747935
+}
+
+/*
+- #### [Baubles](https://curseforge.com/minecraft/mc-mods/baubles)
+
+  Baubles is a small addon mod and API that is intended to be used by other mods to add additional inventory slots to a character.
+
+  Date: Jan 10, 2018
+  Version: [1.5.2](https://curseforge.com/minecraft/mc-mods/baubles/files/2518667)
+  Source: [GitHub](https://github.com/Azanor/Baubles)
+
+  Dependent: [AstralSorcery](#AstralSorcery)
+
+  ![](http://i.imgur.com/veuh8Uh.png)
+*/
+mod "mods/Baubles.jar" {
+  method    = "curse"
+  projectID = 227083
+  fileID    = 2518667
+}

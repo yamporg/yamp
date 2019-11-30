@@ -1,0 +1,33 @@
+/*
+- #### [Natura](https://curseforge.com/minecraft/mc-mods/natura)
+
+  Natura is a mod that aims to spice up the world with interesting worldgen companion to Tinkers’ Construct.
+
+  Date: May 15, 2019
+  Version: [4.3.2.69](https://curseforge.com/minecraft/mc-mods/natura/files/2711439)
+  Source: [GitHub](https://github.com/progwml6/Natura)
+
+  Requires: [Mantle](#Mantle)
+
+  ![](https://media.forgecdn.net/attachments/8/164/DCOtZ.png)
+*/
+mod "mods/Natura.jar" {
+  method    = "curse"
+  projectID = 74120
+  fileID    = 2711439
+}
+
+/*
+- #### [FlatBedrock](https://curseforge.com/minecraft/mc-mods/flatbedrockx)
+
+  This mod by default generates the bedrock layer from the overworld and both bedrock layers in the nether flat.
+
+  Date: Jun 25, 2017
+  Version: [1.4.0](https://curseforge.com/minecraft/mc-mods/flatbedrockx/files/2440978)
+  Source: [GitHub](https://github.com/bigxplosion/FlatBedrock)
+*/
+mod "mods/FlatBedrock.jar" {
+  method    = "curse"
+  projectID = 78886
+  fileID    = 2440978
+}

@@ -1,0 +1,16 @@
+/*
+- #### [LunatriusCore](https://curseforge.com/minecraft/mc-mods/lunatriuscore)
+
+  The mod is a compilation of things that other mods use.
+
+  Date: Oct 11, 2017
+  Version: [1.2.0.42](https://curseforge.com/minecraft/mc-mods/lunatriuscore/files/2489549)
+  Source: [GitHub](https://github.com/Lunatrius/LunatriusCore)
+
+  Dependent: [Stackie](#Stackie)
+*/
+mod "mods/LunatriusCore.jar" {
+  method    = "curse"
+  projectID = 225605
+  fileID    = 2489549
+}

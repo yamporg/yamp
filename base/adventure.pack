@@ -1,0 +1,52 @@
+/*
+- #### [IceAndFire](https://curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+
+  For hundreds of years, Dragons have roamed the lands of the Known World. They are not simply pests and menaces, but the main cause of the loss of many lives. Only a brave few can slay a dragon. Even less can tame one.
+
+  Date: Oct 7, 2019
+  Version: [1.8.3](https://curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/2803425)
+  Source: [GitHub](https://github.com/Alex-the-666/Ice_and_Fire)
+
+  Requires: [LLibrary](#LLibrary)
+
+  ![](https://media.forgecdn.net/attachments/259/93/12.png)
+*/
+mod "mods/IceAndFire.jar" {
+  method    = "curse"
+  projectID = 264231
+  fileID    = 2803425
+}
+
+/*
+- #### [TwilightForest](https://curseforge.com/minecraft/mc-mods/the-twilight-forest)
+
+  Twilight Forest is a dimension exploration mod focused on adventure that will take you on a journey meeting strange creatures, exploring dungeons, and much more than able to be listed.
+
+  Date: Oct 28, 2019
+  Version: [3.10.1013](https://curseforge.com/minecraft/mc-mods/the-twilight-forest/files/2818055)
+  Source: [GitHub](https://github.com/TeamTwilight/twilightforest)
+
+  ![](https://media.forgecdn.net/attachments/226/246/waterside-tower.png)
+*/
+mod "mods/TwilightForest.jar" {
+  method    = "curse"
+  projectID = 227639
+  fileID    = 2818055
+}
+
+/*
+- #### [ElectroblobsWizardry](https://curseforge.com/minecraft/mc-mods/electroblobs-wizardry)
+
+   Wizardry isn’t like most magic mods. It has very few crafting recipes and no complex constructions—instead, you progress by exploring and fighting. Find spell books, wands and scrolls! Visit fellow wizards and buy rare magical items! Explore ancient ruins in search of rare and powerful artefacts! Master the arcane and collect every single spell!
+
+  Date: Oct 6, 2019
+  Version: [4.2.5](https://curseforge.com/minecraft/mc-mods/electroblobs-wizardry/files/2802614)
+  Source: [GitHub](https://github.com/Electroblob77/Wizardry)
+
+  ![](https://media.forgecdn.net/attachments/262/906/banner-v2-small.png)
+*/
+mod "mods/ElectroblobsWizardry.jar" {
+  method    = "curse"
+  projectID = 265642
+  fileID    = 2802614
+}

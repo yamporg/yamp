@@ -1,0 +1,77 @@
+/*
+- #### [Psi](https://curseforge.com/minecraft/mc-mods/psi)
+
+  Psi is a mod about spell programming, inspired by [Mahouka](https://shikimori.one/ranobe/34127-mahouka-koukou-no-rettousei). The core of Psi is a system where you can create action sequences ("Spells") to be executed in the world. The mod makes use of basic mathematical concepts, such as Vectors in its systems, which allows for great flexibility on what spells can do.
+
+  Date: Jun 15, 2019
+  Version: [1.1-77](https://curseforge.com/minecraft/mc-mods/psi/files/2724967)
+  Source: [GitHub](https://github.com/Vazkii/Psi)
+
+  Requires: [AutoRegLib](#AutoRegLib)
+
+  Dependent: [PSIdeas](#PSIdeas)
+
+  ![](https://desu.shikimori.one/system/user_images/original/23002/255563.jpg)
+*/
+mod "mods/Psi.jar" {
+  method    = "curse"
+  projectID = 241665
+  fileID    = 2724967
+}
+
+/*
+- #### [PSIdeas](https://curseforge.com/minecraft/mc-mods/random-psideas)
+
+  Random PSIdeas is an addon to PSI, a mod made by Vazkii.
+
+  Date: Jun 17, 2019
+  Version: [2.4.2](https://curseforge.com/minecraft/mc-mods/random-psideas/files/2725942)
+  Source: [GitHub](https://github.com/Kamefrede/psitestaddon)
+
+  Requires: [AutoRegLib](#AutoRegLib)
+  Requires: [Forgelin](#Forgelin)
+  Requires: [LibrarianLib](#LibrarianLib)
+*/
+mod "mods/PSIdeas.jar" {
+  method    = "curse"
+  projectID = 302313
+  fileID    = 2725942
+}
+
+/*
+- #### [AstralSorcery](https://curseforge.com/minecraft/mc-mods/astral-sorcery)
+
+  Astral Sorcery is a magic mod focused around harnessing the powers of starlight and the constellations.
+
+  Date: Aug 8, 2019
+  Version: [1.10.20](https://curseforge.com/minecraft/mc-mods/astral-sorcery/files/2757379)
+  Source: [GitHub](https://github.com/HellFirePvP/AstralSorcery)
+
+  Requires: [Baubles](#Baubles)
+
+  ![](https://media.forgecdn.net/attachments/194/1/2017-02-10_03.png)
+*/
+mod "mods/AstralSorcery.jar" {
+  method    = "curse"
+  projectID = 241721
+  fileID    = 2757379
+}
+
+/*
+- #### [BloodMagic](https://curseforge.com/minecraft/mc-mods/blood-magic)
+
+  Blood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly. You have been warned.
+
+  Date: Nov 5, 2019
+  Version: [2.4.3-105](https://curseforge.com/minecraft/mc-mods/blood-magic/files/2822288)
+  Source: [GitHub](https://github.com/WayofTime/BloodMagic)
+
+  Requires: [GuideAPI](#GuideAPI)
+
+  ![](https://media.forgecdn.net/attachments/225/431/dylygn3nau.png)
+*/
+mod "mods/BloodMagic.jar" {
+  method    = "curse"
+  projectID = 224791
+  fileID    = 2822288
+}

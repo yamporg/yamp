@@ -1,0 +1,96 @@
+/*
+- #### [OpenComputers](https://curseforge.com/minecraft/mc-mods/opencomputers)
+
+  This mod adds computers that can be programmed in Lua 5.2 and 5.3. Computers persist across saves (i.e. execution resumes where the computer was saved when it is loaded again), they are highly modular (there are graphics cards, network cards, redstone cards, etc).
+
+  Date: Nov 17, 2019
+  Version: [1.7.5.192](https://curseforge.com/minecraft/mc-mods/opencomputers/files/2828357)
+  Source: [GitHub](https://github.com/MightyPirates/OpenComputers)
+
+  Dependent: [OpenScreens](#OpenScreens)
+  Dependent: [OpenSec](#OpenSec)
+  Dependent: [TinkersOC](#TinkersOC)
+  Dependent: [OCSensors](#OCSensors)
+
+  ![](https://media.forgecdn.net/attachments/14/519/2014-08-14_17.png)
+*/
+mod "mods/OpenComputers.jar" {
+  method    = "curse"
+  projectID = 223008
+  fileID    = 2828357
+}
+
+/*
+- #### [OpenScreens](https://curseforge.com/minecraft/mc-mods/openscreens)
+
+  OpenScreens adds more display options for OpenComputers.
+
+  Date: Aug 5, 2019
+  Version: [1.0.1](https://curseforge.com/minecraft/mc-mods/openscreens/files/2754959)
+  Source: [GitHub](https://github.com/itsmeow/OpenScreens)
+
+  Requires: [OpenComputers](#OpenComputers)
+
+  ![](https://media.forgecdn.net/attachments/255/318/7vhjuou.png)
+*/
+mod "mods/OpenScreens.jar" {
+  method    = "curse"
+  projectID = 325357
+  fileID    = 2754959
+}
+
+/*
+- #### [OpenSec](https://curseforge.com/minecraft/mc-mods/opensecurity)
+
+  Adds security oriented components for use with OpenComputers, RFID Cards, MagStrip cards, Alarms and Entity Detectors.
+
+  Date: Oct 13, 2019
+  Version: [1.0-39](https://curseforge.com/minecraft/mc-mods/opensecurity/files/2808550)
+  Source: [GitHub](https://github.com/PC-Logix/OpenSecurity)
+
+  Requires: [OpenComputers](#OpenComputers)
+
+  ![](https://i.imgur.com/Q3vFdcs.png)
+*/
+mod "mods/OpenSec.jar" {
+  method    = "curse"
+  projectID = 231687
+  fileID    = 2808550
+}
+
+/*
+- #### [OCSensors](https://curseforge.com/minecraft/mc-mods/oc-sensors)
+
+  Sensor Addon for OpenComputers that allows computers to scan surrounding blocks.
+
+  Date: Jan 28, 2018
+  Version: [1.0.4-b23](https://curseforge.com/minecraft/mc-mods/oc-sensors/files/2525195)
+  Source: [GitHub](https://github.com/thraaawn/ocsensors)
+
+  Requires: [OpenComputers](#OpenComputers)
+*/
+mod "mods/OCSensors.jar" {
+  method    = "curse"
+  projectID = 269054
+  fileID    = 2525195
+}
+
+/*
+- #### [TinkersOC](https://curseforge.com/minecraft/mc-mods/opencomputers-drivers-for-tinkers-construct)
+
+  This is a simple mod that adds OpenComputers Drivers for the three Tinker’s Construct multiblocks (Smeltery, Furnace, and Tank).
+
+  Note: To use this, place an adapter next to the controller of the machine and use the components command to see the component name.
+
+  Date: Dec 8, 2018
+  Version: [0.6](https://curseforge.com/minecraft/mc-mods/opencomputers-drivers-for-tinkers-construct/files/2645185)
+  Source: [GitHub](https://github.com/BrisingrAerowing/TinkersOCDrivers)
+
+  Requires: [TConstruct](#TConstruct)
+  Requires: [OpenComputers](#OpenComputers)
+*/
+mod "mods/TinkersOC.jar" {
+  method    = "curse"
+  projectID = 287267
+  fileID    = 2645185
+}

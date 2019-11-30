@@ -1,0 +1,57 @@
+/*
+- #### [Hwyla](https://curseforge.com/minecraft/mc-mods/hwyla/files)
+
+  HWYLA (Pronounced "Hwhy-la", similar to "Coo-Hwhip") fork of WAILA, a UI improvement mod aimed at providing block information directly ingame, without the need of opening an UI. It provides a small unobtrusive tooltip on top of the screen with informations about the block the player is looking at.
+
+  Date: Jun 3, 2018
+  Version: [1.8.26-B41](https://curseforge.com/minecraft/mc-mods/hwyla/files/2568751)
+  Source: [GitHub](https://github.com/TehNut/HWYLA)
+
+  Dependent: [Wawla](#Wawla)
+  Dependent: [Harvestability](#Harvestability)
+
+  ![](https://media.forgecdn.net/attachments/113/750/5glunyenvt.png)
+*/
+mod "mods/Hwyla.jar" {
+  method    = "curse"
+  projectID = 253449
+  fileID    = 2568751
+}
+
+/*
+- #### [Wawla](https://curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at)
+
+  What Are We Looking At (WAWLA) helps provide in game documentation for vanilla and modded content.
+
+  Date: May 4, 2019
+  Version: [2.5.273](https://curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at/files/2707185)
+  Source: [GitHub](https://github.com/Darkhax-Minecraft/WAWLA)
+
+  Requires: [Hwyla](#Hwyla)
+
+  ![](https://media.forgecdn.net/attachments/16/101/caziq4a.png)
+*/
+mod "mods/Wawla.jar" {
+  method    = "curse"
+  projectID = 224712
+  fileID    = 2707185
+}
+
+/*
+- #### [Harvestability](https://curseforge.com/minecraft/mc-mods/waila-harvestability)
+
+  A client-side add-on for Hwyla that adds information about the harvestability of what you are looking at.
+
+  Date: Sep 19, 2017
+  Version: [1.1.12](https://curseforge.com/minecraft/mc-mods/waila-harvestability/files/2481605)
+  Source: [GitHub](https://github.com/squeek502/WailaHarvestability)
+
+  Requires: [Hwyla](#Hwyla)
+
+  ![](https://i.imgur.com/Wrq7Muv.png)
+*/
+mod "mods/Harvestability.jar" {
+  method    = "curse"
+  projectID = 79287
+  fileID    = 2481605
+}

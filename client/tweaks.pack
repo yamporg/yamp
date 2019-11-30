@@ -1,0 +1,82 @@
+/*
+- #### [TreeCapitator](https://curseforge.com/minecraft/mc-mods/treecapitator-updated)
+
+  This mod allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Based on Terraria tree-cutting style.
+
+  Date: Jun 10, 2019
+  Version: [1.43.0](https://curseforge.com/minecraft/mc-mods/treecapitator-updated/files/2722878)
+  Source: [GitHub](https://github.com/mrihtar/Treecapitator)
+
+  Requires: [bspkrsCore](#bspkrsCore)
+*/
+mod "mods/TreeCapitator.jar" {
+  method    = "curse"
+  projectID = 324007
+  fileID    = 2722878
+}
+
+/*
+- #### [MouseTweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
+
+  Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel.
+
+  Date: Feb 11, 2019
+  Version: [2.10](https://curseforge.com/minecraft/mc-mods/mouse-tweaks/files/2671937)
+  Source: [GitHub](https://github.com/YaLTeR/MouseTweaks)
+
+  ![](https://i.imgur.com/NCRED.png)
+*/
+mod "mods/MouseTweaks.jar" {
+  method    = "curse"
+  projectID = 60089
+  fileID    = 2671937
+}
+
+/*
+- #### [InvTweaks](https://curseforge.com/minecraft/mc-mods/inventory-tweaks)
+
+  Inventory Tweaks allows you to easily manage your inventory.
+
+  Date: Sep 21, 2017
+  Version: [1.63](https://curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481)
+  Source: [GitHub](https://github.com/Inventory-Tweaks/inventory-tweaks)
+
+  ![](http://modding.kalam-alami.net/img/invtweaksdemo.jpg)
+*/
+mod "mods/InvTweaks.jar" {
+  method    = "curse"
+  projectID = 223094
+  fileID    = 2482481
+}
+
+/*
+- #### [CraftTweaks](https://curseforge.com/minecraft/mc-mods/crafting-tweaks)
+
+  Crafting Tweaks allows you to rotate, balance or clear the crafting matrix by the press of a button.
+
+  Date: May 15, 2018
+  Version: [8.1.9](https://curseforge.com/minecraft/mc-mods/crafting-tweaks/files/2562139)
+  Source: [GitHub](https://github.com/blay09/CraftingTweaks)
+
+  ![](https://media.forgecdn.net/attachments/27/143/ctprom2.png)
+*/
+mod "mods/CraftTweaks.jar" {
+  method    = "curse"
+  projectID = 233071
+  fileID    = 2562139
+}
+
+/*
+- #### [Controlling](https://curseforge.com/minecraft/mc-mods/controlling)
+
+  Adds the ability to search for keybinds using their name in the KeyBinding menu, this allows players to easily find a key binding in the menu.
+
+  Date: Jun 27, 2019
+  Version: [3.0.7](https://curseforge.com/minecraft/mc-mods/controlling/files/2731319)
+  Source: [GitHub](https://github.com/jaredlll08/Controlling)
+*/
+mod "mods/Controlling.jar" {
+  method    = "curse"
+  projectID = 250398
+  fileID    = 2731319
+}

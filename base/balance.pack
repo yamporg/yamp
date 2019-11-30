@@ -1,0 +1,18 @@
+/*
+- #### [UniDict](https://curseforge.com/minecraft/mc-mods/unidict)
+
+  UniDict is an unification mod. It standardizes the output of all recipes (that it has integration with), not just for crafting table recipes, but for a lot of machines throughout several mods.
+
+  Date: Sep 27, 2019
+  Version: [2.9.3](https://curseforge.com/minecraft/mc-mods/unidict/files/2796682)
+  Source: [GitHub](https://github.com/WanionCane/UniDict)
+
+  Requires: [WanionLib](#WanionLib)
+
+  ![](https://media.forgecdn.net/attachments/35/243/pelletstoirondust.png)
+*/
+mod "mods/UniDict.jar" {
+  method    = "curse"
+  projectID = 244258
+  fileID    = 2796682
+}

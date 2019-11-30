@@ -1,0 +1,76 @@
+/*
+- #### [JEI](https://curseforge.com/minecraft/mc-mods/jei)
+
+  JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
+
+  Date: Oct 7, 2019
+  Version: [4.15.0.291](https://curseforge.com/minecraft/mc-mods/jei/files/2803400)
+  Source: [GitHub](https://github.com/mezz/JustEnoughItems)
+
+  Dependent: [JER](#JER)
+  Dependent: [JEP](#JEP)
+  Dependent: [JETIF](#JETIF)
+
+  ![](https://media.forgecdn.net/attachments/31/417/thzzdin.png)
+*/
+mod "mods/JEI.jar" {
+  method    = "curse"
+  projectID = 238222
+  fileID    = 2803400
+}
+
+/*
+- #### [JER](https://curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+
+  Just Enough Resources adds JEI integration for world resources like ores and mob drops.
+
+  Date: Jun 23, 2019
+  Version: [0.9.2.60](https://curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585)
+  Source: [GitHub](https://github.com/way2muchnoise/JustEnoughResources)
+
+  Requires: [JEI](#JEI)
+
+  ![](http://puu.sh/mDciM/6661bf0438.gif)
+*/
+mod "mods/JER.jar" {
+  method    = "curse"
+  projectID = 240630
+  fileID    = 2728585
+}
+
+/*
+- #### [JETIF](https://curseforge.com/minecraft/mc-mods/jetif)
+
+  JETIF adds JEI support for throwing items into fluids placed in the world to create either different fluids or new items.
+
+  Date: Jun 30, 2019
+  Version: [1.5.1](https://curseforge.com/minecraft/mc-mods/jetif/files/2733301)
+  Source: [GitHub](https://github.com/Lykrast/JETIF)
+
+  Requires: [JEI](#JEI)
+
+  ![](https://media.forgecdn.net/attachments/237/155/example.png)
+*/
+mod "mods/JETIF.jar" {
+  method    = "curse"
+  projectID = 303122
+  fileID    = 2733301
+}
+
+/*
+- #### [JEP](https://curseforge.com/minecraft/mc-mods/just-enough-petroleum)
+
+  This mod simply adds JEI support for Immersive Petroleum recipes.
+
+  Date: Apr 7, 2018
+  Version: [0.1](https://curseforge.com/minecraft/mc-mods/just-enough-petroleum/files/2549332)
+  Source: [GitHub](https://github.com/DaedalusGame/JustEnoughPetroleum)
+
+  Requires: [JEI](#JEI)
+  Requires: [ImmersivePetroleum](#ImmersivePetroleum)
+*/
+mod "mods/JEP.jar" {
+  method    = "curse"
+  projectID = 291727
+  fileID    = 2549332
+}

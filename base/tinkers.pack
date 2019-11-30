@@ -1,0 +1,60 @@
+/*
+- #### [TConstruct](https://curseforge.com/minecraft/mc-mods/tinkers-construct)
+
+  Tinkers’ Construct is a mod about putting tools together in a wide variety of ways, then modifying them until they turn into something else. The tools never disappear and can be named and changed to your heart’s desire. Once you make them, they’re yours forever. Many different materials can be used to make your tools.
+
+  Date: Jun 27, 2019
+  Version: [2.12.0.157](https://curseforge.com/minecraft/mc-mods/tinkers-construct/files/2731543)
+  Source: [GitHub](https://github.com/SlimeKnights/TinkersConstruct)
+
+  Requires: [Mantle](#Mantle)
+
+  Dependent: [TinkerToolLeveling](#TinkerToolLeveling)
+  Dependent: [TinkersComplement](#TinkersComplement)
+  Dependent: [TinkersOC](#TinkersOC)
+
+  ![](https://i.imgur.com/bAQVdkb.png)
+*/
+mod "mods/TConstruct.jar" {
+  method    = "curse"
+  projectID = 74072
+  fileID    = 2731543
+}
+
+/*
+- #### [TinkerToolLeveling](https://curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)
+
+  Remember the good old days when you played GTA, used the cheat code for a tank, and then went on and caused mayhem? This mod is like that, except for Tinkers’ Construct Tools and the cheatcode takes longer to enter.
+
+  Date: Oct 23, 2018
+  Version: [1.1.0](https://curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/files/2630860)
+  Source: [GitHub](https://github.com/SlimeKnights/TinkersToolLeveling)
+
+  Requires: [TConstruct](#TConstruct)
+
+  ![](https://media.forgecdn.net/avatars/50/510/636091756433815224.png)
+*/
+mod "mods/TinkerToolLeveling.jar" {
+  method    = "curse"
+  projectID = 250957
+  fileID    = 2630860
+}
+
+/*
+- #### [TinkersComplement](https://curseforge.com/minecraft/mc-mods/tinkers-complement)
+
+  Addon for Tinkers Construct to bring compatibility and features that don’t fit in the base.
+
+  Date: Jun 20, 2019
+  Version: [0.4.2](https://curseforge.com/minecraft/mc-mods/tinkers-complement/files/2727094)
+  Source: [GitHub](https://github.com/KnightMiner/TinkersComplement)
+
+  Requires: [TConstruct](#TConstruct)
+
+  ![](https://media.forgecdn.net/attachments/244/2/2019-01-06_20.png)
+*/
+mod "mods/TinkersComplement.jar" {
+  method    = "curse"
+  projectID = 272671
+  fileID    = 2727094
+}

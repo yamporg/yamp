@@ -1,0 +1,14 @@
+/*
+- #### [BetterAnimals](https://curseforge.com/minecraft/mc-mods/better-animal-models)
+
+  Have you ever looked at the common pigs, chickens, cows, etc, then looked at the horse? You may have noticed a clear difference in design, and how much better the horse looked. As you know, something similar happened in 1.13, but in reverse. So the question is, why make the horse worse when you could make the other animals better? This mod aims to do just that. This mod is very simple in its goal—better animal models but without adding genders, breeds, special care, etc., as some of us simply want the vanilla animals to look a bit better.
+
+  Date: May 14, 2019
+  Version: [5.2.1](https://curseforge.com/minecraft/mc-mods/better-animal-models/files/2711061)
+  Source: [GitHub](https://github.com/cybercat5555/BetterAnimals)
+*/
+mod "mods/BetterAnimals.jar" {
+  method    = "curse"
+  projectID = 287443
+  fileID    = 2711061
+}
