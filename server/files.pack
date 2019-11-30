@@ -1,3 +1,7 @@
 mod "eula.txt" {
   file = "files/eula.txt"
 }
+
+mod "server.properties" {
+  file = "files/server.properties"
+}
