@@ -51,20 +51,3 @@ mod "mods/RoguelikeDungeons.jar" {
   projectID = 221585
   fileID    = 2492586
 }
-
-/*
-- #### [DoomlikeDungeons](https://curseforge.com/minecraft/mc-mods/project-74246)
-
-  This mod will add dungeons meant to resemble levels from retro "2 1/2d" first-person shooters, and was inspired by earlier dungeons mods and by Oblige (especially version 3.57), a random level generator for Doom. The goal is to create interesting, tactically challenging, and highly varied multi-room dungeons that are fun to explore and rewarding to conquer.
-
-  Date: Aug 22, 2019
-  Version: [1.12.10](https://curseforge.com/minecraft/mc-mods/project-74246/files/2767198)
-  Source: [GitHub](https://github.com/BlackJar72/DoomlikeDungeons)
-
-  ![](https://media.forgecdn.net/attachments/243/435/2018-12-28_13.png)
-*/
-mod "mods/DoomlikeDungeons.jar" {
-  method    = "curse"
-  projectID = 74246
-  fileID    = 2767198
-}
