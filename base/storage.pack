@@ -54,25 +54,6 @@ mod "mods/ImmersiveCables.jar" {
 }
 
 /*
-- #### [StorageDrawers](https://curseforge.com/minecraft/mc-mods/storage-drawers)
-
-  Put your most frequently used items within convenient reach. Storage Drawers borrows ideas from Jabba and Bibliocraft, resulting in a highly functional, compact, and aesthetic storage solution that is meant to complement rather than replace those mods.
-
-  Date: Sep 4, 2019
-  Version: [5.4.0](https://curseforge.com/minecraft/mc-mods/storage-drawers/files/2777929)
-  Source: [GitHub](https://github.com/jaquadro/StorageDrawers)
-
-  Requires: [Chameleon](#Chameleon)
-
-  ![](https://media.forgecdn.net/attachments/15/37/scr_workshop.png)
-*/
-mod "mods/StorageDrawers.jar" {
-  method    = "curse"
-  projectID = 223852
-  fileID    = 2777929
-}
-
-/*
 - #### [EnderStorage](https://curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 
   EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time. All EnderStorage makes use of the magic of colors to link storage with its little piece of The END. Any EnderStorage with the same color code share inventory (even across dimensions).

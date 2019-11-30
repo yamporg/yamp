@@ -162,21 +162,6 @@ mod "mods/McJtyLib.jar" {
 }
 
 /*
-- #### [Chameleon](https://curseforge.com/minecraft/mc-mods/chameleon)
-
-  Date: Jul 15, 2017
-  Version: [4.1.3](https://curseforge.com/minecraft/mc-mods/chameleon/files/2450900)
-  Source: [GitHub](https://github.com/jaquadro/Chameleon)
-
-  Dependent: [StorageDrawers](#StorageDrawers)
-*/
-mod "mods/Chameleon.jar" {
-  method    = "curse"
-  projectID = 230497
-  fileID    = 2450900
-}
-
-/*
 - #### [AutoRegLib](https://curseforge.com/minecraft/mc-mods/autoreglib)
 
   Date: Jul 22, 2019
