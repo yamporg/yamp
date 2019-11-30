@@ -10,6 +10,10 @@ mod "optionsof.txt" {
   file = "files/optionsof.txt"
 }
 
+mod "config/forge.cfg" {
+  file = "files/config/forge.cfg"
+}
+
 mod "config/reccomplex.cfg" {
   file = "files/config/reccomplex.cfg"
 }
@@ -40,4 +44,20 @@ mod "config/improvedmobs/main.cfg" {
 
 mod "config/multimine.cfg" {
   file = "files/config/multimine.cfg"
+}
+
+mod "config/huntingdim/huntingdim.cfg" {
+  file = "files/config/huntingdim/huntingdim.cfg"
+}
+
+mod "config/playerrevive.cfg" {
+  file = "files/config/playerrevive.cfg"
+}
+
+mod "config/psi.cfg" {
+  file = "files/config/psi.cfg"
+}
+
+mod "config/First Aid.cfg" {
+  file = "files/config/First Aid.cfg"
 }
