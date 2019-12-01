@@ -54,25 +54,6 @@ mod "mods/ImmersiveCables.jar" {
 }
 
 /*
-- #### [EnderStorage](https://curseforge.com/minecraft/mc-mods/ender-storage-1-8)
-
-  EnderStorage is a mod that offers a means to store your items in The END, causing them to be everywhere and nowhere at the same time. All EnderStorage makes use of the magic of colors to link storage with its little piece of The END. Any EnderStorage with the same color code share inventory (even across dimensions).
-
-  Date: Aug 6, 2019
-  Version: [2.4.6.137](https://curseforge.com/minecraft/mc-mods/ender-storage-1-8/files/2755787)
-  Source: [GitHub](https://github.com/TheCBProject/EnderStorage)
-
-  Requires: [CodeChickenLib](#CodeChickenLib)
-
-  ![](https://i.ytimg.com/vi/T0rHWpzG4do/maxresdefault.jpg)
-*/
-mod "mods/EnderStorage.jar" {
-  method    = "curse"
-  projectID = 245174
-  fileID    = 2755787
-}
-
-/*
 - #### [IronBackpacks](https://curseforge.com/minecraft/mc-mods/iron-backpacks)
 
   Iron Backpacks deals with portable storage and item manipulation through tiered backpacks and a system of modular upgrades.

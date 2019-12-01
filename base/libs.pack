@@ -181,7 +181,6 @@ mod "mods/MysticalLib.jar" {
   Source: [GitHub](https://github.com/TheCBProject/CodeChickenLib)
 
   Dependent: [ThermalExpansion](#ThermalExpansion)
-  Dependent: [EnderStorage](#EnderStorage)
 */
 mod "mods/CodeChickenLib.jar" {
   method    = "curse"
