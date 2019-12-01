@@ -74,23 +74,3 @@ mod "mods/OCSensors.jar" {
   projectID = 269054
   fileID    = 2525195
 }
-
-/*
-- #### [TinkersOC](https://curseforge.com/minecraft/mc-mods/opencomputers-drivers-for-tinkers-construct)
-
-  This is a simple mod that adds OpenComputers Drivers for the three Tinker’s Construct multiblocks (Smeltery, Furnace, and Tank).
-
-  Note: To use this, place an adapter next to the controller of the machine and use the components command to see the component name.
-
-  Date: Dec 8, 2018
-  Version: [0.6](https://curseforge.com/minecraft/mc-mods/opencomputers-drivers-for-tinkers-construct/files/2645185)
-  Source: [GitHub](https://github.com/BrisingrAerowing/TinkersOCDrivers)
-
-  Requires: [TConstruct](#TConstruct)
-  Requires: [OpenComputers](#OpenComputers)
-*/
-mod "mods/TinkersOC.jar" {
-  method    = "curse"
-  projectID = 287267
-  fileID    = 2645185
-}
