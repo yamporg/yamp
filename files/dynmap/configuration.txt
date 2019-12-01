@@ -78,6 +78,10 @@ defaultzoom: 0
 defaultworld: world
 defaultmap: flat
 
+# Don’t render the world if players are online.
+fullrenderplayerlimit: 2
+updateplayerlimit: 2
+
 # Some of the options below are likely to be required,
 # but I don’t have time to expirement with them.
 
@@ -106,8 +110,6 @@ timesliceinterval: 0.0
 maxchunkspertick: 200
 progressloginterval: 100
 updaterate: 2000
-fullrenderplayerlimit: 0
-updateplayerlimit: 0
 per-tick-time-limit: 50
 update-min-tps: 18.0
 fullrender-min-tps: 18.0
