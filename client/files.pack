@@ -5,3 +5,7 @@ mod "options.txt" {
 mod "optionsof.txt" {
   file = "files/optionsof.txt"
 }
+
+mod "config/antiqueatlas/atlas_overlay.cfg" {
+  file = "files/config/antiqueatlas/atlas_overlay.cfg"
+}
