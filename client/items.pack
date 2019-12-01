@@ -7,6 +7,7 @@
   Version: [4.15.0.291](https://curseforge.com/minecraft/mc-mods/jei/files/2803400)
   Source: [GitHub](https://github.com/mezz/JustEnoughItems)
 
+  Dependent: [JEC](#JEC)
   Dependent: [JER](#JER)
   Dependent: [JEP](#JEP)
   Dependent: [JETIF](#JETIF)
@@ -17,6 +18,25 @@ mod "mods/JEI.jar" {
   method    = "curse"
   projectID = 238222
   fileID    = 2803400
+}
+
+/*
+- #### [JEC](https://curseforge.com/minecraft/mc-mods/just-enough-calculation)
+
+  JEC adds a simple calculator to help you calculate how many of resources you need to gather for certain items.
+
+  Date: Sep 23, 2019
+  Version: [](https://curseforge.com/minecraft/mc-mods/just-enough-calculation/files/2791973)
+  Source: [GitHub](https://github.com/Towdium/JustEnoughCalculation)
+
+  Requires: [JEI](#JEI)
+
+  ![](https://media.forgecdn.net/attachments/35/145/2016-04-18_22.png)
+*/
+mod "mods/JEC.jar" {
+  method    = "curse"
+  projectID = 242223
+  fileID    = 2791973
 }
 
 /*
