@@ -152,6 +152,7 @@ mod "mods/McJtyLib.jar" {
   Source: [GitHub](https://github.com/Vazkii/AutoRegLib)
 
   Dependent: [Psi](#Psi)
+  Dependent: [AkashicTome](#AkashicTome)
 */
 mod "mods/AutoRegLib.jar" {
   method    = "curse"

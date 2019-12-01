@@ -1,4 +1,21 @@
 /*
+- #### [AkashicTome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
+
+  Akashic Tome adds an item that can be combined with mods’ documentation books, and can store as many as you can fit in there.
+
+  Date: Dec 16, 2018
+  Version: [1.2-12](https://curseforge.com/minecraft/mc-mods/akashic-tome/files/2648656)
+  Source: [GitHub](https://github.com/Vazkii/AkashicTome)
+
+  Requires: [AutoRegLib](#AutoRegLib)
+*/
+mod "mods/AkashicTome.jar" {
+  method    = "curse"
+  projectID = 250577
+  fileID    = 2648656
+}
+
+/*
 - #### [OpenBlocks](https://curseforge.com/minecraft/mc-mods/openblocks)
 
   OpenBlocks introduces a range of random ideas into Minecraft. There is no theme. Really.
