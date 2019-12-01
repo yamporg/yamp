@@ -14,3 +14,20 @@ mod "mods/GottaGoFast.jar" {
   projectID = 282064
   fileID    = 2553444
 }
+
+/*
+- #### [RCONFix](https://curseforge.com/minecraft/mc-mods/rcon-newline-fix)
+
+  This is a core mod that adds the missing newlines in multiline rcon replies.
+
+  Note: It is basically a fix for https://bugs.mojang.com/browse/MC-7569
+
+  Date: Dec 17, 2017
+  Version: [1.2.0](https://curseforge.com/minecraft/mc-mods/rcon-newline-fix/files/2510740)
+  Source: [GitHub](https://github.com/fraenkelc/RCONNewlineFix)
+*/
+mod "mods/RCONFix.jar" {
+  method    = "curse"
+  projectID = 257178
+  fileID    = 2510740
+}
