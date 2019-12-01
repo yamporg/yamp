@@ -1,0 +1,121 @@
+deftemplatesuffix: lowres
+
+# Save tiles in a single-file sqlite db.
+storage:
+  type: sqlite
+  dbfile: dynmap.db
+
+# Pin sidebar on the Web UI.
+sidebaropened: 'pinned'
+
+# Don’t match IP with user IDs.
+persist-ids-by-ip: false
+
+components:
+  - class: org.dynmap.ClientConfigurationComponent
+
+  - class: org.dynmap.InternalClientUpdateComponent
+    sendhealth: true
+    sendposition: true
+    allowwebchat: true
+    hidewebchatip: true
+    use-player-login-ip: false
+
+  - class: org.dynmap.SimpleWebChatComponent
+    allowchat: true
+
+  - class: org.dynmap.MarkersComponent
+    type: markers
+    showofflineplayers: true
+    offlinehidebydefault: false
+    # Show offline players for one week (10080 minutes).
+    maxofflinetime: 10080
+    # Show spawn marker.
+    showspawn: true
+    spawnicon: world
+    spawnlabel: "Spawn"
+
+  - class: org.dynmap.ClientComponent
+    type: chat
+
+  - class: org.dynmap.ClientComponent
+    type: chatballoon
+    focuschatballoons: false
+
+  - class: org.dynmap.ClientComponent
+    type: chatbox
+    showplayerfaces: true
+    messagettl: 5
+    sendbutton: true
+
+  - class: org.dynmap.ClientComponent
+    type: playermarkers
+    showplayerfaces: true
+    showplayerhealth: true
+    showplayerbody: true
+
+  - class: org.dynmap.ClientComponent
+    type: timeofdayclock
+    showdigitalclock: true
+    showweather: true
+
+  # Display word coordinate at cursor position.
+  - class: org.dynmap.ClientComponent
+    type: coord
+    label: "Location"
+    hidey: false
+    show-mcr: false
+
+# Render ores. It’s OK to reveal them on the map.
+hideores: false
+
+render-triggers:
+  - blockupdate
+  - chunkpopulate
+  - chunkgenerate
+
+defaultzoom: 0
+defaultworld: world
+defaultmap: flat
+
+# Some of the options below are likely to be required,
+# but I don’t have time to expirement with them.
+
+display-whitelist: false
+renderinterval: 1
+renderacceleratethreshold: 60
+renderaccelerateinterval: 0.2
+saverestorepending: true
+save-pending-period: 900
+zoomoutperiod: 30
+initial-zoomout-validate: true
+tileupdatedelay: 30
+enabletilehash: true
+smooth-lighting: true
+use-brightness-table: true
+image-format: png
+use-generated-textures: true
+correct-water-lighting: true
+transparent-leaves: true
+ctm-support: true
+custom-colors-support: true
+compass-mode: newnorth
+login-enabled: false
+login-required: false
+timesliceinterval: 0.0
+maxchunkspertick: 200
+progressloginterval: 100
+updaterate: 2000
+fullrenderplayerlimit: 0
+updateplayerlimit: 0
+per-tick-time-limit: 50
+update-min-tps: 18.0
+fullrender-min-tps: 18.0
+zoomout-min-tps: 18.0
+showplayerfacesinmenu: true
+grayplayerswhenhidden: true
+showlayercontrol: true
+snapshotcachesize: 500
+soft-ref-cache: true
+verbose: false
+dump-missing-blocks: false

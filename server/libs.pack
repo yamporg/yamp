@@ -14,3 +14,19 @@ mod "mods/LunatriusCore.jar" {
   projectID = 225605
   fileID    = 2489549
 }
+
+/*
+- #### [SQLiteJDBC](https://github.com/xerial/sqlite-jdbc)
+
+  SQLite JDBC, developed by Taro L. Saito, is a library for accessing and creating SQLite database files in Java.
+
+  Date: Jun 25, 2019
+  Version: [3.28.0](https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0)
+  Source: [GitHub](https://github.com/xerial/sqlite-jdbc)
+
+  Dependent: [Dynmap](#Dynmap)
+*/
+mod "mods/SQLiteJDBC.jar" {
+  method = "http"
+  file   = "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0/sqlite-jdbc-3.28.0.jar"
+}

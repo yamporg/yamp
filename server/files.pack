@@ -6,6 +6,10 @@ mod "server.properties" {
   file = "files/server.properties"
 }
 
+mod "dynmap/configuration.txt" {
+  file = "files/dynmap/configuration.txt"
+}
+
 mod "config/worldedit/worldedit.properties" {
   file = "files/config/worldedit/worldedit.properties"
 }

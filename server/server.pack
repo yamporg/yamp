@@ -7,6 +7,8 @@
   Version: [3.0-beta-4](https://curseforge.com/minecraft/mc-mods/dynmapforge/files/2722448)
   Source: [GitHub](https://github.com/webbukkit/dynmap)
 
+  Requires: [SQLiteJDBC](#SQLiteJDBC)
+
   ![](https://media.forgecdn.net/attachments/8/340/dynmap3.png)
 */
 mod "mods/Dynmap.jar" {
