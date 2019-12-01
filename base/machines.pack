@@ -37,23 +37,6 @@ mod "mods/AdvancedSolars.jar" {
 }
 
 /*
-- #### [Railcraft](https://curseforge.com/minecraft/mc-mods/railcraft)
-
-  Have you ever wished trains and rails had received a bit more attention during the development of Minecraft? Well that ends now! In their place are a ton of new cool tools to build your giant rail system. If you ever cared about train tracks and what you make, you won’t ever look back!
-
-  Date: Mar 16, 2019
-  Version: [12.0.0](https://curseforge.com/minecraft/mc-mods/railcraft/files/2687757)
-  Source: [GitHub](https://github.com/Railcraft/Railcraft)
-
-  ![](https://media.forgecdn.net/attachments/15/559/overview.jpg)
-*/
-mod "mods/Railcraft.jar" {
-  method    = "curse"
-  projectID = 51195
-  fileID    = 2687757
-}
-
-/*
 - #### [ThermalExpansion](https://curseforge.com/minecraft/mc-mods/thermal-expansion)
 
   Expanding Minecraft Thermally! A server-friendly and content-rich blend of magic and technology!
