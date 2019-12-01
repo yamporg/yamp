@@ -54,23 +54,6 @@ mod "mods/Railcraft.jar" {
 }
 
 /*
-- #### [Forestry](https://curseforge.com/minecraft/mc-mods/forestry)
-
-  Forestry deals with farming, renewable energy production as well as the breeding of trees, bees and butterflies in Minecraft.
-
-  Date: Mar 8, 2019
-  Version: [5.8.2.387](https://curseforge.com/minecraft/mc-mods/forestry/files/2684780)
-  Source: [GitHub](https://github.com/ForestryMC/ForestryMC)
-
-  ![](https://media.forgecdn.net/attachments/10/902/main_butterfly.png)
-*/
-mod "mods/Forestry.jar" {
-  method    = "curse"
-  projectID = 59751
-  fileID    = 2684780
-}
-
-/*
 - #### [ThermalExpansion](https://curseforge.com/minecraft/mc-mods/thermal-expansion)
 
   Expanding Minecraft Thermally! A server-friendly and content-rich blend of magic and technology!
