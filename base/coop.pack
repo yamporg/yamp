@@ -14,18 +14,3 @@ mod "mods/PlayerRevive.jar" {
   projectID = 266890
   fileID    = 2812657
 }
-
-/*
-- #### [MultiMine](https://curseforge.com/minecraft/mc-mods/multi-mine)
-
-  Multi Mine allows pausing and resuming breaking blocks, across players!
-
-  Date: Sep 21, 2019
-  Version: [20190921](https://curseforge.com/minecraft/mc-mods/multi-mine/files/2790649)
-  Source: [GitHub](https://github.com/AtomicStryker/atomicstrykers-minecraft-mods)
-*/
-mod "mods/MultiMine.jar" {
-  method    = "curse"
-  projectID = 227887
-  fileID    = 2790649
-}
