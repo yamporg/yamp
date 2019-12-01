@@ -115,8 +115,6 @@ mod "mods/IronChests.jar" {
   Version: [1.5.2](https://curseforge.com/minecraft/mc-mods/baubles/files/2518667)
   Source: [GitHub](https://github.com/Azanor/Baubles)
 
-  Dependent: [AstralSorcery](#AstralSorcery)
-
   ![](http://i.imgur.com/veuh8Uh.png)
 */
 mod "mods/Baubles.jar" {

@@ -37,22 +37,3 @@ mod "mods/PSIdeas.jar" {
   projectID = 302313
   fileID    = 2725942
 }
-
-/*
-- #### [AstralSorcery](https://curseforge.com/minecraft/mc-mods/astral-sorcery)
-
-  Astral Sorcery is a magic mod focused around harnessing the powers of starlight and the constellations.
-
-  Date: Aug 8, 2019
-  Version: [1.10.20](https://curseforge.com/minecraft/mc-mods/astral-sorcery/files/2757379)
-  Source: [GitHub](https://github.com/HellFirePvP/AstralSorcery)
-
-  Requires: [Baubles](#Baubles)
-
-  ![](https://media.forgecdn.net/attachments/194/1/2017-02-10_03.png)
-*/
-mod "mods/AstralSorcery.jar" {
-  method    = "curse"
-  projectID = 241721
-  fileID    = 2757379
-}
