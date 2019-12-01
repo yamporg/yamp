@@ -1,0 +1,31 @@
+/*
+- #### [Phosphor](https://curseforge.com/minecraft/mc-mods/phosphor)
+
+  Phosphor is a Minecraft mod which works to optimize one of Minecraft's most inefficient areas—the lighting engine. With Phosphor, the time spent generating chunks can be reduced by almost 80% for some dimensions, and server tick rate can be just as greatly improved by freeing up the CPU to work on other tasks.
+
+  Date: Jul 24, 2019
+  Version: [0.2.6-50](https://curseforge.com/minecraft/mc-mods/phosphor/files/2747710)
+  Source: [GitHub](https://github.com/jellysquid3/Phosphor)
+
+  ![](https://vgy.me/YDjLK6.png)
+*/
+mod "mods/Phosphor.jar" {
+  method    = "curse"
+  projectID = 318255
+  fileID    = 2747710
+}
+
+/*
+- #### [ChunkGenLimit](https://curseforge.com/minecraft/mc-mods/chunkgenlimited)
+
+  A small, simple mod that allows to limit max chunk generation per tick for improved server performance.
+
+  Date: Oct 8, 2019
+  Version: [1.1](https://curseforge.com/minecraft/mc-mods/chunkgenlimited/files/2803941)
+  Source: [GitHub](https://github.com/Barteks2x/ChunkGenLimiter)
+*/
+mod "mods/ChunkGenLimit.jar" {
+  method    = "curse"
+  projectID = 346014
+  fileID    = 2803941
+}
