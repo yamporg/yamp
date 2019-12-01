@@ -221,21 +221,6 @@ mod "mods/Bookshelf.jar" {
 }
 
 /*
-- #### [IvTk](https://curseforge.com/minecraft/mc-mods/ivtoolkit)
-
-  Date: Jun 29, 2017
-  Version: [1.3.3](https://curseforge.com/minecraft/mc-mods/ivtoolkit/files/2443253)
-  Source: [GitHub](https://github.com/Ivorforce/IvToolkit)
-
-  Dependent: [RecurrentComplex](#RecurrentComplex)
-*/
-mod "mods/IvTk.jar" {
-  method    = "curse"
-  projectID = 224535
-  fileID    = 2443253
-}
-
-/*
 - #### [LibrarianLib](https://curseforge.com/minecraft/mc-mods/librarianlib)
 
   Date: Jun 16, 2019
