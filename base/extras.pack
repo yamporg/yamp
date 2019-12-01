@@ -35,42 +35,6 @@ mod "mods/ExtraUtils.jar" {
 }
 
 /*
-- #### [LittleTiles](https://curseforge.com/minecraft/mc-mods/littletiles)
-
-  This mod allows you to build anything you want. It adds a way to add more detail to everything. You can hammer blocks into tiles which can be 4096 (or even more) times smaller than an ordinary minecraft block (you can do it even smaller, because its configurable). You can combine your tiles together to create doors, chairs, ladders, no-clip, storage and any kind of furniture structure. There are endless possibilities as shown in the trailer.
-
-  Date: Nov 20, 2019
-  Version: [1.5.0-pre180](https://curseforge.com/minecraft/mc-mods/littletiles/files/2829983)
-  Source: [GitHub](https://github.com/CreativeMD/LittleTiles)
-
-  Requires: [CreativeCore](#CreativeCore)
-*/
-mod "mods/LittleTiles.jar" {
-  method    = "curse"
-  projectID = 257818
-  fileID    = 2829983
-}
-
-/*
-- #### [Chisel](https://curseforge.com/minecraft/mc-mods/chisel)
-
-  Chisel adds a huge variety of decorative blocks to the game. The mod is very useful for people who like the construction aspect of Minecraft.
-
-  Date: Oct 21, 2019
-  Version: [1.0.1.44](https://curseforge.com/minecraft/mc-mods/chisel/files/2813538)
-  Source: [GitHub](https://github.com/Chisel-Team/Chisel)
-
-  Requires: [CTM](#CTM)
-
-  ![](https://i.imgur.com/ZAYNmbJ.png)
-*/
-mod "mods/Chisel.jar" {
-  method    = "curse"
-  projectID = 235279
-  fileID    = 2813538
-}
-
-/*
 - #### [MalisisDoors](https://curseforge.com/minecraft/mc-mods/malisisdoors)
 
   This mod adds new animations for doors, trap doors and fence gates. It adds new several doors like glass doors, jail doors, laboratory doors, factory doors and garage doors that all have different and original animations. You can also entirely build your doors with a  machine that lets you chose the way it looks and the way it moves.
@@ -87,25 +51,6 @@ mod "mods/MalisisDoors.jar" {
   method    = "curse"
   projectID = 223891
   fileID    = 2526674
-}
-
-/*
-- #### [Blockcraftery](https://curseforge.com/minecraft/mc-mods/blockcraftery)
-
-  Blockcraftery is a mod that provides a very simple feature: Framed Blocks. Framed blocks can be placed in the world, then can be given another block’s texture by right-clicking.
-
-  Date: May 28, 2019
-  Version: [1.3.1](https://curseforge.com/minecraft/mc-mods/blockcraftery/files/2716712)
-  Source: [GitHub](https://github.com/EpicSquid/Blockcraftery)
-
-  Requires: [MysticalLib](#MysticalLib)
-
-  ![](https://i.imgur.com/m7CqhYA.jpg)
-*/
-mod "mods/Blockcraftery.jar" {
-  method    = "curse"
-  projectID = 278882
-  fileID    = 2716712
 }
 
 /*
