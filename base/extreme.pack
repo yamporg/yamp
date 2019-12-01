@@ -1,20 +1,16 @@
 /*
-- #### [ImprovedMobs](https://curseforge.com/minecraft/mc-mods/improved-mobs)
+- #### [ESM](https://curseforge.com/minecraft/mc-mods/epic-siege-mod)
 
-  This mod provides several tweaks to mobs with all of the features being customizable. Mostly it makes mobs more harder.
+  Epic Siege Mod will make all mobs extremely difficult and dangerous with an unending lust for death and destruction using any and all means of attack to reach players. One might even say it’s just down right unfair.
 
-  Note: Author actually responds to user requests.
-
-  Date: Nov 6, 2019
-  Version: [1.5.2](https://curseforge.com/minecraft/mc-mods/improved-mobs/files/2822916)
-  Source: [GitHub](https://github.com/Flemmli97/ImprovedMobs)
-
-  Requires: [TenshiLib](#TenshiLib)
+  Date: Aug 4, 2019
+  Version: [13.165](https://curseforge.com/minecraft/mc-mods/epic-siege-mod/files/2754496)
+  Source: [GitHub](https://github.com/Funwayguy/Epic-Siege-Mod)
 */
-mod "mods/ImprovedMobs.jar" {
+mod "mods/ESM.jar" {
   method    = "curse"
-  projectID = 282639
-  fileID    = 2822916
+  projectID = 229449
+  fileID    = 2754496
 }
 
 /*

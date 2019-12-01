@@ -316,18 +316,3 @@ mod "mods/Forgelin.jar" {
   projectID = 248453
   fileID    = 2785465
 }
-
-/*
-- #### [TenshiLib](https://curseforge.com/minecraft/mc-mods/tenshilib)
-
-  Date: Nov 16, 2019
-  Version: [1.2.2](https://curseforge.com/minecraft/mc-mods/tenshilib/files/2828048)
-  Source: [GitHub](https://github.com/Flemmli97/TenshiLib)
-
-  Dependent: [ImprovedMobs](#ImprovedMobs)
-*/
-mod "mods/TenshiLib.jar" {
-  method    = "curse"
-  projectID = 312040
-  fileID    = 2828048
-}
