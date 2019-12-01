@@ -5,3 +5,7 @@ mod "eula.txt" {
 mod "server.properties" {
   file = "files/server.properties"
 }
+
+mod "config/worldedit/worldedit.properties" {
+  file = "files/config/worldedit/worldedit.properties"
+}
