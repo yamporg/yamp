@@ -14,20 +14,3 @@ mod "mods/Minecolonies.jar" {
   projectID = 245506
   fileID    = 2818963
 }
-
-/*
-- #### [MinecraftComesAlive](https://curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca)
-
-  Say goodbye to those annoying and ugly squidward-nosed villagers! Minecraft Comes Alive (MCA) completely replaces villagers with humans, and adds interactions, marriage, and babies! 
-
-  Date: Nov 9, 2019
-  Version: [6.1.0](https://curseforge.com/minecraft/mc-mods/minecraft-comes-alive-mca/files/2824328)
-  Source: [GitHub](https://github.com/WildBamaBoy/minecraft-comes-alive)
-
-  ![](https://media.forgecdn.net/attachments/22/106/mca-2.png)
-*/
-mod "mods/MinecraftComesAlive.jar" {
-  method    = "curse"
-  projectID = 59693
-  fileID    = 2824328
-}
