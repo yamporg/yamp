@@ -2,28 +2,12 @@ mod "config/forge.cfg" {
   file = "files/config/forge.cfg"
 }
 
-mod "config/bloodmoon.cfg" {
-  file = "files/config/bloodmoon.cfg"
-}
-
-mod "config/quark.cfg" {
-  file = "files/config/quark.cfg"
-}
-
 mod "config/toughasnails/gameplay.cfg" {
   file = "files/config/toughasnails/gameplay.cfg"
 }
 
 mod "config/ice_and_fire.cfg" {
   file = "files/config/ice_and_fire.cfg"
-}
-
-mod "config/mca.cfg" {
-  file = "files/config/mca.cfg"
-}
-
-mod "config/multimine.cfg" {
-  file = "files/config/multimine.cfg"
 }
 
 mod "config/huntingdim/huntingdim.cfg" {
