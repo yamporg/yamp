@@ -48,20 +48,3 @@ mod "mods/TAN.jar" {
   projectID = 246391
   fileID    = 2644652
 }
-
-/*
-- #### [Bloodmoon](https://curseforge.com/minecraft/mc-mods/bloodmoon)
-
-  This mod adds a lunar event called "Bloodmoon". During the night monsters will spawn faster and closer to the player. The spawn limit of monsters will also be higher.
-
-  Date: Mar 6, 2018
-  Version: [1.5.3](https://curseforge.com/minecraft/mc-mods/bloodmoon/files/2537917)
-  Source: [GitHub](https://github.com/lumien231/Bloodmoon)
-
-  ![](https://i.imgur.com/CuiyPKO.png)
-*/
-mod "mods/Bloodmoon.jar" {
-  method    = "curse"
-  projectID = 226321
-  fileID    = 2537917
-}
