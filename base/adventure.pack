@@ -33,20 +33,3 @@ mod "mods/TwilightForest.jar" {
   projectID = 227639
   fileID    = 2818055
 }
-
-/*
-- #### [ElectroblobsWizardry](https://curseforge.com/minecraft/mc-mods/electroblobs-wizardry)
-
-  Wizardry isn’t like most magic mods. It has very few crafting recipes and no complex constructions—instead, you progress by exploring and fighting. Find spell books, wands and scrolls! Visit fellow wizards and buy rare magical items! Explore ancient ruins in search of rare and powerful artefacts! Master the arcane and collect every single spell!
-
-  Date: Oct 6, 2019
-  Version: [4.2.5](https://curseforge.com/minecraft/mc-mods/electroblobs-wizardry/files/2802614)
-  Source: [GitHub](https://github.com/Electroblob77/Wizardry)
-
-  ![](https://media.forgecdn.net/attachments/262/906/banner-v2-small.png)
-*/
-mod "mods/ElectroblobsWizardry.jar" {
-  method    = "curse"
-  projectID = 265642
-  fileID    = 2802614
-}
