@@ -18,23 +18,6 @@ mod "mods/Blockcraftery.jar" {
 }
 
 /*
-- #### [LittleTiles](https://curseforge.com/minecraft/mc-mods/littletiles)
-
-  This mod allows you to build anything you want. It adds a way to add more detail to everything. You can hammer blocks into tiles which can be 4096 (or even more) times smaller than an ordinary minecraft block (you can do it even smaller, because its configurable). You can combine your tiles together to create doors, chairs, ladders, no-clip, storage and any kind of furniture structure. There are endless possibilities as shown in the trailer.
-
-  Date: Nov 20, 2019
-  Version: [1.5.0-pre180](https://curseforge.com/minecraft/mc-mods/littletiles/files/2829983)
-  Source: [GitHub](https://github.com/CreativeMD/LittleTiles)
-
-  Requires: [CreativeCore](#CreativeCore)
-*/
-mod "mods/LittleTiles.jar" {
-  method    = "curse"
-  projectID = 257818
-  fileID    = 2829983
-}
-
-/*
 - #### [Chisel](https://curseforge.com/minecraft/mc-mods/chisel)
 
   Chisel adds a huge variety of decorative blocks to the game. The mod is very useful for people who like the construction aspect of Minecraft.

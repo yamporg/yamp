@@ -276,7 +276,6 @@ mod "mods/LibrarianLib.jar" {
   Version: [1.9.74](https://curseforge.com/minecraft/mc-mods/creativecore/files/2831308)
   Source: [GitHub](https://github.com/CreativeMD/CreativeCore)
 
-  Dependent: [LittleTiles](#LittleTiles)
   Dependent: [PlayerRevive](#PlayerRevive)
 */
 mod "mods/CreativeCore.jar" {
