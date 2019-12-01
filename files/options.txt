@@ -1,2 +1,3 @@
-lang:ru_RU
+gamma:1.0
+lang:ru_ru
 forceUnicodeFont:true
