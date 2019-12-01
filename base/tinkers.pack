@@ -9,7 +9,6 @@
 
   Requires: [Mantle](#Mantle)
 
-  Dependent: [TinkerToolLeveling](#TinkerToolLeveling)
   Dependent: [TinkersComplement](#TinkersComplement)
   Dependent: [TinkersOC](#TinkersOC)
 
@@ -19,25 +18,6 @@ mod "mods/TConstruct.jar" {
   method    = "curse"
   projectID = 74072
   fileID    = 2731543
-}
-
-/*
-- #### [TinkerToolLeveling](https://curseforge.com/minecraft/mc-mods/tinkers-tool-leveling)
-
-  Remember the good old days when you played GTA, used the cheat code for a tank, and then went on and caused mayhem? This mod is like that, except for Tinkers’ Construct Tools and the cheatcode takes longer to enter.
-
-  Date: Oct 23, 2018
-  Version: [1.1.0](https://curseforge.com/minecraft/mc-mods/tinkers-tool-leveling/files/2630860)
-  Source: [GitHub](https://github.com/SlimeKnights/TinkersToolLeveling)
-
-  Requires: [TConstruct](#TConstruct)
-
-  ![](https://media.forgecdn.net/avatars/50/510/636091756433815224.png)
-*/
-mod "mods/TinkerToolLeveling.jar" {
-  method    = "curse"
-  projectID = 250957
-  fileID    = 2630860
 }
 
 /*
