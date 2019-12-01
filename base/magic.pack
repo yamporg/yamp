@@ -56,22 +56,3 @@ mod "mods/AstralSorcery.jar" {
   projectID = 241721
   fileID    = 2757379
 }
-
-/*
-- #### [BloodMagic](https://curseforge.com/minecraft/mc-mods/blood-magic)
-
-  Blood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly. You have been warned.
-
-  Date: Nov 5, 2019
-  Version: [2.4.3-105](https://curseforge.com/minecraft/mc-mods/blood-magic/files/2822288)
-  Source: [GitHub](https://github.com/WayofTime/BloodMagic)
-
-  Requires: [GuideAPI](#GuideAPI)
-
-  ![](https://media.forgecdn.net/attachments/225/431/dylygn3nau.png)
-*/
-mod "mods/BloodMagic.jar" {
-  method    = "curse"
-  projectID = 224791
-  fileID    = 2822288
-}

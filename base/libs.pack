@@ -1,21 +1,4 @@
 /*
-- #### [GuideAPI](https://curseforge.com/minecraft/mc-mods/guide-api)
-
-  Allows modders to easily create in-game documentation.
-
-  Date: Dec 10, 2018
-  Version: [2.1.8-63](https://curseforge.com/minecraft/mc-mods/guide-api/files/2645992)
-  Source: [GitHub](https://github.com/TeamAmeriFrance/Guide-API)
-
-  Dependent: [BloodMagic](#BloodMagic)
-*/
-mod "mods/GuideAPI.jar" {
-  method    = "curse"
-  projectID = 228832
-  fileID    = 2645992
-}
-
-/*
 - #### [OpenModsLib](https://curseforge.com/minecraft/mc-mods/openmodslib)
 
   OpenModsLib is a library of common code from OpenBlocks and OpenPeripheral.
