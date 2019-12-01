@@ -207,21 +207,6 @@ mod "mods/CodeChickenLib.jar" {
 }
 
 /*
-- #### [MalisisCore](https://curseforge.com/minecraft/mc-mods/malisiscore)
-
-  Date: Feb 27, 2019
-  Version: [6.5.1](https://curseforge.com/minecraft/mc-mods/malisiscore/files/2680892)
-  Source: [GitHub](https://github.com/Ordinastie/MalisisCore)
-
-  Dependent: [MalisisDoors](#MalisisDoors)
-*/
-mod "mods/MalisisCore.jar" {
-  method    = "curse"
-  projectID = 223896
-  fileID    = 2680892
-}
-
-/*
 - #### [Mantle](https://curseforge.com/minecraft/mc-mods/mantle)
 
   Date: May 19, 2019

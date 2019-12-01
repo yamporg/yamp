@@ -52,25 +52,6 @@ mod "mods/ExtraUtils.jar" {
 }
 
 /*
-- #### [MalisisDoors](https://curseforge.com/minecraft/mc-mods/malisisdoors)
-
-  This mod adds new animations for doors, trap doors and fence gates. It adds new several doors like glass doors, jail doors, laboratory doors, factory doors and garage doors that all have different and original animations. You can also entirely build your doors with a  machine that lets you chose the way it looks and the way it moves.
-
-  Date: Feb 1, 2018
-  Version: [7.3.0](https://curseforge.com/minecraft/mc-mods/malisisdoors/files/2526674)
-  Source: [GitHub](https://github.com/Ordinastie/MalisisDoors)
-
-  Requires: [MalisisCore](#MalisisCore)
-
-  ![](https://media.forgecdn.net/attachments/15/63/garagedoor_screen.png)
-*/
-mod "mods/MalisisDoors.jar" {
-  method    = "curse"
-  projectID = 223891
-  fileID    = 2526674
-}
-
-/*
 - #### [Quark](https://curseforge.com/minecraft/mc-mods/quark)
 
   Quark is a fully modular mod with the objective of improving the vanilla gameplay experience. In other words, I would call it "what I would add if I was hired at mojang — the mod". Modules can be turned off and all features can be turned off individually. Some even have more in-depth configs.
