@@ -1,0 +1,16 @@
+/*
+- #### [ForgeMixinFix](https://curseforge.com/minecraft/mc-mods/forge-mixin-fix)
+
+  Mixin doesn’t use Scala however it still has to be excluded by its’ changes. This fix has been added to SpongeForge but some people won't want to use it so this is what this mod is for.
+
+  Note: Alot of mods use Mixin, however other mods like OpenComputers can conflict with it.
+
+  Date: Nov 8, 2019
+  Version: [1.0.0](https://curseforge.com/minecraft/mc-mods/forge-mixin-fix/files/2824043)
+  Source: [GitHub](https://github.com/Foxxtail1/ForgeMixinFix)
+*/
+mod "mods/ForgeMixinFix.jar" {
+  method    = "curse"
+  projectID = 350817
+  fileID    = 2824043
+}
