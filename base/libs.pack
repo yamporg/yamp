@@ -31,71 +31,6 @@ mod "mods/WanionLib.jar" {
 }
 
 /*
-- #### [ThermalFoundation](https://curseforge.com/minecraft/mc-mods/thermal-foundation)
-
-  Date: May 26, 2019
-  Version: [2.6.3.27](https://curseforge.com/minecraft/mc-mods/thermal-foundation/files/2715788)
-  Source: [GitHub](https://github.com/CoFH/ThermalFoundation)
-
-  Requires: [CoFHCore](#CoFHCore)
-  Requires: [CoFHWorld](#CoFHWorld)
-
-  Dependent: [ThermalExpansion](#ThermalExpansion)
-*/
-mod "mods/ThermalFoundation.jar" {
-  method    = "curse"
-  projectID = 222880
-  fileID    = 2715788
-}
-
-/*
-- #### [CoFHCore](https://curseforge.com/minecraft/mc-mods/cofh-core)
-
-  Date: May 26, 2019
-  Version: [4.6.3.27](https://curseforge.com/minecraft/mc-mods/cofh-core/files/2716100)
-  Source: [GitHub](https://github.com/CoFH/CoFHCore)
-
-  Requires: [RedstoneFlux](#RedstoneFlux)
-
-  Dependent: [ThermalFoundation](#ThermalFoundation)
-*/
-mod "mods/CoFHCore.jar" {
-  method    = "curse"
-  projectID = 69162
-  fileID    = 2716100
-}
-
-/*
-- #### [CoFHWorld](https://curseforge.com/minecraft/mc-mods/cofh-world)
-
-  Date: May 26, 2019
-  Version: [1.3.1.7](https://curseforge.com/minecraft/mc-mods/cofh-world/files/2715784)
-  Source: [GitHub](https://github.com/CoFH/CoFHWorld)
-
-  Dependent: [ThermalFoundation](#ThermalFoundation)
-*/
-mod "mods/CoFHWorld.jar" {
-  method    = "curse"
-  projectID = 271384
-  fileID    = 2715784
-}
-
-/*
-- #### [RedstoneFlux](https://curseforge.com/minecraft/mc-mods/redstone-flux)
-
-  Date: Oct 2, 2018
-  Version: [2.1.0.6](https://curseforge.com/minecraft/mc-mods/redstone-flux/files/2623090)
-  Source: [GitHub](https://github.com/CoFH/RedstoneFlux)
-
-  Dependent: [CoFHCore](#CoFHCore)
-*/
-mod "mods/RedstoneFlux.jar" {
-  method    = "curse"
-  projectID = 270789
-  fileID    = 2623090
-}
-
-/*
 - #### [TrackAPI](https://curseforge.com/minecraft/mc-mods/track-api)
 
   This API is a required mod for Immersive Railroading and other train mods in the future.
@@ -110,21 +45,6 @@ mod "mods/TrackAPI.jar" {
   method    = "curse"
   projectID = 282613
   fileID    = 2825260
-}
-
-/*
-- #### [McJtyLib](https://curseforge.com/minecraft/mc-mods/mcjtylib)
-
-  Date: Jul 22, 2019
-  Version: [3.5.4](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
-  Source: [GitHub](https://github.com/McJtyMods/McJtyLib)
-
-  Dependent: [RFTools](#RFTools)
-*/
-mod "mods/McJtyLib.jar" {
-  method    = "curse"
-  projectID = 233105
-  fileID    = 2745846
 }
 
 /*
@@ -171,21 +91,6 @@ mod "mods/MysticalLib.jar" {
   method    = "curse"
   projectID = 277064
   fileID    = 2817910
-}
-
-/*
-- #### [CodeChickenLib](https://curseforge.com/minecraft/mc-mods/codechicken-lib-1-8)
-
-  Date: Sep 7, 2019
-  Version: [3.2.3.358](https://curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848)
-  Source: [GitHub](https://github.com/TheCBProject/CodeChickenLib)
-
-  Dependent: [ThermalExpansion](#ThermalExpansion)
-*/
-mod "mods/CodeChickenLib.jar" {
-  method    = "curse"
-  projectID = 242818
-  fileID    = 2779848
 }
 
 /*
