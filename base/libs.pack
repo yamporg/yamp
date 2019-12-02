@@ -64,21 +64,6 @@ mod "mods/AutoRegLib.jar" {
 }
 
 /*
-- #### [LLibrary](https://curseforge.com/minecraft/mc-mods/llibrary)
-
-  Date: Apr 27, 2019
-  Version: [1.7.19](https://curseforge.com/minecraft/mc-mods/llibrary/files/2704186)
-  Source: [GitHub](https://github.com/iLexiconn/LLibrary)
-
-  Dependent: [IceAndFire](#IceAndFire)
-*/
-mod "mods/LLibrary.jar" {
-  method    = "curse"
-  projectID = 243298
-  fileID    = 2704186
-}
-
-/*
 - #### [MysticalLib](https://curseforge.com/minecraft/mc-mods/mysticallib)
 
   Date: Oct 28, 2019
