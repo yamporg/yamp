@@ -46,3 +46,18 @@ mod "mods/BetterFPS.jar" {
   projectID = 229876
   fileID    = 2483393
 }
+
+/*
+- #### [DebugServerInfo](https://curseforge.com/minecraft/mc-mods/debugserverinfo)
+
+  DebugServerInfo displays the server tick time info, memory usage, a clock and FPS on screen.
+
+  Date: Oct 17, 2017
+  Version: [1.0.5](https://curseforge.com/minecraft/mc-mods/debugserverinfo/files/2491601)
+  Source: [GitHub](https://github.com/dries007/DebugServerInfo)
+*/
+mod "mods/DebugServerInfo.jar" {
+  method    = "curse"
+  projectID = 256400
+  fileID    = 2491601
+}
