@@ -16,21 +16,6 @@ mod "mods/GottaGoFast.jar" {
 }
 
 /*
-- #### [SignalCatcher](https://curseforge.com/minecraft/mc-mods/signal-catcher)
-
-  Signal-Catcher catches the SIGTERM, SIGINT and SIGHUP signals and uses them to trigger a clean shutdown.
-
-  Date: Aug 22, 2017
-  Version: [1.1](https://curseforge.com/minecraft/mc-mods/signal-catcher/files/2467910)
-  Source: [GitHub](https://github.com/Baughn/signal-catcher)
-*/
-mod "mods/SignalCatcher.jar" {
-  method    = "curse"
-  projectID = 268347
-  fileID    = 2467910
-}
-
-/*
 - #### [RCONFix](https://curseforge.com/minecraft/mc-mods/rcon-newline-fix)
 
   This is a core mod that adds the missing newlines in multiline rcon replies.
