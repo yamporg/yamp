@@ -1,4 +1,4 @@
-deftemplatesuffix: lowres
+deftemplatesuffix: vlowres
 
 # Save tiles in a single-file sqlite db.
 storage:
