@@ -6,10 +6,6 @@ mod "config/toughasnails/gameplay.cfg" {
   file = "files/config/toughasnails/gameplay.cfg"
 }
 
-mod "config/ice_and_fire.cfg" {
-  file = "files/config/ice_and_fire.cfg"
-}
-
 mod "config/huntingdim/huntingdim.cfg" {
   file = "files/config/huntingdim/huntingdim.cfg"
 }
