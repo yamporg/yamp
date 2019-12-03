@@ -31,20 +31,3 @@ mod "mods/FirstAid.jar" {
   projectID = 276837
   fileID    = 2829601
 }
-
-/*
-- #### [TAN](https://curseforge.com/minecraft/mc-mods/tough-as-nails)
-
-  Tough As Nails is a Minecraft mod that adds survival features to increase difficulty and realism, including thirst, body temperature, seasons, and more!
-
-  Date: Dec 6, 2018
-  Version: [3.1.0.139](https://curseforge.com/minecraft/mc-mods/tough-as-nails/files/2644652)
-  Source: [GitHub](https://github.com/Glitchfiend/ToughAsNails)
-
-  ![](https://media.forgecdn.net/attachments/225/896/687474703a2f2f692e696d6775722e636f6d2f436e79463233.png)
-*/
-mod "mods/TAN.jar" {
-  method    = "curse"
-  projectID = 246391
-  fileID    = 2644652
-}
