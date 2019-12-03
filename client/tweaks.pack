@@ -16,6 +16,21 @@ mod "mods/WorldHandler.jar" {
 }
 
 /*
+- #### [ThirdPersonView](https://curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded)
+
+  Revamped over-the-shoulder F5 third-person camera view.
+
+  Date: Apr 23, 2019
+  Version: [1.15.1](https://curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/2702694)
+  Source: [GitHub](https://github.com/Exopandora/shouldersurfing)
+*/
+mod "mods/ThirdPersonView.jar" {
+  method    = "curse"
+  projectID = 243190
+  fileID    = 2702694
+}
+
+/*
 - #### [TreeCapitator](https://curseforge.com/minecraft/mc-mods/treecapitator-updated)
 
   This mod allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Based on Terraria tree-cutting style.
