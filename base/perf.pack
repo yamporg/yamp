@@ -18,36 +18,6 @@ mod "mods/LagGoogles.jar" {
 }
 
 /*
-- #### [FoamFix](https://curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
-
-  FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. Observations show that Java heap usage (measured using VisualVM on the main menu) can drop by as much as 50%!
-
-  Date: Nov 23, 2019
-  Version: [0.10.9](https://curseforge.com/minecraft/mc-mods/foamfix-for-minecraft/files/2831558)
-  Source: [Gitea (git.asie.pl)](https://git.asie.pl/asie-minecraft/FoamFix)
-*/
-mod "mods/FoamFix.jar" {
-  method    = "curse"
-  projectID = 278494
-  fileID    = 2831558
-}
-
-/*
-- #### [BetterFPS](https://curseforge.com/minecraft/mc-mods/betterfps)
-
-  BetterFps is a Minecraft mod that add a few performance improvements, trying to be compatible with other mods.
-
-  Date: Sep 24, 2017
-  Version: [1.4.8](https://curseforge.com/minecraft/mc-mods/betterfps/files/2483393)
-  Source: [GitHub](https://github.com/Guichaguri/BetterFps)
-*/
-mod "mods/BetterFPS.jar" {
-  method    = "curse"
-  projectID = 229876
-  fileID    = 2483393
-}
-
-/*
 - #### [DebugServerInfo](https://curseforge.com/minecraft/mc-mods/debugserverinfo)
 
   DebugServerInfo displays the server tick time info, memory usage, a clock and FPS on screen.
