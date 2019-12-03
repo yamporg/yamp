@@ -9,3 +9,7 @@ mod "server.properties" {
 mod "dynmap/configuration.txt" {
   file = "files/dynmap/configuration.txt"
 }
+
+mod "config/worldprimer.cfg" {
+  file = "files/config/worldprimer.cfg"
+}
