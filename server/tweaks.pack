@@ -31,20 +31,3 @@ mod "mods/RCONFix.jar" {
   projectID = 257178
   fileID    = 2510740
 }
-
-/*
-- #### [HelpFixer](https://curseforge.com/minecraft/mc-mods/helpfixer)
-
-  HelpFixer changes the /help command to go around the offending code and sort the commands by a method that will work. HelpFixer also logs offending commands to the server log, allowing you to figure out who was causing the problem.
-
-  Some modded commands incorrectly implement a certain piece of code. This piece of code is used for sorting the list of commands alphabetically in the /help command. This incorrect code actually causes the /help command to break with an error that is vague and confusing.
-
-  Date: Sep 13, 2017
-  Version: [1.5.18](https://curseforge.com/minecraft/mc-mods/helpfixer/files/2479308)
-  Source: [GitHub](https://github.com/matthewprenger/HelpFixer)
-*/
-mod "mods/HelpFixer.jar" {
-  method    = "curse"
-  projectID = 223797
-  fileID    = 2479308
-}
