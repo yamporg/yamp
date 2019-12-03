@@ -35,23 +35,6 @@ mod "mods/OpenBlocks.jar" {
 }
 
 /*
-- #### [ExtraUtils](https://curseforge.com/minecraft/mc-mods/extra-utilities)
-
-  The Extra Utilities mod adds several random purposes utility blocks and items to the game.
-
-  Date: Feb 22, 2019
-  Version: [1.9.9](https://curseforge.com/minecraft/mc-mods/extra-utilities/files/2678374)
-  Source: [GitHub](https://github.com/rwtema/Extra-Utilities-2-Source)
-
-  ![](https://i.ytimg.com/vi/sSd0b0RomXw/maxresdefault.jpg)
-*/
-mod "mods/ExtraUtils.jar" {
-  method    = "curse"
-  projectID = 225561
-  fileID    = 2678374
-}
-
-/*
 - #### [Torchmaster](https://curseforge.com/minecraft/mc-mods/torchmaster)
 
   Adds a special torch which prevents mob spawning in a certain radius.
