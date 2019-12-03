@@ -1,4 +1,21 @@
 /*
+- #### [WorldHandler](https://curseforge.com/minecraft/mc-mods/world-handler-command-gui)
+
+  World Handler provides a simple and easy to use graphical user interface for commands.
+
+  Date: Apr 2, 2019
+  Version: [2.2.2](https://curseforge.com/minecraft/mc-mods/world-handler-command-gui/files/2694758)
+  Source: [GitHub](https://github.com/Exopandora/WorldHandler)
+
+  ![](https://media.forgecdn.net/attachments/224/516/2018-02-17_18.png)
+*/
+mod "mods/WorldHandler.jar" {
+  method    = "curse"
+  projectID = 228970
+  fileID    = 2694758
+}
+
+/*
 - #### [TreeCapitator](https://curseforge.com/minecraft/mc-mods/treecapitator-updated)
 
   This mod allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Based on Terraria tree-cutting style.
