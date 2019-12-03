@@ -79,8 +79,8 @@ defaultworld: world
 defaultmap: flat
 
 # Don’t render the world if players are online.
-fullrenderplayerlimit: 2
-updateplayerlimit: 2
+fullrenderplayerlimit: 1
+updateplayerlimit: 1
 
 # Some of the options below are likely to be required,
 # but I don’t have time to expirement with them.
