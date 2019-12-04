@@ -9,3 +9,7 @@ mod "optionsof.txt" {
 mod "config/antiqueatlas/atlas_overlay.cfg" {
   file = "files/config/antiqueatlas/atlas_overlay.cfg"
 }
+
+mod "config/shouldersurfing.cfg" {
+  file = "files/config/shouldersurfing.cfg"
+}
