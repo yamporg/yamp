@@ -67,3 +67,20 @@ mod "mods/Torchmaster.jar" {
   projectID = 254268
   fileID    = 2829232
 }
+
+/*
+- #### [Lumberjack](https://curseforge.com/minecraft/mc-mods/lumberjack)
+
+  Lumberjack adds axes that will decimate anything in there path! (As long its wood and the settings are proper.)
+
+  Date: Feb 17, 2019
+  Version: [1.4.1](https://curseforge.com/minecraft/mc-mods/lumberjack/files/2675502)
+  Source: [GitHub](https://github.com/DoubleDoorDevelopment/Lumberjack)
+
+  ![](https://i.imgur.com/iD8NDtS.png)
+*/
+mod "mods/Lumberjack.jar" {
+  method    = "curse"
+  projectID = 223439
+  fileID    = 2675502
+}
