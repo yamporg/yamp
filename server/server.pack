@@ -63,20 +63,3 @@ mod "mods/WorldEdit.jar" {
   projectID = 225608
   fileID    = 2655056
 }
-
-/*
-- #### [WorldPrimer](https://curseforge.com/minecraft/mc-mods/world-primer)
-
-  World Primer can automatically run a set of commands when a new world is first created, or every time a world is loaded, or every time a dimension gets loaded.
-
-  Note: Used for the initial chunk pregeneration using “forge gen” command.
-
-  Date: Oct 9, 2017
-  Version: [0.5.0](https://curseforge.com/minecraft/mc-mods/world-primer/files/2489010)
-  Source: [GitHub](https://github.com/maruohon/worldprimer)
-*/
-mod "mods/WorldPrimer.jar" {
-  method    = "curse"
-  projectID = 258911
-  fileID    = 2489010
-}
