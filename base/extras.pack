@@ -16,23 +16,6 @@ mod "mods/AkashicTome.jar" {
 }
 
 /*
-- #### [Quark](https://curseforge.com/minecraft/mc-mods/quark)
-
-  Quark is a fully modular mod with the objective of improving the vanilla gameplay experience. In other words, I would call it "what I would add if I was hired at mojang — the mod". Modules can be turned off and all features can be turned off individually. Some even have more in-depth configs.
-
-  Date: Aug 11, 2019
-  Version: [r1.6-177](https://curseforge.com/minecraft/mc-mods/quark/files/2759240)
-  Source: [GitHub](https://github.com/Vazkii/Quark)
-
-  ![](https://cdn.discordapp.com/attachments/568148272997466113/633372267035754547/quark_promo_2.png)
-*/
-mod "mods/Quark.jar" {
-  method    = "curse"
-  projectID = 243121
-  fileID    = 2759240
-}
-
-/*
 - #### [OpenBlocks](https://curseforge.com/minecraft/mc-mods/openblocks)
 
   OpenBlocks introduces a range of random ideas into Minecraft. There is no theme. Really.
