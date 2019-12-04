@@ -14,18 +14,3 @@ mod "mods/CTM.jar" {
   projectID = 267602
   fileID    = 2832564
 }
-
-/*
-- #### [bspkrsCore](https://curseforge.com/minecraft/mc-mods/bspkrscore-updated)
-
-  Date: Jun 10, 2019
-  Version: [7.6.0.1](https://curseforge.com/minecraft/mc-mods/bspkrscore-updated/files/2722821)
-  Source: [GitHub](https://github.com/mrihtar/bspkrsCore)
-
-  Dependent: [TreeCapitator](#TreeCapitator)
-*/
-mod "mods/bspkrsCore.jar" {
-  method    = "curse"
-  projectID = 323993
-  fileID    = 2722821
-}

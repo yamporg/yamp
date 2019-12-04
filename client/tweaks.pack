@@ -31,23 +31,6 @@ mod "mods/ShoulderSurfing.jar" {
 }
 
 /*
-- #### [TreeCapitator](https://curseforge.com/minecraft/mc-mods/treecapitator-updated)
-
-  This mod allows you to chop down an entire tree (leaves and all) by harvesting one of its logs. Based on Terraria tree-cutting style.
-
-  Date: Jun 10, 2019
-  Version: [1.43.0](https://curseforge.com/minecraft/mc-mods/treecapitator-updated/files/2722878)
-  Source: [GitHub](https://github.com/mrihtar/Treecapitator)
-
-  Requires: [bspkrsCore](#bspkrsCore)
-*/
-mod "mods/TreeCapitator.jar" {
-  method    = "curse"
-  projectID = 324007
-  fileID    = 2722878
-}
-
-/*
 - #### [MouseTweaks](https://curseforge.com/minecraft/mc-mods/mouse-tweaks)
 
   Mouse Tweaks replaces the standard RMB dragging mechanic, adds two new LMB dragging mechanics and an ability to quickly move items with the scroll wheel.
