@@ -21,3 +21,7 @@ mod "config/First Aid.cfg" {
 mod "config/epicsiegemod.cfg" {
   file = "files/config/epicsiegemod.cfg"
 }
+
+mod "config/minecolonies.cfg" {
+  file = "files/config/minecolonies.cfg"
+}
