@@ -1,4 +1,21 @@
 /*
+- #### [VanillaFix](https://curseforge.com/minecraft/mc-mods/vanillafix)
+
+  VanillaFix is a mod that improves performance and fixes bugs and annoyances in vanilla Minecraft.
+
+  Note: Minecraft will no longer fully crash, but rather kick you out to the main menu and offer to upload your report to a paste site so that you can easily send it to others (test it by pressing F3 + C in game)!
+
+  Date: Nov 19, 2018
+  Version: [1.0.10-99](https://curseforge.com/minecraft/mc-mods/vanillafix/files/2639533)
+  Source: [GitHub](https://github.com/DimensionalDevelopment/VanillaFix)
+*/
+mod "mods/VanillaFix.jar" {
+  method    = "curse"
+  projectID = 292785
+  fileID    = 2639533
+}
+
+/*
 - #### [FoamFix](https://curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
 
   FoamFix is a mod designed to optimize post-1.7.10 modded Minecraft using simple, targeted optimizations. Observations show that Java heap usage (measured using VisualVM on the main menu) can drop by as much as 50%!
