@@ -1,0 +1,52 @@
+/*
+- #### [Dynmap](https://curseforge.com/minecraft/mc-mods/dynmapforge)
+
+  A Google Maps-like map for your Minecraft server that can be viewed in a browser.
+
+  Date: Jun 9, 2019
+  Version: [3.0-beta-4](https://curseforge.com/minecraft/mc-mods/dynmapforge/files/2722448)
+  Source: [GitHub](https://github.com/webbukkit/dynmap)
+
+  Requires: [SQLiteJDBC](#SQLiteJDBC)
+
+  Dependent: [DynmapBlockScan](#DynmapBlockScan)
+
+  ![](https://media.forgecdn.net/attachments/8/340/dynmap3.png)
+*/
+mod "mods/Dynmap.jar" {
+  method    = "curse"
+  projectID = 59433
+  fileID    = 2722448
+}
+
+/*
+- #### [DynmapBlockScan](https://github.com/webbukkit/DynmapBlockScan)
+
+  DynmapBlockScan scans post-1.8 Minecraft blocks and JSON model data to automatically generate Dynmap models.
+
+  Date: Dec 10, 2018
+  Version: [3.0-beta-1](https://github.com/webbukkit/DynmapBlockScan/releases/tag/v3.0-beta-1-1.12.2)
+  Source: [GitHub](https://github.com/webbukkit/DynmapBlockScan)
+
+  Requires: [Dynmap](#Dynmap)
+*/
+mod "mods/DynmapBlockScan.jar" {
+  method = "http"
+  file   = "https://dynmap.us/releases/DynmapBlockScan-3.0-beta-1-forge-1.12.2.jar"
+}
+
+/*
+- #### [SQLiteJDBC](https://github.com/xerial/sqlite-jdbc)
+
+  SQLite JDBC, developed by Taro L. Saito, is a library for accessing and creating SQLite database files in Java.
+
+  Date: Jun 25, 2019
+  Version: [3.28.0](https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0)
+  Source: [GitHub](https://github.com/xerial/sqlite-jdbc)
+
+  Dependent: [Dynmap](#Dynmap)
+*/
+mod "mods/SQLiteJDBC.jar" {
+  method = "http"
+  file   = "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0/sqlite-jdbc-3.28.0.jar"
+}
