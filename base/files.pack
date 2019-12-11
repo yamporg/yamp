@@ -25,3 +25,7 @@ mod "config/epicsiegemod.cfg" {
 mod "config/minecolonies.cfg" {
   file = "files/config/minecolonies.cfg"
 }
+
+mod "config/lumberjack.cfg" {
+  file = "files/config/lumberjack.cfg"
+}
