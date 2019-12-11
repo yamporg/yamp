@@ -29,3 +29,7 @@ mod "config/minecolonies.cfg" {
 mod "config/lumberjack.cfg" {
   file = "files/config/lumberjack.cfg"
 }
+
+mod "config/opencomputers/settings.conf" {
+  file = "files/config/opencomputers/settings.conf"
+}
