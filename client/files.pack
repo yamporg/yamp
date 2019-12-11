@@ -13,3 +13,7 @@ mod "config/antiqueatlas/atlas_overlay.cfg" {
 mod "config/shouldersurfing.cfg" {
   file = "files/config/shouldersurfing.cfg"
 }
+
+mod "config/RTG/rtg.cfg" {
+  file = "files/config/RTG/rtg.cfg"
+}
