@@ -12,22 +12,3 @@ mod "mods/ESM.jar" {
   projectID = 229449
   fileID    = 2754496
 }
-
-/*
-- #### [FirstAid](https://curseforge.com/minecraft/mc-mods/first-aid)
-
-  First Aid is a game changing mod focused around a new health system.
-
-  The old health bar got replaced by 8 different health regions, so your Head, Body, Legs and Feet have their own health bar.
-
-  Date: Nov 19, 2019
-  Version: [1.6.12](https://curseforge.com/minecraft/mc-mods/first-aid/files/2829601)
-  Source: [GitHub](https://github.com/ichttt/FirstAid)
-
-  ![](https://media.forgecdn.net/attachments/221/374/firstaidoverlay.PNG)
-*/
-mod "mods/FirstAid.jar" {
-  method    = "curse"
-  projectID = 276837
-  fileID    = 2829601
-}

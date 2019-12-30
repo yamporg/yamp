@@ -14,10 +14,6 @@ mod "config/psi.cfg" {
   file = "files/config/psi.cfg"
 }
 
-mod "config/First Aid.cfg" {
-  file = "files/config/First Aid.cfg"
-}
-
 mod "config/epicsiegemod.cfg" {
   file = "files/config/epicsiegemod.cfg"
 }
