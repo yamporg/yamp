@@ -14,3 +14,20 @@ mod "mods/TwilightForest.jar" {
   projectID = 227639
   fileID    = 2818055
 }
+
+/*
+- #### [IceAndFire](https://curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+
+  Ice and Fire is a mod created by both Raptorfarian and Alexthe666, which hopes to add dragons in a proper way. Currently, Dragons have two types: Ice and Fire. Fire Dragons breathe fire and roam most of the habitable world, whilst Ice Dragons inhabit the coldest places known to man and freeze their prey to death. Both kinds of dragons spawn naturally as adults.
+
+  Date: Oct 7, 2019
+  Version: [1.8.3](https://curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/2803425)
+  Source: [GitHub](https://github.com/Alex-the-666/Ice_and_Fire)
+
+  Requires: [LLibrary](#LLibrary)
+*/
+mod "mods/IceAndFire.jar" {
+  method    = "curse"
+  projectID = 264231
+  fileID    = 2803425
+}
