@@ -158,3 +158,18 @@ mod "mods/Forgelin.jar" {
   projectID = 248453
   fileID    = 2785465
 }
+
+/*
+- #### [COFHCore](https://curseforge.com/minecraft/mc-mods/cofh-core)
+
+  Date: May 26, 2019
+  Version: [4.6.3.27](https://curseforge.com/minecraft/mc-mods/cofh-core/files/2716100)
+  Source: [GitHub](https://github.com/CoFH/CoFHCore)
+
+  Dependent: [WirelessUtils](#WirelessUtils)
+*/
+mod "mods/COFHCore.jar" {
+  method    = "curse"
+  projectID = 69162
+  fileID    = 2716100
+}
