@@ -1,0 +1,40 @@
+/*
+- #### [RFTools](https://curseforge.com/minecraft/mc-mods/rftools)
+
+  RFTools is a mod containing various tools that are related to RF (Redflux) or technology in general.
+
+  Date: Jul 22, 2019
+  Version: [7.72](https://www.curseforge.com/minecraft/mc-mods/rftools/files/2745848)
+  Source: [GitHub](https://github.com/McJty/RFTools)
+
+  ![](https://media.forgecdn.net/attachments/16/330/teleporter_setup.png)
+
+  Requires: [McJtyLib](#McJtyLib)
+
+  Dependent: [RFToolsDim](#RFToolsDim)
+*/
+mod "mods/RFTools.jar" {
+  method    = "curse"
+  projectID = 224641
+  fileID    = 2745848
+}
+
+/*
+- #### [RFToolsDim](https://curseforge.com/minecraft/mc-mods/rftools-dimensions)
+
+  This mod adds machines and tools to create dimensions using RF power.
+
+  Date: May 5, 2019
+  Version: [5.71](https://curseforge.com/minecraft/mc-mods/rftools-dimensions/files/2707390)
+  Source: [GitHub](https://github.com/McJtyMods/RFToolsDimensions)
+
+  Requires: [RFTools](#RFTools)
+  Requires: [McJtyLib](#McJtyLib)
+
+  ![](https://media.forgecdn.net/attachments/31/141/2015-09-25_13.png)
+*/
+mod "mods/RFToolsDim.jar" {
+  method    = "curse"
+  projectID = 240950
+  fileID    = 2707390
+}
