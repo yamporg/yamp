@@ -86,8 +86,8 @@ mod "mods/ImmersiveRailroading.jar" {
 
   From the folks that brought you Minecraft Flight Simulator comes the all-new Immersive Vehicles mod! This mod is the result of over a year’s worth of work and is the continuation and future of Minecraft Flight Simulator.
 
-  Date: Nov 8, 2019
-  Version: [15.5.0](https://curseforge.com/minecraft/mc-mods/minecraft-transport-simulator/files/2823784)
+  Date: Dec 30, 2019
+  Version: [15.8.0](https://curseforge.com/minecraft/mc-mods/minecraft-transport-simulator/files/2851627)
   Source: [GitHub](https://github.com/DonBruce64/MinecraftTransportSimulator)
 
   Dependent: [MTSOfficialPack](#MTSOfficialPack)
@@ -97,7 +97,7 @@ mod "mods/ImmersiveRailroading.jar" {
 mod "mods/ImmersiveVehicles.jar" {
   method    = "curse"
   projectID = 286703
-  fileID    = 2823784
+  fileID    = 2851627
 }
 
 /*
@@ -105,8 +105,8 @@ mod "mods/ImmersiveVehicles.jar" {
 
   This is the official vehicle set for Immersive Vehicles. It contains all the vehicles that the dev team has worked on and feel fit to include into the mod.
 
-  Date: Sep 27, 2019
-  Version: [V12](https://curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set/files/2796237)
+  Date: Dec 30, 2019
+  Version: [V13](https://curseforge.com/minecraft/mc-mods/transport-simulator-official-vehicle-set/files/2851622)
   Source: N/A
 
   Requires: [ImmersiveVehicles](#ImmersiveVehicles)
@@ -116,5 +116,5 @@ mod "mods/ImmersiveVehicles.jar" {
 mod "mods/MTSOfficialPack.jar" {
   method    = "curse"
   projectID = 292217
-  fileID    = 2796237
+  fileID    = 2851622
 }

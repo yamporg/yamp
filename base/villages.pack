@@ -3,8 +3,8 @@
 
   Minecolonies is an interactive Town building mod that allows you to create your own thriving Town within Minecraft. It depicts real-life scenarios by providing you with different craftable options to build your own Town and enhance your gaming experience.
 
-  Date: Oct 30, 2019
-  Version: [0.10.488](https://curseforge.com/minecraft/mc-mods/minecolonies/files/2818963)
+  Date: Dec 14, 2019
+  Version: [0.10.592](https://curseforge.com/minecraft/mc-mods/minecolonies/files/2842477)
   Source: [GitHub](https://github.com/Minecolonies/minecolonies)
 
   ![](https://media.forgecdn.net/attachments/211/253/mesa2.png)
@@ -12,5 +12,5 @@
 mod "mods/Minecolonies.jar" {
   method    = "curse"
   projectID = 245506
-  fileID    = 2818963
+  fileID    = 2842477
 }
