@@ -21,50 +21,54 @@ components:
     hidewebchatip: true
     use-player-login-ip: false
 
+  # Enable and display map markers.
+  - class: org.dynmap.MarkersComponent
+    type: markers
+    # Enables support for defining markers using signs.
+    enablesigns: true
+    # Show spawn marker.
+    showspawn: true
+    # Show offline players for one week (10080 minutes).
+    showofflineplayers: true
+    offlinehidebydefault: false
+    maxofflinetime: 10080
+    # Show player spawn beds.
+    showspawnbeds: true
+    spawnbedhidebydefault: false
+
+  # Display player positions and names as markers on the map.
+  - class: org.dynmap.ClientComponent
+    type: playermarkers
+
+  # Enable sending chat messages from web to server and vice versa.
   - class: org.dynmap.SimpleWebChatComponent
     allowchat: true
 
-  - class: org.dynmap.MarkersComponent
-    type: markers
-    showofflineplayers: true
-    offlinehidebydefault: false
-    # Show offline players for one week (10080 minutes).
-    maxofflinetime: 10080
-    # Show spawn marker.
-    showspawn: true
-    spawnicon: world
-    spawnlabel: "Spawn"
-
+  # Display input field for chat messages.
   - class: org.dynmap.ClientComponent
     type: chat
 
+  # Display message balloon above the location of the sending player on the map, if any.
   - class: org.dynmap.ClientComponent
     type: chatballoon
-    focuschatballoons: false
 
+  # Display box for viewing chat messages.
   - class: org.dynmap.ClientComponent
     type: chatbox
-    showplayerfaces: true
-    messagettl: 5
-    sendbutton: true
 
-  - class: org.dynmap.ClientComponent
-    type: playermarkers
-    showplayerfaces: true
-    showplayerhealth: true
-    showplayerbody: true
-
+  # Display world clock.
   - class: org.dynmap.ClientComponent
     type: timeofdayclock
     showdigitalclock: true
     showweather: true
 
-  # Display word coordinate at cursor position.
+  # Display world coordinate at the cursor position.
   - class: org.dynmap.ClientComponent
     type: coord
-    label: "Location"
-    hidey: false
-    show-mcr: false
+
+  # Display link button that preserves current page state.
+  - class: org.dynmap.ClientComponent
+    type: link
 
 # Render ores. It’s OK to reveal them on the map.
 hideores: false
