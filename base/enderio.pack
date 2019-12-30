@@ -1,0 +1,29 @@
+/*
+- #### [EnderIO](https://curseforge.com/minecraft/mc-mods/ender-io)
+
+  Ender IO is a full-sized tech-mod.
+
+  Date: Oct 15, 2019
+  Version: [5.1.52](https://curseforge.com/minecraft/mc-mods/ender-io/files/2809869)
+  Source: [GitHub](https://github.com/CrazyPants/EnderIO)
+
+  Requires: [EnderCore](#EnderCore)
+*/
+mod "mods/EnderIO.jar" {
+  method    = "curse"
+  projectID = 64578
+  fileID    = 2809869
+}
+
+/*
+- #### [EnderCore](https://curseforge.com/minecraft/mc-mods/endercore)
+
+  Date: Nov 5, 2019
+  Version: [0.5.73](https://curseforge.com/minecraft/mc-mods/endercore/files/2822401)
+  Source: [GitHub](https://github.com/SleepyTrousers/EnderCore)
+*/
+mod "mods/EnderCore.jar" {
+  method    = "curse"
+  projectID = 231868
+  fileID    = 2822401
+}
