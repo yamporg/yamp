@@ -33,6 +33,21 @@ mod "mods/AppleSkin.jar" {
 }
 
 /*
+- #### [DurabilityViewer](https://curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer)
+
+  This mod shows your item durabilities.
+
+  Date: Dec 30, 2019
+  Version: [1.6](https://curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer/files/2851556)
+  Source: [GitHub](https://github.com/gbl/DurabilityViewer)
+*/
+mod "mods/DurabilityViewer.jar" {
+  method    = "curse"
+  projectID = 262146
+  fileID    = 2851556
+}
+
+/*
 - #### [WorldHandler](https://curseforge.com/minecraft/mc-mods/world-handler-command-gui)
 
   World Handler provides a simple and easy to use graphical user interface for commands.
