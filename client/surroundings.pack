@@ -1,0 +1,14 @@
+/*
+- #### [DynamicSurroundings](https://curseforge.com/minecraft/mc-mods/dynamic-surroundings)
+
+  Dynamic Surroundings alters the player’s visual and audible experience in Minecraft, and does not alter game mechanics.
+
+  Date: Nov 10, 2019
+  Version: [3.6.0.2](https://curseforge.com/minecraft/mc-mods/dynamic-surroundings/files/2825354)
+  Source: [GitHub](https://github.com/OreCruncher/DynamicSurroundings)
+*/
+mod "mods/DynamicSurroundings.jar" {
+  method    = "curse"
+  projectID = 238891
+  fileID    = 2825354
+}
