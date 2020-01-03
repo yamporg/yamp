@@ -182,6 +182,8 @@ mod "mods/COFHCore.jar" {
   Date: Oct 2, 2018
   Version: [2.1.0.6](https://curseforge.com/minecraft/mc-mods/redstone-flux/files/2623090)
   Source: [GitHub](https://github.com/CoFH/RedstoneFlux)
+
+  Dependent: [COFHCore](#COFHCore)
 */
 mod "mods/RedstoneFlux.jar" {
   method     = "curse"
@@ -208,11 +210,29 @@ mod "mods/LLibrary.jar" {
 - #### [McJtyLib](https://curseforge.com/minecraft/mc-mods/mcjtylib)
 
   Date: Jul 22, 2019
-  Version: [](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
+  Version: [3.5.4](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
   Source: [GitHub](https://github.com/McJtyMods/McJtyLib)
+
+  Dependent: [RFTools](#RFTools)
+  Dependent: [RFToolsDim](#RFToolsDim)
 */
 mod "mods/McJtyLib.jar" {
   method    = "curse"
   projectID = 233105
   fileID    = 2745846
+}
+
+/*
+- #### [CoroUtil](https://curseforge.com/minecraft/mc-mods/coroutil)
+
+  Date: Dec 29, 2019
+  Version: [1.2.35](https://curseforge.com/minecraft/mc-mods/coroutil/files/2851095)
+  Source: [GitHub](https://github.com/Corosauce/CoroUtil)
+
+  Dependent: [Weather2](#Weather2)
+*/
+mod "mods/CoroUtil.jar" {
+  method    = "curse"
+  projectID = 237749
+  fileID    = 2851095
 }

@@ -1,0 +1,16 @@
+/*
+- #### [Weather2](https://curseforge.com/minecraft/mc-mods/weather-storms-tornadoes)
+
+  Simulates a weather system around each player, spawning warm and cold cloud formations depending on the biome. As the cloud formations travel due to the wind added by the mod, when they collide they have a chance of developing into thunderstorms, which can progress into deadlier storms such as wall clouds, hailstorms, tornadoes, or hurricanes.
+
+  Date: Aug 2, 2018
+  Version: [2.6.12](https://curseforge.com/minecraft/mc-mods/weather-storms-tornadoes/files/2596867)
+  Source: [GitHub](https://github.com/Corosauce/weather2)
+
+  Requires: [CoroUtil](#CoroUtil)
+*/
+mod "mods/Weather2.jar" {
+  method    = "curse"
+  projectID = 237746
+  fileID    = 2596867
+}
