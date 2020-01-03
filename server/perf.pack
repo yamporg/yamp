@@ -14,3 +14,18 @@ mod "mods/Phosphor.jar" {
   projectID = 318255
   fileID    = 2747710
 }
+
+/*
+- #### [AIImprovements](https://curseforge.com/minecraft/mc-mods/ai-improvements)
+
+  Simplified AI modification mod focused on performance and low-level modifications to AIs in the game. Picking up the slack for the base game and improving it for a modded ecosystem. Handling common problems such as too many animals, performance hits from swarms of zombies, and simple remove tasks skipped by larger AI improvement mods.
+
+  Date: Jul 14, 2017
+  Version: [0.0.1-b3](https://curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734)
+  Source: [GitHub](https://github.com/BuiltBrokenModding/AI-Improvements)
+*/
+mod "mods/AIImprovements.jar" {
+  method    = "curse"
+  projectID = 233019
+  fileID    = 2450734
+}
