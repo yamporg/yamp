@@ -14,3 +14,37 @@ mod "mods/Weather2.jar" {
   projectID = 237746
   fileID    = 2596867
 }
+
+/*
+- #### [StellarSky](https://www.curseforge.com/minecraft/mc-mods/stellar-sky)
+
+  Stellar Sky is a mod which changes the Minecraft sky to be realistic.
+
+  Date: Apr 30, 2018
+  Version: [](https://curseforge.com/minecraft/mc-mods/stellar-sky/files/2557111)
+  Source: [GitHub](https://github.com/Abastro/StellarSky)
+
+  Requires: [StellarAPI](#StellarAPI)
+
+  ![](https://imgur.com/X119kUs.png)
+*/
+mod "mods/StellarSky.jar" {
+  method    = "curse"
+  projectID = 236078
+  fileID    = 2557111
+}
+
+/*
+- #### [StellarAPI](https://curseforge.com/minecraft/mc-mods/stellar-api)
+
+  Date: Jun 2, 2018
+  Version: [](https://curseforge.com/minecraft/mc-mods/stellar-api/files/2568537)
+  Source: [GitHub](https://github.com/Abastro/StellarAPI)
+
+  Dependent: [StellarSky](#StellarSky)
+*/
+mod "mods/StellarAPI.jar" {
+  method    = "curse"
+  projectID = 244147
+  fileID    = 2568537
+}
