@@ -25,8 +25,8 @@ mod "mods/JEI.jar" {
 
   JEC adds a simple calculator to help you calculate how many of resources you need to gather for certain items.
 
-  Date: Sep 23, 2019
-  Version: [](https://curseforge.com/minecraft/mc-mods/just-enough-calculation/files/2791973)
+  Date: Dec 26, 2019
+  Version: [3.2.3](https://curseforge.com/minecraft/mc-mods/just-enough-calculation/files/2849567)
   Source: [GitHub](https://github.com/Towdium/JustEnoughCalculation)
 
   Requires: [JEI](#JEI)
@@ -36,7 +36,7 @@ mod "mods/JEI.jar" {
 mod "mods/JEC.jar" {
   method    = "curse"
   projectID = 242223
-  fileID    = 2791973
+  fileID    = 2849567
 }
 
 /*
