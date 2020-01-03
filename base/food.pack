@@ -1,0 +1,14 @@
+/*
+- #### [HarvestCraft](https://curseforge.com/minecraft/mc-mods/pams-harvestcraft)
+
+  Pam’s HarvestCraft is an ever growing mod for Minecraft that changes the vanilla food restoration values in an attempt to encourage players to do more than eat cooked pork chops their entire Minecraft career.
+
+  Date: Aug 27, 2019
+  Version: [1.12.2zf](https://curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2771840)
+  Source: [GitHub](https://github.com/MatrexsVigil/harvestcraft)
+*/
+mod "mods/HarvestCraft.jar" {
+  method    = "curse"
+  projectID = 221857
+  fileID    = 2771840
+}
