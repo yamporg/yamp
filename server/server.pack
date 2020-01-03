@@ -31,6 +31,21 @@ mod "mods/Stackie.jar" {
 }
 
 /*
+- #### [SwingThroughGrass](https://curseforge.com/minecraft/mc-mods/swingthroughgrass)
+
+  Tiny mod that tries to eliminate those kind of situations when "I wanted to hit the mob, not the grass". Now you can hit mobs behind the grass!
+
+  Date: Dec 10, 2017
+  Version: [1.2.3](https://curseforge.com/minecraft/mc-mods/swingthroughgrass/files/2508268)
+  Source: [GitHub](https://github.com/Exidex/SwingThroughGrass)
+*/
+mod "mods/SwingThroughGrass.jar" {
+  method    = "curse"
+  projectID = 264353
+  fileID    = 2508268
+}
+
+/*
 - #### [WorldEdit](https://curseforge.com/minecraft/mc-mods/worldedit)
 
   WorldEdit is an easy-to-use in-game Minecraft map editor. Through a combination of commands and "brushes," you can sculpt your world or simply perform numerous terraforming tasks. 
