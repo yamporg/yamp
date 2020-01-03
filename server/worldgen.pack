@@ -17,6 +17,25 @@ mod "mods/RTG.jar" {
 }
 
 /*
+- #### [RecurrentComplex](https://curseforge.com/minecraft/mc-mods/recurrent-complex)
+
+  Over 200 randomized structures! You can find forts, water shrines, nether thorns, ruins, underground flora, hidden treasure, inns, remnants of tribal nations, windmills, graveyards, towers, mazes, meteors, mysteries, pyramids, trees, big trees, VERY big trees (yup), abandoned houses, abandoned mines, floating islands, pirate hideouts, and so much more!
+
+  Date: Mar 20, 2019
+  Version: [1.4.8.2](https://curseforge.com/minecraft/mc-mods/recurrent-complex/files/2689602)
+  Source: [GitHub](https://github.com/Ivorforce/RecurrentComplex)
+
+  Requires: [IvTk](#IvTk)
+
+  ![](https://media.forgecdn.net/attachments/16/285/bildschirmfoto-2014-10-10-um-16.png)
+*/
+mod "mods/RecurrentComplex.jar" {
+  method    = "curse"
+  projectID = 223150
+  fileID    = 2689602
+}
+
+/*
 - #### [RoguelikeDungeons](https://curseforge.com/minecraft/mc-mods/roguelike-dungeons)
 
   Roguelike Dungeons is a mod that generates large underground dungeon structures which have a procedurally generated layout and loot.
