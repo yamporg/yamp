@@ -48,6 +48,21 @@ mod "mods/DurabilityViewer.jar" {
 }
 
 /*
+- #### [MoreOverlays](https://curseforge.com/minecraft/mc-mods/more-overlays/files/2745657)
+
+  This mods adds some of the overlays from NEI.
+
+  Date: Jul 21, 2019
+  Version: [1.15.1](https://curseforge.com/minecraft/mc-mods/more-overlays/files/2745657)
+  Source: [GitHub](https://github.com/feldim2425/MoreOverlays)
+*/
+mod "mods/MoreOverlays.jar" {
+  method    = "curse"
+  projectID = 243478
+  fileID    = 2745657
+}
+
+/*
 - #### [WorldHandler](https://curseforge.com/minecraft/mc-mods/world-handler-command-gui)
 
   World Handler provides a simple and easy to use graphical user interface for commands.
