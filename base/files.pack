@@ -2,10 +2,6 @@ mod "config/forge.cfg" {
   file = "files/config/forge.cfg"
 }
 
-mod "config/reccomplex.cfg" {
-  file = "files/config/reccomplex.cfg"
-}
-
 mod "config/huntingdim/huntingdim.cfg" {
   file = "files/config/huntingdim/huntingdim.cfg"
 }
