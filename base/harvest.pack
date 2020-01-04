@@ -12,3 +12,20 @@ mod "mods/HarvestCraft.jar" {
   projectID = 221857
   fileID    = 2771840
 }
+
+/*
+- #### [CookingForBlockheads](https://curseforge.com/minecraft/mc-mods/cooking-for-blockheads)
+
+  This mod adds a cooking book to Minecraft that will only show recipes that you can currently make with the things you carry in your inventory. It also adds an optional upgraded version of the book that can craft the foods right away by simply clicking on the recipes.
+
+  There’s also five new blocks that together form a Multiblock Kitchen Structure. It consists of the main component, the Cooking Table, which is the book in block-form and uses the other Multiblock Kitchen parts, the Cooking Oven, which can smelt food items only and provides smelting ability to the Cooking Table, the sink which provides water for recipes, the tool rack which can be used to store tools for recipes and the fridge, where you can store all your ingredients.
+
+  Date: Jun 30, 2019
+  Version: [6.4.71](https://curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2733516)
+  Source: [GitHub](https://github.com/blay09/CookingForBlockheads)
+*/
+mod "mods/CookingForBlockheads.jar" {
+  method    = "curse"
+  projectID = 231484
+  fileID    = 2733516
+}
