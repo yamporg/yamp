@@ -16,3 +16,29 @@ mod "mods/Mekanism.jar" {
   projectID = 268560
   fileID    = 2835175
 }
+
+/*
+- #### [MekanismTools](https://curseforge.com/minecraft/mc-mods/mekanism-tools)
+
+  Date: Dec 1, 2019
+  Version: [9.8.3.390](https://curseforge.com/minecraft/mc-mods/mekanism-tools/files/2835178)
+  Source: [GitHub](https://github.com/mekanism/mekanism)
+*/
+mod "mods/MekanismTools.jar" {
+  method    = "curse"
+  projectID = 268567
+  fileID    = 2835178
+}
+
+/*
+- #### [MekanismGenerators](https://curseforge.com/minecraft/mc-mods/mekanism-generators)
+
+  Date: Dec 1, 2019
+  Version: [9.8.3.390](https://curseforge.com/minecraft/mc-mods/mekanism-generators/files/2835177)
+  Source: [GitHub](https://github.com/mekanism/mekanism)
+*/
+mod "mods/MekanismGenerators.jar" {
+  method    = "curse"
+  projectID = 268566
+  fileID    = 2835177
+}
