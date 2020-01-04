@@ -159,3 +159,18 @@ mod "mods/Controlling.jar" {
   projectID = 250398
   fileID    = 2731319
 }
+
+/*
+- #### [IKWID](https://curseforge.com/minecraft/mc-mods/i-know-what-im-doing)
+
+  IKWID mod suppresses tutorial cards in fresh game instances.
+
+  Date: Aug 27, 2017
+  Version: [1.0.2](https://curseforge.com/minecraft/mc-mods/i-know-what-im-doing/files/2469710)
+  Source: [GitHub](https://github.com/ChloeDawn/IKnowWhatImDoing)
+*/
+mod "mods/IKWID.jar" {
+  method    = "curse"
+  projectID = 271492
+  fileID    = 2469710
+}
