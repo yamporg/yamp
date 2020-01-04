@@ -6,9 +6,26 @@
   Date: Nov 10, 2019
   Version: [3.6.0.2](https://curseforge.com/minecraft/mc-mods/dynamic-surroundings/files/2825354)
   Source: [GitHub](https://github.com/OreCruncher/DynamicSurroundings)
+
+  Requires: [OreLib](#OreLib)
 */
 mod "mods/DynamicSurroundings.jar" {
   method    = "curse"
   projectID = 238891
   fileID    = 2825354
+}
+
+/*
+- #### [OreLib](https://curseforge.com/minecraft/mc-mods/orelib)
+
+  Date: Nov 2, 2019
+  Version: [3.6.0.1](https://curseforge.com/minecraft/mc-mods/orelib/files/2820815)
+  Source: [GitHub](https://github.com/OreCruncher/OreLib)
+
+  Dependent: [DynamicSurroundings](#DynamicSurroundings)
+*/
+mod "mods/OreLib.jar" {
+  method    = "curse"
+  projectID = 307806
+  fileID    = 2820815
 }
