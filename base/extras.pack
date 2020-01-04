@@ -67,3 +67,18 @@ mod "mods/Lumberjack.jar" {
   projectID = 223439
   fileID    = 2675502
 }
+
+/*
+- #### [CarryOn](https://curseforge.com/minecraft/mc-mods/carry-on)
+
+  Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities (such as Chests, Furnaces, Droppers, Spawners, and your favorite machines from other Tech Mods) using only their empty hands.
+
+  Date: Oct 30, 2019
+  Version: [1.12.3](https://curseforge.com/minecraft/mc-mods/carry-on/files/2818975)
+  Source: [GitHub](https://github.com/Tschipp/CarryOn)
+*/
+mod "mods/CarryOn.jar" {
+  method    = "curse"
+  projectID = 274259
+  fileID    = 2818975
+}
