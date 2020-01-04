@@ -1,4 +1,38 @@
 /*
+- #### [MalisisDoors](https://curseforge.com/minecraft/mc-mods/malisisdoors)
+
+  This mod adds new animations for doors, trap doors and fence gates.
+
+  It adds new several doors like glass doors, jail doors, laboratory doors, factory doors and garage doors that all have different and original animations. You can also entirely build your doors with a  machine that lets you chose the way it looks and the way it moves.
+
+  Date: Feb 1, 2018
+  Version: [7.3.0](https://curseforge.com/minecraft/mc-mods/malisisdoors/files/2526674)
+  Source: [GitHub](https://github.com/Ordinastie/MalisisDoors)
+
+  Requires: [MalisisCore](#MalisisCore)
+*/
+mod "mods/MalisisDoors.jar" {
+  method    = "curse"
+  projectID = 223891
+  fileID    = 2526674
+}
+
+/*
+- #### [MalisisCore](https://www.curseforge.com/minecraft/mc-mods/malisiscore)
+
+  Date: Feb 27, 2019
+  Version: [6.5.1](https://curseforge.com/minecraft/mc-mods/malisiscore/files/2680892)
+  Source: [GitHub](https://github.com/Ordinastie/MalisisCore)
+
+  Dependent: [MalisisDoors](#MalisisDoors)
+*/
+mod "mods/MalisisCore.jar" {
+  method    = "curse"
+  projectID = 223896
+  fileID    = 2680892
+}
+
+/*
 - #### [Blockcraftery](https://curseforge.com/minecraft/mc-mods/blockcraftery)
 
   Blockcraftery is a mod that provides a very simple feature: Framed Blocks. Framed blocks can be placed in the world, then can be given another block’s texture by right-clicking.

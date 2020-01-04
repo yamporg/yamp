@@ -1,0 +1,52 @@
+/*
+- #### [Quark](https://curseforge.com/minecraft/mc-mods/quark)
+
+  Quark is a fully modular mod with the objective of improving the vanilla gameplay experience.
+
+  Date: Aug 11, 2019
+  Version: [1.6-177](https://curseforge.com/minecraft/mc-mods/quark/files/2759240)
+  Source: [GitHub](https://github.com/Vazkii/Quark)
+
+  Requires: [AutoRegLib](#AutoRegLib)
+
+  Dependent: [QuarkOddities](#QuarkOddities)
+*/
+mod "mods/Quark.jar" {
+  method    = "curse"
+  projectID = 243121
+  fileID    = 2759240
+}
+
+/*
+- #### [QuarkOddities](https://curseforge.com/minecraft/mc-mods/quark-oddities)
+
+  Quark Oddities is an addon to the Quark mod. Oddities provides features designed around “Player-Focused Design”.
+
+  Date: Aug 18, 2018
+  Version: [1.12.2](https://curseforge.com/minecraft/mc-mods/quark-oddities/files/2604798)
+  Source: [GitHub](https://github.com/Vazkii/Quark/blob/1.12/src/main/java/vazkii/quark/oddities)
+
+  Requires: [Quark](#Quark)
+*/
+mod "mods/QuarkOddities.jar" {
+  method    = "curse"
+  projectID = 301051
+  fileID    = 2604798
+}
+
+/*
+- #### [Charm](https://curseforge.com/minecraft/mc-mods/charm)
+
+  Charm is a mod for Minecraft inspired by the Quark mod in that it is designed to enhance the vanilla game experience without compromising its gameplay style.
+
+  Date: Sep 2, 2019
+  Version: [1.3.6](https://curseforge.com/minecraft/mc-mods/charm/files/2776773)
+  Source: [GitHub](https://github.com/svenhjol/Charm)
+
+  ![](https://media.forgecdn.net/attachments/249/979/home.jpg)
+*/
+mod "mods/Charm.jar" {
+  method    = "curse"
+  projectID = 318872
+  fileID    = 2776773
+}

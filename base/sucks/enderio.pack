@@ -27,3 +27,18 @@ mod "mods/EnderCore.jar" {
   projectID = 231868
   fileID    = 2822401
 }
+
+/*
+- #### [EnderOC](https://curseforge.com/minecraft/mc-mods/oc-ender-io-driver)
+
+  Adds OpenComputers support to some Ender IO machines.
+
+  Date: Apr 24, 2019
+  Version: [1.0.001](https://curseforge.com/minecraft/mc-mods/oc-ender-io-driver/files/2703151)
+  Source: [GitHub](https://github.com/BrewAndCode/OCEIO)
+*/
+mod "mods/EnderOC.jar" {
+  method    = "curse"
+  projectID = 320132
+  fileID    = 2703151
+}

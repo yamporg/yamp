@@ -56,6 +56,7 @@ mod "mods/TrackAPI.jar" {
 
   Dependent: [Psi](#Psi)
   Dependent: [AkashicTome](#AkashicTome)
+  Dependent: [Quark](#Quark)
 */
 mod "mods/AutoRegLib.jar" {
   method    = "curse"
@@ -152,43 +153,12 @@ mod "mods/CreativeCore.jar" {
 
   Dependent: [PSIdeas](#PSIdeas)
   Dependent: [LibrarianLib](#LibrarianLib)
+  Dependent: [TeslaCoreLib](#TeslaCoreLib)
 */
 mod "mods/Forgelin.jar" {
   method    = "curse"
   projectID = 248453
   fileID    = 2785465
-}
-
-/*
-- #### [COFHCore](https://curseforge.com/minecraft/mc-mods/cofh-core)
-
-  Date: May 26, 2019
-  Version: [4.6.3.27](https://curseforge.com/minecraft/mc-mods/cofh-core/files/2716100)
-  Source: [GitHub](https://github.com/CoFH/CoFHCore)
-
-  Requires: [RedstoneFlux](#RedstoneFlux)
-
-  Dependent: [WirelessUtils](#WirelessUtils)
-*/
-mod "mods/COFHCore.jar" {
-  method    = "curse"
-  projectID = 69162
-  fileID    = 2716100
-}
-
-/*
-- #### [RedstoneFlux](https://curseforge.com/minecraft/mc-mods/redstone-flux)
-
-  Date: Oct 2, 2018
-  Version: [2.1.0.6](https://curseforge.com/minecraft/mc-mods/redstone-flux/files/2623090)
-  Source: [GitHub](https://github.com/CoFH/RedstoneFlux)
-
-  Dependent: [COFHCore](#COFHCore)
-*/
-mod "mods/RedstoneFlux.jar" {
-  method     = "curse"
-  projectID  = 270789
-  fileID     = 2623090
 }
 
 /*
@@ -204,22 +174,6 @@ mod "mods/LLibrary.jar" {
   method    = "curse"
   projectID = 243298
   fileID    = 2704186
-}
-
-/*
-- #### [McJtyLib](https://curseforge.com/minecraft/mc-mods/mcjtylib)
-
-  Date: Jul 22, 2019
-  Version: [3.5.4](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
-  Source: [GitHub](https://github.com/McJtyMods/McJtyLib)
-
-  Dependent: [RFTools](#RFTools)
-  Dependent: [RFToolsDim](#RFToolsDim)
-*/
-mod "mods/McJtyLib.jar" {
-  method    = "curse"
-  projectID = 233105
-  fileID    = 2745846
 }
 
 /*

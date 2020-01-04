@@ -1,0 +1,12 @@
+/*
+- #### [IC2](https://curseforge.com/minecraft/mc-mods/industrial-craft)
+
+  Date: Jul 23, 2019
+  Version: [2.8.170-ex112](https://curseforge.com/minecraft/mc-mods/industrial-craft/files/2746892)
+  Source: *N/A*
+*/
+mod "mods/IC2.jar" {
+  method    = "curse"
+  projectID = 242638
+  fileID    = 2746892
+}

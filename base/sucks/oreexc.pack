@@ -1,0 +1,12 @@
+/*
+- #### [OreExc](https://curseforge.com/minecraft/mc-mods/ore-excavation)
+
+  Date: Sep 25, 2019
+  Version: [1.4.143](https://curseforge.com/minecraft/mc-mods/ore-excavation/files/2794895)
+  Source: [GitHub](https://github.com/Funwayguy/OreExcavation)
+*/
+mod "mods/OreExc.jar" {
+  method    = "curse"
+  projectID = 250898
+  fileID    = 2794895
+}

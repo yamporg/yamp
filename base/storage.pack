@@ -18,23 +18,6 @@ mod "mods/RefinedStorage.jar" {
 }
 
 /*
-- #### [WirelessUtils](https://curseforge.com/minecraft/mc-mods/wireless-utilities)
-
-  Wireless Utilities is a mod about moving things about without wires. There are machines for transferring RF, fluids, and items.
-
-  Date: Sep 26, 2019
-  Source: [GitHub](https://github.com/SirStendec/WirelessUtilities)
-  Version: [1.10.136](https://curseforge.com/minecraft/mc-mods/wireless-utilities/files/2795376)
-
-  Requires: [COFHCore](#COFHCore)
-*/
-mod "mods/WirelessUtils.jar" {
-  method    = "curse"
-  projectID = 306122
-  fileID    = 2795376
-}
-
-/*
 - #### [RSAddons](https://curseforge.com/minecraft/mc-mods/refined-storage-addons)
 
   This is an addon mod for Refined Storage, from the original Refined Storage author. Adds wireless version of the Crafting Grid (needs to be charged with energy).
