@@ -190,3 +190,20 @@ mod "mods/CoroUtil.jar" {
   projectID = 237749
   fileID    = 2851095
 }
+
+/*
+- #### [CTM](https://curseforge.com/minecraft/mc-mods/ctm)
+
+  Allows resource packs to add connected textures, emissive rendering, and much more.
+
+  Date: Nov 26, 2019
+  Version: [1.0.1.30](https://curseforge.com/minecraft/mc-mods/ctm/files/2832564)
+  Source: [GitHub](https://github.com/Chisel-Team/ConnectedTexturesMod)
+
+  Dependent: [Chisel](#Chisel)
+*/
+mod "mods/CTM.jar" {
+  method    = "curse"
+  projectID = 267602
+  fileID    = 2832564
+}
