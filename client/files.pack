@@ -18,10 +18,6 @@ mod "config/RTG/rtg.cfg" {
   file = "files/config/RTG/rtg.cfg"
 }
 
-mod "config/ice_and_fire.cfg" {
-  file = "files/config/ice_and_fire.cfg"
-}
-
 mod "config/quark.cfg" {
   file = "files/config/quark.cfg"
 }
