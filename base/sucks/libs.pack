@@ -1,20 +1,4 @@
 /*
-- #### [McJtyLib](https://curseforge.com/minecraft/mc-mods/mcjtylib)
-
-  Date: Jul 22, 2019
-  Version: [3.5.4](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
-  Source: [GitHub](https://github.com/McJtyMods/McJtyLib)
-
-  Dependent: [RFTools](#RFTools)
-  Dependent: [RFToolsDim](#RFToolsDim)
-*/
-mod "mods/McJtyLib.jar" {
-  method    = "curse"
-  projectID = 233105
-  fileID    = 2745846
-}
-
-/*
 - #### [COFHCore](https://curseforge.com/minecraft/mc-mods/cofh-core)
 
   Date: May 26, 2019

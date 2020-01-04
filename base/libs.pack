@@ -207,3 +207,20 @@ mod "mods/CTM.jar" {
   projectID = 267602
   fileID    = 2832564
 }
+
+/*
+- #### [McJtyLib](https://curseforge.com/minecraft/mc-mods/mcjtylib)
+
+  Date: Jul 22, 2019
+  Version: [3.5.4](https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846)
+  Source: [GitHub](https://github.com/McJtyMods/McJtyLib)
+
+  Dependent: [XNet](#XNet)
+  Dependent: [RFTools](#RFTools)
+  Dependent: [RFToolsDim](#RFToolsDim)
+*/
+mod "mods/McJtyLib.jar" {
+  method    = "curse"
+  projectID = 233105
+  fileID    = 2745846
+}

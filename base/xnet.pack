@@ -1,0 +1,48 @@
+/*
+- #### [XNet](https://curseforge.com/minecraft/mc-mods/xnet)
+
+  XNet is a mod which adds a single type of cable: a networking cable. Using networking cables you can instantly transport items, fluids, energy, and information. The main focus of this mod is efficiency and flexibility. Efficiency in that it is possible to make huge cable networks (tested with two chests seperated by a cable of 12000 blocks long) with no lag. The cables themselves are not even tile entities. Flexibility in that the controller allows for really flexible configuration for distributing information.
+
+  Date: Jul 22, 2019
+  Version: [1.8.2](https://curseforge.com/minecraft/mc-mods/xnet/files/2745852)
+  Source: [GitHub](https://github.com/McJty/XNet)
+
+  Requires: [McJtyLib](#McJtyLib)
+*/
+mod "mods/XNet.jar" {
+  method    = "curse"
+  projectID = 260912
+  fileID    = 2745852
+}
+
+/*
+- #### [YNot](https://curseforge.com/minecraft/mc-mods/ynot)
+
+  Cross-mod compatibility for XNet? YNot!
+
+  Date: May 6, 2019
+  Version: [0.2.4](https://curseforge.com/minecraft/mc-mods/ynot/files/2708030)
+  Source: [GitHub](https://git.asie.pl/asie-minecraft/YNot)
+
+  Requires: [XNet](#XNet)
+*/
+mod "mods/YNot.jar" {
+  method    = "curse"
+  projectID = 283589
+  fileID    = 2708030
+}
+
+/*
+- #### [XNetOC](https://curseforge.com/minecraft/mc-mods/oc-xnet-driver)
+
+  XNetOC allows OpenComputers to utilize XNet networks to transfer items, fluids and energy to connected blocks.
+
+  Date: Nov 2, 2018
+  Version: [1.0.3-b17](https://curseforge.com/minecraft/mc-mods/oc-xnet-driver/files/2634368)
+  Source: [GitHub](https://github.com/thraaawn/OCXNetDriver)
+*/
+mod "mods/XNetOC.jar" {
+  method    = "curse"
+  projectID = 285385
+  fileID    = 2634368
+}
