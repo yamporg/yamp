@@ -25,9 +25,9 @@ mod "mods/COFHCore.jar" {
   Dependent: [COFHCore](#COFHCore)
 */
 mod "mods/RedstoneFlux.jar" {
-  method     = "curse"
-  projectID  = 270789
-  fileID     = 2623090
+  method    = "curse"
+  projectID = 270789
+  fileID    = 2623090
 }
 
 /*
