@@ -8,6 +8,8 @@
   Source: [GitHub](https://github.com/CrazyPants/EnderIO)
 
   Requires: [EnderCore](#EnderCore)
+
+  Dependent: [EnderOC](#EnderOC)
 */
 mod "mods/EnderIO.jar" {
   method    = "curse"
@@ -36,6 +38,9 @@ mod "mods/EnderCore.jar" {
   Date: Apr 24, 2019
   Version: [1.0.001](https://curseforge.com/minecraft/mc-mods/oc-ender-io-driver/files/2703151)
   Source: [GitHub](https://github.com/BrewAndCode/OCEIO)
+
+  Requires: [EnderIO](#EnderIO)
+  Requires: [OpenComputers](#OpenComputers)
 */
 mod "mods/EnderOC.jar" {
   method    = "curse"

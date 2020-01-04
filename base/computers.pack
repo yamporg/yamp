@@ -11,6 +11,8 @@
   Dependent: [OpenSec](#OpenSec)
   Dependent: [TinkersOC](#TinkersOC)
   Dependent: [OCSensors](#OCSensors)
+  Dependent: [XNetOC](#XNetOC)
+  Dependent: [EnderOC](#EnderOC)
 
   ![](https://media.forgecdn.net/attachments/14/519/2014-08-14_17.png)
 */

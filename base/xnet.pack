@@ -8,6 +8,9 @@
   Source: [GitHub](https://github.com/McJty/XNet)
 
   Requires: [McJtyLib](#McJtyLib)
+
+  Dependent: [YNot](#YNot)
+  Dependent: [XNetOC](#XNetOC)
 */
 mod "mods/XNet.jar" {
   method    = "curse"
@@ -40,6 +43,9 @@ mod "mods/YNot.jar" {
   Date: Nov 2, 2018
   Version: [1.0.3-b17](https://curseforge.com/minecraft/mc-mods/oc-xnet-driver/files/2634368)
   Source: [GitHub](https://github.com/thraaawn/OCXNetDriver)
+
+  Requires: [XNet](#XNet)
+  Requires: [OpenComputers](#OpenComputers)
 */
 mod "mods/XNetOC.jar" {
   method    = "curse"
