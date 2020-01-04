@@ -1,4 +1,21 @@
 /*
+- #### [IndustrialRenewal](https://curseforge.com/minecraft/mc-mods/industrial-renewal)
+
+  An industrial style mod that aims to make the aesthetic part of your industry much more real.
+
+  Date: Nov 1, 2019
+  Version: [0.13.1](https://curseforge.com/minecraft/mc-mods/industrial-renewal/files/2819850)
+  Source: [GitHub](https://github.com/Cassiobsk8/Industrial_Renewal)
+
+  ![](https://media.forgecdn.net/attachments/252/493/2019-05-15_17.png)
+*/
+mod "mods/IndustrialRenewal.jar" {
+  method    = "curse"
+  projectID = 299849
+  fileID    = 2819850
+}
+
+/*
 - #### [Blockcraftery](https://curseforge.com/minecraft/mc-mods/blockcraftery)
 
   Blockcraftery is a mod that provides a very simple feature: Framed Blocks. Framed blocks can be placed in the world, then can be given another block’s texture by right-clicking.
