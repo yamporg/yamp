@@ -82,3 +82,35 @@ mod "mods/CarryOn.jar" {
   projectID = 274259
   fileID    = 2818975
 }
+
+/*
+- #### [ZettaIndustries](https://curseforge.com/minecraft/mc-mods/zetta-industries)
+
+  Zetta Industries, ZI for shorts a mod that aims to extend other mods by adding various functionalities.
+
+  Currently, ZI adds functionalities to vanilla and mods like Big Reactors, Immersive Engineering and Open Computers.
+
+  Date: Nov 9, 2018
+  Version: [1.3-161](https://curseforge.com/minecraft/mc-mods/zetta-industries/files/2636576)
+  Source: [GitHub](https://github.com/marcin212/Zetta-Industries)
+*/
+mod "mods/ZettaIndustries.jar" {
+  method    = "curse"
+  projectID = 278475
+  fileID    = 2636576
+}
+
+/*
+- #### [NekoInventory](https://curseforge.com/minecraft/mc-mods/inventoryneko)
+
+  This mod adds a set of “inventory mascots”. They are special items which can be found as loot in dungeon chests.
+
+  Date: Sep 25, 2017
+  Version: [0.1.0](https://curseforge.com/minecraft/mc-mods/inventoryneko/files/2483812)
+  Source: [InventoryNeko](https://github.com/asiekierka/InventoryNeko)
+*/
+mod "mods/NekoInventory.jar" {
+  method    = "curse"
+  projectID = 278732
+  fileID    = 2483812
+}
