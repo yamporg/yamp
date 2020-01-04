@@ -16,3 +16,18 @@ mod "mods/UniDict.jar" {
   projectID = 244258
   fileID    = 2796682
 }
+
+/*
+- #### [CraftTweaker](https://curseforge.com/minecraft/mc-mods/crafttweaker)
+
+  CraftTweaker is a continuation of Minetweaker. Minetweaker allows you to customize your modpack or server with a simple scripting language. With a few instructions, you can add or remove recipes, change mod recipes, alter names, change furnace recipes, the ore dictionary, tooltips and many other things.
+
+  Date: Dec 8, 2019
+  Version: [4.1.20](https://curseforge.com/minecraft/mc-mods/crafttweaker/files/2838090)
+  Source: [GitHub](https://github.com/CraftTweaker/CraftTweaker)
+*/
+mod "mods/CraftTweaker.jar" {
+  method    = "curse"
+  projectID = 239197
+  fileID    = 2838090
+}
