@@ -29,11 +29,3 @@ mod "config/lumberjack.cfg" {
 mod "config/opencomputers/settings.conf" {
   file = "files/config/opencomputers/settings.conf"
 }
-
-mod "config/ice_and_fire.cfg" {
-  file = "files/config/ice_and_fire.cfg"
-}
-
-mod "config/quark.cfg" {
-  file = "files/config/quark.cfg"
-}
