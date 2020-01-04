@@ -1,0 +1,18 @@
+/*
+- #### [Mekanism](https://curseforge.com/minecraft/mc-mods/mekanism)
+
+  Mekanism is an independent tech mod that brings low, mid, and high tier machinery to Minecraft. The mod doesn’t have an actual goal, and you’ll understand this when you see all the random content Mekanism contains, from jetpacks to balloons. However, you’ll notice all the content blend together as you get to know the mod better!
+
+  By the time you’ve been using Mekanism for a while, you’ll have a near-indestructible suit of Obsidian Armor, be obtaining four ingots for each ore you mine, have the ability to fly wherever you want with the hydrogen-powered jetpacks, and have a cute robotic friend following you around while you mine.
+
+  Date: Dec 1, 2019
+  Version: [9.8.3.390](https://curseforge.com/minecraft/mc-mods/mekanism/files/2835175)
+  Source: [GitHub](https://github.com/mekanism/mekanism)
+
+  ![](https://media.forgecdn.net/attachments/210/85/2016-04-01_01.png)
+*/
+mod "mods/Mekanism.jar" {
+  method    = "curse"
+  projectID = 268560
+  fileID    = 2835175
+}
