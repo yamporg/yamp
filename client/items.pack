@@ -1,26 +1,4 @@
 /*
-- #### [JEI](https://curseforge.com/minecraft/mc-mods/jei)
-
-  JEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.
-
-  Date: Oct 7, 2019
-  Version: [4.15.0.291](https://curseforge.com/minecraft/mc-mods/jei/files/2803400)
-  Source: [GitHub](https://github.com/mezz/JustEnoughItems)
-
-  Dependent: [JEC](#JEC)
-  Dependent: [JER](#JER)
-  Dependent: [JEP](#JEP)
-  Dependent: [JETIF](#JETIF)
-
-  ![](https://media.forgecdn.net/attachments/31/417/thzzdin.png)
-*/
-mod "mods/JEI.jar" {
-  method    = "curse"
-  projectID = 238222
-  fileID    = 2803400
-}
-
-/*
 - #### [JEC](https://curseforge.com/minecraft/mc-mods/just-enough-calculation)
 
   JEC adds a simple calculator to help you calculate how many of resources you need to gather for certain items.
