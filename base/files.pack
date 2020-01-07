@@ -33,3 +33,7 @@ mod "config/opencomputers/settings.conf" {
 mod "config/ice_and_fire.cfg" {
   file = "files/config/ice_and_fire.cfg"
 }
+
+mod "config/unidict/UniDict.cfg" {
+  file = "files/config/unidict/UniDict.cfg"
+}
