@@ -37,3 +37,7 @@ mod "config/ice_and_fire.cfg" {
 mod "config/unidict/UniDict.cfg" {
   file = "files/config/unidict/UniDict.cfg"
 }
+
+mod "config/charm.cfg" {
+  file = "files/config/charm.cfg"
+}
