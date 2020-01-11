@@ -177,21 +177,6 @@ mod "mods/LLibrary.jar" {
 }
 
 /*
-- #### [CoroUtil](https://curseforge.com/minecraft/mc-mods/coroutil)
-
-  Date: Dec 29, 2019
-  Version: [1.2.35](https://curseforge.com/minecraft/mc-mods/coroutil/files/2851095)
-  Source: [GitHub](https://github.com/Corosauce/CoroUtil)
-
-  Dependent: [Weather2](#Weather2)
-*/
-mod "mods/CoroUtil.jar" {
-  method    = "curse"
-  projectID = 237749
-  fileID    = 2851095
-}
-
-/*
 - #### [CTM](https://curseforge.com/minecraft/mc-mods/ctm)
 
   Allows resource packs to add connected textures, emissive rendering, and much more.
