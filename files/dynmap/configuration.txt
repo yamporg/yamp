@@ -1,4 +1,4 @@
-deftemplatesuffix: vlowres
+deftemplatesuffix: hires
 
 # Save tiles in a single-file sqlite db.
 storage:
@@ -15,8 +15,11 @@ components:
   - class: org.dynmap.ClientConfigurationComponent
 
   - class: org.dynmap.InternalClientUpdateComponent
+    # Show players on the map, but hide if they are sneaking.
     sendhealth: true
     sendposition: true
+    hideifsneaking: true
+    # Enables web chat.
     allowwebchat: true
     hidewebchatip: true
     use-player-login-ip: false
@@ -39,6 +42,9 @@ components:
   # Display player positions and names as markers on the map.
   - class: org.dynmap.ClientComponent
     type: playermarkers
+    showplayerfaces: true
+    showplayerbody: true
+    showplayerhealth: true
 
   # Enable sending chat messages from web to server and vice versa.
   - class: org.dynmap.SimpleWebChatComponent
@@ -55,6 +61,9 @@ components:
   # Display box for viewing chat messages.
   - class: org.dynmap.ClientComponent
     type: chatbox
+    # Keep last messages.
+    scrollback: 100
+    messagettl: 86400
 
   # Display world clock.
   - class: org.dynmap.ClientComponent
@@ -65,6 +74,11 @@ components:
   # Display world coordinate at the cursor position.
   - class: org.dynmap.ClientComponent
     type: coord
+    label: "x,y"
+    # Show Minecraft Region file IDs.
+    show-mcr: true
+    # Hide height (Y coordinates). It’s dummy anyway.
+    hidey: true
 
   # Display link button that preserves current page state.
   - class: org.dynmap.ClientComponent
@@ -82,9 +96,7 @@ defaultzoom: 0
 defaultworld: world
 defaultmap: flat
 
-# Don’t render the world if players are online.
-fullrenderplayerlimit: 1
-updateplayerlimit: 1
+followzoom: 2
 
 # Some of the options below are likely to be required,
 # but I don’t have time to expirement with them.
