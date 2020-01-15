@@ -49,3 +49,7 @@ mod "config/refinedstorage.cfg" {
 mod "config/oreexcavation.cfg" {
   file = "files/config/oreexcavation.cfg"
 }
+
+mod "config/mekanism.cfg" {
+  file = "files/config/mekanism.cfg"
+}
