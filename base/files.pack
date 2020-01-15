@@ -41,3 +41,11 @@ mod "config/unidict/UniDict.cfg" {
 mod "config/charm.cfg" {
   file = "files/config/charm.cfg"
 }
+
+mod "config/refinedstorage.cfg" {
+  file = "files/config/refinedstorage.cfg"
+}
+
+mod "config/oreexcavation.cfg" {
+  file = "files/config/oreexcavation.cfg"
+}
