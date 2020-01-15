@@ -53,3 +53,15 @@ mod "config/oreexcavation.cfg" {
 mod "config/mekanism.cfg" {
   file = "files/config/mekanism.cfg"
 }
+
+mod "config/quark.cfg" {
+  file = "files/config/quark.cfg"
+}
+
+mod "config/debugserverinfo.cfg" {
+  file = "files/config/debugserverinfo.cfg"
+}
+
+mod "config/RTG/rtg.cfg" {
+  file = "files/config/RTG/rtg.cfg"
+}
