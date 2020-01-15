@@ -5,11 +5,11 @@
 
   Date: Jan 15, 2020
   Source: [GitHub](https://github.com/yamporg/WirelessUtilities)
-  Version: [1.10.dev](https://github.com/yamporg/WirelessUtilities/releases/tag/1.10.dev)
+  Version: [1.10.136-fix-69](https://github.com/yamporg/WirelessUtilities/releases/tag/1.10.136-fix-69)
 
   Requires: [COFHCore](#COFHCore)
 */
 mod "mods/WirelessUtils.jar" {
   method = "http"
-  file   = "https://github.com/yamporg/WirelessUtilities/releases/download/1.10.dev/wirelessutils-1.12.2-1.10.dev-universal.jar"
+  file   = "https://github.com/yamporg/WirelessUtilities/releases/download/1.10.136-fix-69/wirelessutils-1.12.2-1.10.dev-universal.jar"
 }
