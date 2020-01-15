@@ -3,14 +3,13 @@
 
   Wireless Utilities is a mod about moving things about without wires. There are machines for transferring RF, fluids, and items.
 
-  Date: Sep 26, 2019
-  Source: [GitHub](https://github.com/SirStendec/WirelessUtilities)
-  Version: [1.10.136](https://curseforge.com/minecraft/mc-mods/wireless-utilities/files/2795376)
+  Date: Jan 15, 2020
+  Source: [GitHub](https://github.com/yamporg/WirelessUtilities)
+  Version: [1.10.dev](https://github.com/yamporg/WirelessUtilities/releases/tag/1.10.dev)
 
   Requires: [COFHCore](#COFHCore)
 */
 mod "mods/WirelessUtils.jar" {
-  method    = "curse"
-  projectID = 306122
-  fileID    = 2795376
+  method = "http"
+  file   = "https://github.com/yamporg/WirelessUtilities/releases/download/1.10.dev/wirelessutils-1.12.2-1.10.dev-universal.jar"
 }
