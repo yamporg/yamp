@@ -1,0 +1,29 @@
+/*
+- #### [RebornStorage](https://curseforge.com/minecraft/mc-mods/rebornstorage)
+
+  Date: Nov 28, 2019
+  Version: [3.3.4.1](https://curseforge.com/minecraft/mc-mods/rebornstorage/files/2833871)
+  Source: [GitHub](https://github.com/TechReborn/RebornStorage)
+
+  Requires: [RebornCore](#RebornCore)
+*/
+mod "mods/RebornStorage.jar" {
+  method    = "curse"
+  projectID = 256662
+  fileID    = 2833871
+}
+
+/*
+- #### [RebornCore](https://www.curseforge.com/minecraft/mc-mods/reborncore)
+
+  Date: Oct 25, 2019
+  Version: [3.16.4.478](https://www.curseforge.com/minecraft/mc-mods/reborncore/files/2816362)
+  Source: [GitHub](https://github.com/TechReborn/RebornCore)
+
+  Dependent: [RebornStorage](#RebornStorage)
+*/
+mod "mods/RebornCore.jar" {
+  method    = "curse"
+  projectID = 237903
+  fileID    = 2816362
+}
