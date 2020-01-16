@@ -65,3 +65,7 @@ mod "config/debugserverinfo.cfg" {
 mod "config/RTG/rtg.cfg" {
   file = "files/config/RTG/rtg.cfg"
 }
+
+mod "config/enderio/enderiomachines.cfg" {
+  file = "files/config/enderio/enderiomachines.cfg"
+}
