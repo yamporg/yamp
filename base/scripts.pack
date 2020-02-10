@@ -1,0 +1,3 @@
+mod "scripts/theoneprobe.zs" {
+  file = "overrides/scripts/theoneprobe.zs"
+}

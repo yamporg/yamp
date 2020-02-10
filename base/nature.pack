@@ -1,0 +1,40 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/serene-seasons
+  https://github.com/Glitchfiend/SereneSeasons
+
+  Sep 30, 2019 (1.2.18)
+  https://curseforge.com/minecraft/mc-mods/serene-seasons/files/2799213
+*/
+mod "mods/SereneSeasons.jar" {
+  method    = "curse"
+  projectID = 291874
+  fileID    = 2799213
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/dynamictrees
+  https://github.com/ferreusveritas/DynamicTrees
+
+  Jan 27, 2020 (0.9.7)
+  https://curseforge.com/minecraft/mc-mods/dynamictrees/files/2870267
+*/
+mod "mods/DynamicTrees.jar" {
+  method    = "curse"
+  projectID = 252818
+  fileID    = 2870267
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/dtphc
+  https://github.com/ferreusveritas/DynamicTrees-PHC
+
+  Jan 5, 2019 (1.4.2)
+  https://curseforge.com/minecraft/mc-mods/dtphc/files/2656685
+
+  Requires: DynamicTrees, HarvestCraft
+*/
+mod "mods/DTPHC.jar" {
+  method    = "curse"
+  projectID = 307560
+  fileID    = 2656685
+}

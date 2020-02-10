@@ -1,0 +1,4 @@
+other {
+    # Afaik there is no way to get there.
+    B:wasteland_dimension_gen=false
+}

@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/reauth
+  https://github.com/TechnicianLP/ReAuth
+
+  May 10, 2018 (3.6.0)
+  https://curseforge.com/minecraft/mc-mods/reauth/files/2560638
+*/
+mod "mods/ReAuth.jar" {
+  method    = "curse"
+  projectID = 237701
+  fileID    = 2560638
+}

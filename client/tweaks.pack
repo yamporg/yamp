@@ -1,0 +1,159 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/neat
+  https://github.com/Vazkii/Neat
+
+  Jul 31, 2018 (1.4-17)
+  https://curseforge.com/minecraft/mc-mods/neat/files/2595310
+*/
+mod "mods/Neat.jar" {
+  method    = "curse"
+  projectID = 238372
+  fileID    = 2595310
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
+  https://github.com/gbl/DurabilityViewer
+
+  Date: Dec 30, 2019 (1.6)
+  https://curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer/files/2851556
+*/
+mod "mods/DurabilityViewer.jar" {
+  method    = "curse"
+  projectID = 262146
+  fileID    = 2851556
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/more-overlays
+  https://github.com/feldim2425/MoreOverlays
+
+  Jul 21, 2019 (1.15.1)
+  https://curseforge.com/minecraft/mc-mods/more-overlays/files/2745657
+*/
+mod "mods/MoreOverlays.jar" {
+  method    = "curse"
+  projectID = 243478
+  fileID    = 2745657
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/enchantment-descriptions
+  https://github.com/Darkhax-Minecraft/Enchantment-Descriptions
+
+  Mar 20, 2019 (1.1.15)
+  https://curseforge.com/minecraft/mc-mods/enchantment-descriptions/files/2689502
+*/
+mod "mods/EnchantDesc.jar" {
+  method    = "curse"
+  projectID = 250419
+  fileID    = 2689502
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/world-handler-command-gui
+  https://github.com/Exopandora/WorldHandler
+
+  Apr 2, 2019 (2.2.2)
+  https://curseforge.com/minecraft/mc-mods/world-handler-command-gui/files/2694758
+*/
+mod "mods/WorldHandler.jar" {
+  method    = "curse"
+  projectID = 228970
+  fileID    = 2694758
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded
+  https://github.com/Exopandora/shouldersurfing
+
+  Apr 23, 2019 (1.15.1)
+  https://curseforge.com/minecraft/mc-mods/shoulder-surfing-reloaded/files/2702694
+*/
+mod "mods/ShoulderSurfing.jar" {
+  method    = "curse"
+  projectID = 243190
+  fileID    = 2702694
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/mouse-tweaks
+  https://github.com/YaLTeR/MouseTweaks
+
+  Feb 11, 2019 (2.10)
+  https://curseforge.com/minecraft/mc-mods/mouse-tweaks/files/2671937
+*/
+mod "mods/MouseTweaks.jar" {
+  method    = "curse"
+  projectID = 60089
+  fileID    = 2671937
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/inventory-tweaks
+  https://github.com/Inventory-Tweaks/inventory-tweaks
+
+  Sep 21, 2017 (1.63)
+  https://curseforge.com/minecraft/mc-mods/inventory-tweaks/files/2482481
+*/
+mod "mods/InvTweaks.jar" {
+  method    = "curse"
+  projectID = 223094
+  fileID    = 2482481
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/crafting-tweaks
+  https://github.com/blay09/CraftingTweaks
+
+  May 15, 2018 (8.1.9)
+  https://curseforge.com/minecraft/mc-mods/crafting-tweaks/files/2562139
+*/
+mod "mods/CraftTweaks.jar" {
+  method    = "curse"
+  projectID = 233071
+  fileID    = 2562139
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/controlling
+  https://github.com/jaredlll08/Controlling
+
+  Jun 27, 2019 (3.0.7)
+  https://curseforge.com/minecraft/mc-mods/controlling/files/2731319
+*/
+mod "mods/Controlling.jar" {
+  method    = "curse"
+  projectID = 250398
+  fileID    = 2731319
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/toast-control
+  https://github.com/Shadows-of-Fire/Toast-Control
+
+  May 5, 2019 (1.8.1)
+  https://curseforge.com/minecraft/mc-mods/toast-control/files/2707353
+
+  Requires: Placebo
+*/
+mod "mods/ToastControl.jar" {
+  method    = "curse"
+  projectID = 271740
+  fileID    = 2707353
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/placebo
+  https://github.com/Shadows-of-Fire/Placebo
+
+  Apr 1, 2019 (1.6.0)
+  https://curseforge.com/minecraft/mc-mods/placebo/files/2694382
+
+  Dependent: ToastControl
+*/
+mod "mods/Placebo.jar" {
+  method    = "curse"
+  projectID = 283644
+  fileID    = 2694382
+}

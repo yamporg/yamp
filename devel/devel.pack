@@ -1,0 +1,38 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/world-stripper
+  https://github.com/EwyBoy/World-Stripper
+
+  Nov 5, 2018 (1.6.0)
+  https://curseforge.com/minecraft/mc-mods/world-stripper/files/2635454
+*/
+mod "mods/WorldStripper.jar" {
+  method    = "curse"
+  projectID = 250603
+  fileID    = 2635454
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/advanced-xray
+  https://github.com/MichaelHillcox/XRay-Mod
+
+  Jul 28, 2019 (1.6.0)
+  https://curseforge.com/minecraft/mc-mods/advanced-xray/files/2750239
+*/
+mod "mods/XRay.jar" {
+  method    = "curse"
+  projectID = 256256
+  fileID    = 2750239
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/lonely-biome
+  https://github.com/Team-RTG/Lonely-Biome
+
+  Mar 24, 2019 (2.0.2)
+  https://curseforge.com/minecraft/mc-mods/lonely-biome/files/2691336
+*/
+mod "mods/LonelyBiome.jar" {
+  method    = "curse"
+  projectID = 243006
+  fileID    = 2691336
+}

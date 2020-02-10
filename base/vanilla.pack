@@ -1,0 +1,43 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/quark
+  https://github.com/Vazkii/Quark
+
+  Aug 11, 2019 (1.6-177)
+  https://curseforge.com/minecraft/mc-mods/quark/files/2759240
+
+  Requires: AutoRegLib
+  Dependent: QuarkOddities
+*/
+mod "mods/Quark.jar" {
+  method    = "curse"
+  projectID = 243121
+  fileID    = 2759240
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/quark-oddities)
+  https://github.com/Vazkii/Quark/blob/1.12/src/main/java/vazkii/quark/oddities
+
+  Aug 18, 2018 (1.12.2)
+  https://curseforge.com/minecraft/mc-mods/quark-oddities/files/2604798
+
+  Requires: Quark
+*/
+mod "mods/QuarkOddities.jar" {
+  method    = "curse"
+  projectID = 301051
+  fileID    = 2604798
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/charm
+  https://github.com/svenhjol/Charm
+
+  Sep 2, 2019 (1.3.6)
+  https://curseforge.com/minecraft/mc-mods/charm/files/2776773
+*/
+mod "mods/Charm.jar" {
+  method    = "curse"
+  projectID = 318872
+  fileID    = 2776773
+}

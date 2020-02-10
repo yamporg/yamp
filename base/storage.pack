@@ -1,0 +1,70 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/refined-storage
+  https://github.com/raoulvdberge/refinedstorage
+
+  Jul 21, 2019 (1.6.15)
+  https://curseforge.com/minecraft/mc-mods/refined-storage/files/2745458
+
+  Dependent: RSAddons
+*/
+mod "mods/RefinedStorage.jar" {
+  method    = "curse"
+  projectID = 243076
+  fileID    = 2745458
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/refined-storage-addons
+  https://github.com/raoulvdberge/refinedstorageaddons
+
+  Mar 23, 2019 (0.4.4)
+  https://curseforge.com/minecraft/mc-mods/refined-storage-addons/files/2690723
+
+  Requires: RefinedStorage
+*/
+mod "mods/RSAddons.jar" {
+  method    = "curse"
+  projectID = 272302
+  fileID    = 2690723
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/iron-backpacks
+  https://github.com/gr8pefish/IronBackpacks
+
+  May 23, 2018 (3.0.8-12)
+  https://curseforge.com/minecraft/mc-mods/iron-backpacks/files/2564573
+*/
+mod "mods/IronBackpacks.jar" {
+  method    = "curse"
+  projectID = 227049
+  fileID    = 2564573
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/iron-chests
+  https://github.com/progwml6/ironchest
+
+  Jul 25, 2019 (7.0.72.847)
+  https://curseforge.com/minecraft/mc-mods/iron-chests/files/2747935
+*/
+mod "mods/IronChests.jar" {
+  method    = "curse"
+  projectID = 228756
+  fileID    = 2747935
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/baubles
+  https://github.com/Azanor/Baubles
+
+  Jan 10, 2018 (1.5.2)
+  https://curseforge.com/minecraft/mc-mods/baubles/files/2518667
+
+  Dependent: Hooked
+*/
+mod "mods/Baubles.jar" {
+  method    = "curse"
+  projectID = 227083
+  fileID    = 2518667
+}

@@ -1,0 +1,14 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/playerrevive
+  https://github.com/CreativeMD/PlayerRevive
+
+  Feb 3, 2020 (1.2.30)
+  https://curseforge.com/minecraft/mc-mods/playerrevive/files/2874268
+
+  Requires: CreativeCore
+*/
+mod "mods/PlayerRevive.jar" {
+  method    = "curse"
+  projectID = 266890
+  fileID    = 2874268
+}

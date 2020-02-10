@@ -1,0 +1,42 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/building-gadgets
+  https://github.com/Direwolf20-MC/BuildingGadgets
+
+  Nov 7, 2019 (2.7.4)
+  https://curseforge.com/minecraft/mc-mods/building-gadgets/files/2823582
+*/
+mod "mods/BuildingGadgets.jar" {
+  method    = "curse"
+  projectID = 298187
+  fileID    = 2823582
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/blockcraftery
+  https://github.com/EpicSquid/Blockcraftery
+
+  May 28, 2019 (1.3.1)
+  https://curseforge.com/minecraft/mc-mods/blockcraftery/files/2716712
+
+  Requires: MysticalLib
+*/
+mod "mods/Blockcraftery.jar" {
+  method    = "curse"
+  projectID = 278882
+  fileID    = 2716712
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/chisel
+  https://github.com/Chisel-Team/Chisel
+
+  Oct 21, 2019 (1.0.1.44)
+  https://curseforge.com/minecraft/mc-mods/chisel/files/2813538
+
+  Requires: CTM
+*/
+mod "mods/Chisel.jar" {
+  method    = "curse"
+  projectID = 235279
+  fileID    = 2813538
+}

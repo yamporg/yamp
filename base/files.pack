@@ -1,0 +1,71 @@
+mod "config/forge.cfg" {
+  file = "overrides/config/forge.cfg"
+}
+
+mod "config/playerrevive.cfg" {
+  file = "overrides/config/playerrevive.cfg"
+}
+
+mod "config/psi.cfg" {
+  file = "overrides/config/psi.cfg"
+}
+
+mod "config/epicsiegemod.cfg" {
+  file = "overrides/config/epicsiegemod.cfg"
+}
+
+mod "config/bloodmoon.cfg" {
+  file = "overrides/config/bloodmoon.cfg"
+}
+
+mod "config/opencomputers/settings.conf" {
+  file = "overrides/config/opencomputers/settings.conf"
+}
+
+mod "config/refinedstorage.cfg" {
+  file = "overrides/config/refinedstorage.cfg"
+}
+
+mod "config/mekanism.cfg" {
+  file = "overrides/config/mekanism.cfg"
+}
+
+mod "config/quark.cfg" {
+  file = "overrides/config/quark.cfg"
+}
+
+mod "config/charm.cfg" {
+  file = "overrides/config/charm.cfg"
+}
+
+mod "config/debugserverinfo.cfg" {
+  file = "overrides/config/debugserverinfo.cfg"
+}
+
+mod "config/enderio/enderiomachines.cfg" {
+  file = "overrides/config/enderio/enderiomachines.cfg"
+}
+
+mod "config/icbmclassic/launcher.cfg" {
+  file = "overrides/config/icbmclassic/launcher.cfg"
+}
+
+mod "config/theoneprobe.cfg" {
+  file = "overrides/config/theoneprobe.cfg"
+}
+
+mod "config/brandon3055/ProjectIntelligence/options.json" {
+  file = "overrides/config/brandon3055/ProjectIntelligence/options.json"
+}
+
+mod "config/nuclearcraft.pack" {
+  file = "overrides/config/nuclearcraft.pack"
+}
+
+mod "config/harvestcraft.pack" {
+  file = "overrides/config/harvestcraft.pack"
+}
+
+mod "config/jei/jei.cfg" {
+  file = "overrides/config/jei/jei.cfg"
+}

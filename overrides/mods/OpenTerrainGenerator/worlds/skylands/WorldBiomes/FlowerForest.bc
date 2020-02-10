@@ -1,0 +1,28 @@
+BiomeExtends: Plains
+
+ReplaceToBiomeName: minecraft:mutated_forest
+
+UnderGroundLake(25,60,2,5,0,49)
+Liquid(STATIONARY_WATER,15,100,8,250,STONE)
+Liquid(STATIONARY_LAVA,4,100,8,128,STONE)
+SmallLake(GRAVEL,4,7,8,255)
+SmallLake(STATIONARY_WATER,4,7,8,255)
+SmallLake(STATIONARY_LAVA,2,1,8,255)
+UnderWaterOre(SAND,7,3,100,DIRT,GRASS)
+UnderWaterOre(CLAY,4,1,100,DIRT,CLAY)
+UnderWaterOre(GRAVEL,6,1,100,DIRT,GRASS)
+Tree(10,Birch,20,Tree,100)
+Grass(Tallgrass,NotGrouped,30,100,GRASS,DIRT)
+Plant(Poppy,40,100,0,128,GRASS,DIRT)
+Plant(Lilac,6,100,0,128,GRASS,DIRT)
+Plant(RoseBush,6,100,0,128,GRASS,DIRT)
+Plant(Peony,6,100,0,128,GRASS,DIRT)
+Plant(OrangeTulip,80,25,0,128,GRASS,DIRT)
+Plant(RedTulip,80,25,0,128,GRASS,DIRT)
+Plant(WhiteTulip,80,25,0,128,GRASS,DIRT)
+Plant(PinkTulip,80,25,0,128,GRASS,DIRT)
+Plant(AzureBluet,1,100,0,128,GRASS,DIRT)
+Plant(Allium,1,100,0,128,GRASS,DIRT)
+Plant(OxeyeDaisy,1,100,0,128,GRASS,DIRT)
+Plant(RedMushroom,1,12,0,255,GRASS,DIRT)
+Plant(BrownMushroom,1,25,0,255,GRASS,DIRT)

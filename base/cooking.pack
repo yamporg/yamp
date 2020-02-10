@@ -1,0 +1,36 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/pams-harvestcraft
+  https://github.com/MatrexsVigil/harvestcraft
+
+  Aug 27, 2019 (1.12.2zf)
+  https://curseforge.com/minecraft/mc-mods/pams-harvestcraft/files/2771840
+*/
+mod "mods/HarvestCraft.jar" {
+  method    = "curse"
+  projectID = 221857
+  fileID    = 2771840
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/cooking-for-blockheads
+  https://github.com/blay09/CookingForBlockheads
+
+  Jun 30, 2019 (6.4.71)
+  https://curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/2733516
+*/
+mod "mods/CookingForBlockheads.jar" {
+  method    = "curse"
+  projectID = 231484
+  fileID    = 2733516
+}
+
+/*
+  https://github.com/WesCook/Nutrition
+
+  Jun 29, 2019 (4.4.0)
+  https://github.com/WesCook/Nutrition/releases/tag/v4.4.0
+*/
+mod "mods/Nutrition.jar" {
+  method = "http"
+  file   = "https://github.com/WesCook/Nutrition/releases/download/v4.4.0/Nutrition-1.12.2-4.4.0.jar"
+}

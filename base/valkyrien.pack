@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/valkyrien-skies
+  https://circleci.com/gh/ValkyrienSkies/Valkyrien-Skies
+  https://github.com/ValkyrienSkies/Valkyrien-Skies
+
+  Feb 9, 2020 (commit 3499208)
+  https://circleci.com/gh/ValkyrienSkies/Valkyrien-Skies/205#artifacts
+*/
+mod "mods/VS.jar" {
+  method = "http"
+  file   = "https://205-60307938-gh.circle-artifacts.com/0/ValkyrienSkies-1.12.2-1.0.jar"
+}

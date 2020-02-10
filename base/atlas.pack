@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/antique-atlas
+  https://github.com/Hunternif/AntiqueAtla)
+
+  Nov 6, 2019 (4.6.3)
+  https://curseforge.com/minecraft/mc-mods/antique-atlas/files/2823030
+*/
+mod "mods/AntiqueAtlas.jar" {
+  method    = "curse"
+  projectID = 227795
+  fileID    = 2823030
+}

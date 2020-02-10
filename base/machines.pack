@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/compact-machines
+  https://github.com/thraaawn/CompactMachines
+
+  May 5, 2019 (3.0.18)
+  https://curseforge.com/minecraft/mc-mods/compact-machines/files/2707509
+*/
+mod "mods/CompactMachines.jar" {
+  method    = "curse"
+  projectID = 224218
+  fileID    = 2707509
+}

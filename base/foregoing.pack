@@ -1,0 +1,27 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/industrial-foregoing
+  https://github.com/Buuz135/Industrial-Foregoing
+
+  Jul 21, 2019 (1.12.13-237)
+  https://curseforge.com/minecraft/mc-mods/industrial-foregoing/files/2745321
+
+  Requires: TeslaCoreLib
+*/
+mod "mods/IndustrialForegoing.jar" {
+  method    = "curse"
+  projectID = 266515
+  fileID    = 2745321
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/integration-foregoing
+  https://github.com/JackyyTV/IntegrationForegoing
+
+  Date: Feb 18, 2019 (1.9)
+  https://curseforge.com/minecraft/mc-mods/integration-foregoing/files/2676458
+*/
+mod "mods/IntegrationForegoing.jar" {
+  method    = "curse"
+  projectID = 277938
+  fileID    = 2676458
+}

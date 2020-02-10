@@ -1,0 +1,30 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/rftools
+  https://github.com/McJty/RFTools
+
+  Jan 16, 2020 (7.73)
+  https://curseforge.com/minecraft/mc-mods/rftools/files/2861573
+
+  Requires: McJtyLib
+  Dependent: RFToolsDim
+*/
+mod "mods/RFTools.jar" {
+  method    = "curse"
+  projectID = 224641
+  fileID    = 2861573
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/rftools-dimensions
+  https://github.com/McJtyMods/RFToolsDimensions
+
+  May 5, 2019 (5.71)
+  https://curseforge.com/minecraft/mc-mods/rftools-dimensions/files/2707390)
+
+  Requires: RFTools, McJtyLib
+*/
+mod "mods/RFToolsDim.jar" {
+  method    = "curse"
+  projectID = 240950
+  fileID    = 2707390
+}

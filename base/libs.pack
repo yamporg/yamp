@@ -1,0 +1,181 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/openmodslib
+  https://github.com/OpenMods/OpenModsLib
+
+  Apr 14, 2019 (0.12.2)
+  https://curseforge.com/minecraft/mc-mods/openmodslib/files/2699055
+
+  Dependent: OpenBlocks
+*/
+mod "mods/OpenModsLib.jar" {
+  method    = "curse"
+  projectID = 228815
+  fileID    = 2699055
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/wanionlib
+  https://github.com/WanionCane/WanionLib
+
+  Oct 12, 2019 (2.4)
+  https://curseforge.com/minecraft/mc-mods/wanionlib/files/2807433
+
+  Dependent: UniDict
+*/
+mod "mods/WanionLib.jar" {
+  method    = "curse"
+  projectID = 253043
+  fileID    = 2807433
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/autoreglib
+  https://github.com/Vazkii/AutoRegLib
+
+  Jul 22, 2019 (1.3-32)
+  https://curseforge.com/minecraft/mc-mods/autoreglib/files/2746011
+
+  Dependent: Psi, AkashicTome, Quark
+*/
+mod "mods/AutoRegLib.jar" {
+  method    = "curse"
+  projectID = 250363
+  fileID    = 2746011
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/mysticallib
+  https://github.com/EpicSquid/MysticalLib
+
+  Jan 22, 2020 (1.6.0)
+  https://curseforge.com/minecraft/mc-mods/mysticallib/files/2865499
+
+  Dependent: Blockcraftery
+*/
+mod "mods/MysticalLib.jar" {
+  method    = "curse"
+  projectID = 277064
+  fileID    = 2865499
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/mantle
+  https://github.com/SlimeKnights/Mantle
+
+  May 19, 2019 (1.3.3.55)
+  https://curseforge.com/minecraft/mc-mods/mantle/files/2713386
+
+  Dependent: Natura, TConstruct
+*/
+mod "mods/Mantle.jar" {
+  method    = "curse"
+  projectID = 74924
+  fileID    = 2713386
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/librarianlib
+  https://github.com/TeamWizardry/LibrarianLib
+
+  Dec 3, 2019 (4.20)
+  https://curseforge.com/minecraft/mc-mods/librarianlib/files/2836225
+
+  Dependent: PSIdeas, Hooked
+  Requires: Forgelin
+*/
+mod "mods/LibrarianLib.jar" {
+  method    = "curse"
+  projectID = 252910
+  fileID    = 2836225
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/creativecore
+  https://github.com/CreativeMD/CreativeCore
+
+  Jan 14, 2020 (1.9.90)
+  https://curseforge.com/minecraft/mc-mods/creativecore/files/2860437
+
+  Dependent: PlayerRevive
+*/
+mod "mods/CreativeCore.jar" {
+  method    = "curse"
+  projectID = 257814
+  fileID    = 2860437
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/shadowfacts-forgelin
+  https://github.com/shadowfacts/Forgelin
+
+  Sep 13, 2019 (1.8.4)
+  https://curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
+
+  Dependent: PSIdeas, LibrarianLib, TeslaCoreLib
+*/
+mod "mods/Forgelin.jar" {
+  method    = "curse"
+  projectID = 248453
+  fileID    = 2785465
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/ctm
+  https://github.com/Chisel-Team/ConnectedTexturesMod
+
+  Nov 26, 2019 (1.0.1.30)
+  https://curseforge.com/minecraft/mc-mods/ctm/files/2832564
+
+  Dependent: Chisel
+*/
+mod "mods/CTM.jar" {
+  method    = "curse"
+  projectID = 267602
+  fileID    = 2832564
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/mcjtylib
+  https://github.com/McJtyMods/McJtyLib
+
+  Jul 22, 2019 (3.5.4)
+  https://curseforge.com/minecraft/mc-mods/mcjtylib/files/2745846
+
+  Dependent: XNet, RFTools, RFToolsDim
+*/
+mod "mods/McJtyLib.jar" {
+  method    = "curse"
+  projectID = 233105
+  fileID    = 2745846
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/tesla-core-lib
+  https://github.com/MinecraftModDevelopmentMods/Tesla-Core-Lib
+
+  Jul 6, 2018 (1.0.15)
+  https://curseforge.com/minecraft/mc-mods/tesla-core-lib/files/2580052
+
+  Requires: Forgelin
+  Dependent: IndustrialForegoing
+*/
+mod "mods/TeslaCoreLib.jar" {
+  method    = "curse"
+  projectID = 254602
+  fileID    = 2580052
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/libraryex
+  https://github.com/MineEx/LibEx
+
+  Oct 7, 2019 (1.0.12)
+  https://curseforge.com/minecraft/mc-mods/libraryex/files/2803288
+
+  Dependent: NetherEx
+*/
+mod "mods/LibraryEx.jar" {
+  method    = "curse"
+  projectID = 298965
+  fileID    = 2803288
+}

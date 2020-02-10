@@ -1,0 +1,27 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/netherex
+  https://github.com/MineEx/NetherEx
+
+  Sep 13, 2019 (2.0.15)
+  https://curseforge.com/minecraft/mc-mods/netherex/files/2783989
+
+  Requires: LibraryEx
+*/
+mod "mods/NetherEx.jar" {
+  method    = "curse"
+  projectID = 248039
+  fileID    = 2783989
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/the-twilight-forest
+  https://github.com/TeamTwilight/twilightforest
+
+  Oct 28, 2019 (3.10.1013)
+  https://curseforge.com/minecraft/mc-mods/the-twilight-forest/files/2818055
+*/
+mod "mods/TwilightForest.jar" {
+  method    = "curse"
+  projectID = 227639
+  fileID    = 2818055
+}

@@ -1,0 +1,77 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/debugserverinfo
+  https://github.com/dries007/DebugServerInfo
+
+  Oct 17, 2017 (1.0.5)
+  https://curseforge.com/minecraft/mc-mods/debugserverinfo/files/2491601
+*/
+mod "mods/DebugServerInfo.jar" {
+  method    = "curse"
+  projectID = 256400
+  fileID    = 2491601
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/phosphor
+  https://github.com/jellysquid3/Phosphor
+
+  Jul 24, 2019 (0.2.6-50)
+  https://curseforge.com/minecraft/mc-mods/phosphor/files/2747710
+*/
+mod "mods/Phosphor.jar" {
+  method    = "curse"
+  projectID = 318255
+  fileID    = 2747710
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/ai-improvements
+  https://github.com/BuiltBrokenModding/AI-Improvements
+
+  Jul 14, 2017 (0.0.1-b3)
+  https://curseforge.com/minecraft/mc-mods/ai-improvements/files/2450734
+*/
+mod "mods/AIImprovements.jar" {
+  method    = "curse"
+  projectID = 233019
+  fileID    = 2450734
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/vanillafix
+  https://github.com/DimensionalDevelopment/VanillaFix
+
+  Nov 19, 2018 (1.0.10-99)
+  https://curseforge.com/minecraft/mc-mods/vanillafix/files/2639533
+*/
+mod "mods/VanillaFix.jar" {
+  method    = "curse"
+  projectID = 292785
+  fileID    = 2639533
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/foamfix-for-minecraft
+  https://git.asie.pl/asie-minecraft/FoamFix
+
+  Dec 20, 2019 (0.10.10)
+  https://curseforge.com/minecraft/mc-mods/foamfix-optimization-mod/files/2845668
+*/
+mod "mods/FoamFix.jar" {
+  method    = "curse"
+  projectID = 278494
+  fileID    = 2845668
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/betterfps
+  https://github.com/Guichaguri/BetterFps
+
+  Sep 24, 2017 (1.4.8)
+  https://curseforge.com/minecraft/mc-mods/betterfps/files/2483393
+*/
+mod "mods/BetterFPS.jar" {
+  method    = "curse"
+  projectID = 229876
+  fileID    = 2483393
+}

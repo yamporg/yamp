@@ -1,0 +1,25 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/forge-mixin-fix
+  https://github.com/Foxxtail1/ForgeMixinFix
+
+  Nov 8, 2019 (1.0.0)
+  https://curseforge.com/minecraft/mc-mods/forge-mixin-fix/files/2824043
+*/
+mod "mods/ForgeMixinFix.jar" {
+  method    = "curse"
+  projectID = 350817
+  fileID    = 2824043
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded
+  https://github.com/kreezxil/BadWitherNoCookie
+
+  Nov 15, 2018 (3.3.16)
+  https://curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/2638317
+*/
+mod "mods/BWNCR.jar" {
+  method    = "curse"
+  projectID = 261251
+  fileID    = 2638317
+}

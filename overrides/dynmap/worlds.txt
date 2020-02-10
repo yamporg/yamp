@@ -1,0 +1,43 @@
+# Better titles for default dimensions.
+worlds:
+  - name: skylands
+    title: "Overworld"
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Flat"
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: brightnightandday
+        mapzoomin: 1
+      - class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: "Surface"
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: nightandday-smooth
+        mapzoomin: 1
+      - class: org.dynmap.hdmap.HDMap
+        name: underwater
+        title: "Underwater"
+        prefix: ut
+        perspective: iso_SE_30_hires
+        shader: stdtexture-underwater
+        lighting: default
+        mapzoomin: 1
+      - class: org.dynmap.hdmap.HDMap
+        name: cave
+        title: "Cave"
+        prefix: ct
+        perspective: iso_SE_30_lowres
+        shader: cave
+        lighting: default
+        mapzoomin: 3
+  - name: DIM7
+    title: "The Twilight Forest"
+  - name: DIM1
+    title: "The End"
+  - name: DIM-1
+    title: "The Nether"

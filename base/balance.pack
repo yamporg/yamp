@@ -1,0 +1,40 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/unidict
+  https://github.com/WanionCane/UniDict
+
+  Jan 21, 2020 (2.9.5)
+  https://curseforge.com/minecraft/mc-mods/unidict/files/2865286
+
+  Requires: WanionLib
+*/
+mod "mods/UniDict.jar" {
+  method    = "curse"
+  projectID = 244258
+  fileID    = 2865286
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict
+  https://github.com/GotoLink/RecipeHandler
+
+  Feb 9, 2019 (0.13)
+  https://curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/files/2671230
+*/
+mod "mods/NoRecipeConflicts.jar" {
+  method    = "curse"
+  projectID = 238123
+  fileID    = 2671230
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/crafttweaker
+  https://github.com/CraftTweaker/CraftTweaker
+
+  Dec 8, 2019 (4.1.20)
+  https://curseforge.com/minecraft/mc-mods/crafttweaker/files/2838090
+*/
+mod "mods/CraftTweaker.jar" {
+  method    = "curse"
+  projectID = 239197
+  fileID    = 2838090
+}

@@ -1,0 +1,15 @@
+mod "eula.txt" {
+  file = "overrides/eula.txt"
+}
+
+mod "server.properties" {
+  file = "overrides/server.properties"
+}
+
+mod "dynmap/configuration.txt" {
+  file = "overrides/dynmap/configuration.txt"
+}
+
+mod "dynmap/worlds.txt" {
+  file = "overrides/dynmap/worlds.txt"
+}

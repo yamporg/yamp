@@ -1,0 +1,36 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/icbm-classic
+  https://github.com/BuiltBrokenModding/ICBM-Classic
+
+  Jan 19, 2019 (3.3.0b63)
+  https://curseforge.com/minecraft/mc-mods/icbm-classic/files/2661985
+*/
+mod "mods/InterContinentalBallisticMissiles.jar" {
+  method    = "curse"
+  projectID = 244451
+  fileID    = 2661985
+}
+
+/*
+  https://flansmod.com
+  https://github.com/FlansMods/FlansMod
+
+  Oct 6, 2019 (5.6-beta6)
+  https://github.com/FlansMods/FlansMod/releases/tag/v5.6-beta.6
+*/
+mod "mods/FlansMod.jar" {
+  method = "http"
+  file   = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.6/Flan.s.Mod-1.12.2-5.6.0-beta.6.jar"
+}
+
+/*
+  https://flansmod.com
+  https://github.com/FlansMods/FlansMod
+
+  Oct 6, 2019 (5.6-beta6)
+  https://github.com/FlansMods/FlansMod/releases/tag/v5.6-beta.6
+*/
+mod "Flan/ModernWarfare.jar" {
+  method = "http"
+  file   = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.6/Modern.Warfare-Content.Pack-1.12.2-5.6.0-beta.6.jar"
+}

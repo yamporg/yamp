@@ -1,0 +1,45 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/xnet
+  https://github.com/McJty/XNet
+
+  Jul 22, 2019 (1.8.2)
+  https://curseforge.com/minecraft/mc-mods/xnet/files/2745852
+
+  Requires: McJtyLib
+  Dependent: YNot, XNetOC
+*/
+mod "mods/XNet.jar" {
+  method    = "curse"
+  projectID = 260912
+  fileID    = 2745852
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/ynot
+  https://git.asie.pl/asie-minecraft/YNot
+
+  May 6, 2019 (0.2.4)
+  https://curseforge.com/minecraft/mc-mods/ynot/files/2708030
+
+  Requires: XNet
+*/
+mod "mods/YNot.jar" {
+  method    = "curse"
+  projectID = 283589
+  fileID    = 2708030
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/oc-xnet-driver
+  https://github.com/thraaawn/OCXNetDriver
+
+  Nov 2, 2018 (1.0.3-b17)
+  https://curseforge.com/minecraft/mc-mods/oc-xnet-driver/files/2634368
+
+  Requires: XNet, OpenComputers
+*/
+mod "mods/XNetOC.jar" {
+  method    = "curse"
+  projectID = 285385
+  fileID    = 2634368
+}

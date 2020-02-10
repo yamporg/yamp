@@ -1,0 +1,45 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/ender-io)
+  https://github.com/CrazyPants/EnderIO
+
+  Jan 12, 2020 (5.1.55)
+  https://curseforge.com/minecraft/mc-mods/ender-io/files/2858816
+
+  Requires: EnderCore
+  Dependent: EnderOC
+*/
+mod "mods/EnderIO.jar" {
+  method    = "curse"
+  projectID = 64578
+  fileID    = 2858816
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/endercore
+  https://github.com/SleepyTrousers/EnderCore
+
+  Nov 5, 2019 (0.5.73)
+  https://curseforge.com/minecraft/mc-mods/endercore/files/2822401
+
+  Dependent: EnderIO
+*/
+mod "mods/EnderCore.jar" {
+  method    = "curse"
+  projectID = 231868
+  fileID    = 2822401
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/oc-ender-io-driver
+  https://github.com/BrewAndCode/OCEIO
+
+  Apr 24, 2019 (1.0.001)
+  https://curseforge.com/minecraft/mc-mods/oc-ender-io-driver/files/2703151
+
+  Requires: EnderIO, OpenComputers
+*/
+mod "mods/EnderOC.jar" {
+  method    = "curse"
+  projectID = 320132
+  fileID    = 2703151
+}

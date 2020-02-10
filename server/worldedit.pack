@@ -1,0 +1,26 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/worldedit
+  https://github.com/enginehub/WorldEdit
+
+  Jan 2, 2019 (6.1.10)
+  https://curseforge.com/minecraft/mc-mods/worldedit/files/2655056
+*/
+mod "mods/WorldEdit.jar" {
+  method    = "curse"
+  projectID = 225608
+  fileID    = 2655056
+}
+
+/*
+  https://intellectualsites.github.io/download/fawe
+  https://github.com/boy0001/FastAsyncWorldedit
+
+  Nov 13, 2019 (22.3.5)
+  https://ci.athion.net/job/FastAsyncWorldEdit/1285
+
+  Requires: WorldEdit
+*/
+mod "mods/FAWE.jar" {
+  method = "http"
+  file   = "https://ci.athion.net/job/FastAsyncWorldEdit/1285/artifact/target/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar"
+}

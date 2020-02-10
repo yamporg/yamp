@@ -1,0 +1,4 @@
+general {
+    # Don’t change vanilla food balance.
+    B:enablevanillafoodBalance=false
+}

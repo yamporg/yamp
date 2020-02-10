@@ -1,0 +1,41 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/dynmapforge
+  https://github.com/webbukkit/dynmap
+
+  Jun 9, 2019 (3.0-beta-4)
+  https://curseforge.com/minecraft/mc-mods/dynmapforge/files/2722448
+
+  Requires: SQLiteJDBC
+  Dependent: DynmapBlockScan
+*/
+mod "mods/Dynmap.jar" {
+  method    = "curse"
+  projectID = 59433
+  fileID    = 2722448
+}
+
+/*
+  https://github.com/webbukkit/DynmapBlockScan
+
+  Dec 10, 2018 (3.0-beta-1)
+  https://github.com/webbukkit/DynmapBlockScan/releases/tag/v3.0-beta-1-1.12.2
+
+  Requires: Dynmap
+*/
+mod "mods/DynmapBlockScan.jar" {
+  method = "http"
+  file   = "https://dynmap.us/releases/DynmapBlockScan-3.0-beta-1-forge-1.12.2.jar"
+}
+
+/*
+  https://github.com/xerial/sqlite-jdbc
+
+  Jun 25, 2019 (3.28.0)
+  https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0
+
+  Dependent: Dynmap
+*/
+mod "mods/SQLiteJDBC.jar" {
+  method = "http"
+  file   = "https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.28.0/sqlite-jdbc-3.28.0.jar"
+}

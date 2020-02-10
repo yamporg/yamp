@@ -1,0 +1,38 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/laggoggles
+  https://github.com/TerminatorNL/LagGoggles
+
+  Nov 3, 2019 (4.9-FAT)
+  https://curseforge.com/minecraft/mc-mods/laggoggles/files/2821476
+*/
+mod "mods/LagGoogles.jar" {
+  method    = "curse"
+  projectID = 283525
+  fileID    = 2821476
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/loading-profiler
+  https://github.com/lumien231/Loading-Profiler
+
+  Jun 11, 2017 (1.3)
+  https://curseforge.com/minecraft/mc-mods/loading-profiler/files/2432420
+*/
+mod "mods/LoadingProfiler.jar" {
+  method    = "curse"
+  projectID = 228513
+  fileID    = 2432420
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/worldgeneration-profiler
+  https://github.com/HyCraftHD/Worldgeneration-Profiler
+
+  Jun 20, 2018 (1.2.1.5)
+  https://curseforge.com/minecraft/mc-mods/worldgeneration-profiler/files/2574620
+*/
+mod "mods/WorldgenProfiler.jar" {
+  method    = "curse"
+  projectID = 284576
+  fileID    = 2574620
+}

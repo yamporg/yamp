@@ -1,0 +1,64 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/open-terrain-generator
+  https://github.com/PG85/OpenTerrainGenerator
+
+  Dec 2, 2019 (8.3)
+  https://curseforge.com/minecraft/mc-mods/open-terrain-generator/files/2835526
+*/
+mod "mods/OpenTerrainGenerator.jar" {
+  method    = "curse"
+  projectID = 265894
+  fileID    = 2835526
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldConfig.ini" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldConfig.ini"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/BirchForest.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/BirchForest.bc"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/FlowerForest.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/FlowerForest.bc"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Desert.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Desert.bc"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Plains.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Plains.bc"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Jungle.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Jungle.bc"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIslandSpawn.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIslandSpawn.bo3"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland1.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland1.bo3"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland2.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland2.bo3"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland3.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland3.bo3"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland4.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland4.bo3"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland6.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland6.bo3"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland5.bo3" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIsland5.bo3"
+}

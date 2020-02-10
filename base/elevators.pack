@@ -1,0 +1,29 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/thuts-elevators
+  https://github.com/Thutmose/Thut-Elevators
+
+  May 18, 2019 (6.1.6)
+  https://curseforge.com/minecraft/mc-mods/thuts-elevators/files/2712805
+
+  Requires: ThutCore
+*/
+mod "mods/Elevators.jar" {
+  method    = "curse"
+  projectID = 224375
+  fileID    = 2712805
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/thutcore
+  https://github.com/Thutmose/Thut
+
+  May 20, 2019 (5.21.0)
+  https://curseforge.com/minecraft/mc-mods/thutcore/files/2713584
+
+  Dependent: Elevators
+*/
+mod "mods/ThutCore.jar" {
+  method    = "curse"
+  projectID = 224428
+  fileID    = 2713584
+}

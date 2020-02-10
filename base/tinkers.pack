@@ -1,0 +1,45 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/tinkers-construct
+  https://github.com/SlimeKnights/TinkersConstruct
+
+  Feb 8, 2020 (2.12.0.157)
+  https://curseforge.com/minecraft/mc-mods/tinkers-construct/files/2877575
+
+  Requires: Mantle
+  Dependent: TinkersComplement, TinkersOC
+*/
+mod "mods/TConstruct.jar" {
+  method    = "curse"
+  projectID = 74072
+  fileID    = 2877575
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/tinkers-complement
+  https://github.com/KnightMiner/TinkersComplement
+
+  Jun 20, 2019 (0.4.2)
+  https://curseforge.com/minecraft/mc-mods/tinkers-complement/files/2727094
+
+  Requires: TConstruct
+*/
+mod "mods/TinkersComplement.jar" {
+  method    = "curse"
+  projectID = 272671
+  fileID    = 2727094
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/opencomputers-drivers-for-tinkers-construct
+  https://github.com/BrisingrAerowing/TinkersOCDrivers
+
+  Dec 8, 2018 (0.6)
+  https://curseforge.com/minecraft/mc-mods/opencomputers-drivers-for-tinkers-construct/files/2645185
+
+  Requires: TConstruct, OpenComputers
+*/
+mod "mods/TinkersOC.jar" {
+  method    = "curse"
+  projectID = 287267
+  fileID    = 2645185
+}

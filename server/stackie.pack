@@ -1,0 +1,29 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/stackie
+  https://github.com/Lunatrius/Stackie
+
+  Oct 11, 2017 (1.6.0.48)
+  https://curseforge.com/minecraft/mc-mods/stackie/files/2489553
+
+  Requires: LunatriusCore
+*/
+mod "mods/Stackie.jar" {
+  method    = "curse"
+  projectID = 225606
+  fileID    = 2489553
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/lunatriuscore
+  https://github.com/Lunatrius/LunatriusCore
+
+  Oct 11, 2017 (1.2.0.42)
+  https://curseforge.com/minecraft/mc-mods/lunatriuscore/files/2489549
+
+  Dependent: Stackie
+*/
+mod "mods/LunatriusCore.jar" {
+  method    = "curse"
+  projectID = 225605
+  fileID    = 2489549
+}

@@ -1,0 +1,38 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/epic-siege-mod
+  https://github.com/Funwayguy/Epic-Siege-Mod
+
+  Feb 4, 2020 (13.167)
+  https://curseforge.com/minecraft/mc-mods/epic-siege-mod/files/2874756
+*/
+mod "mods/ESM.jar" {
+  method    = "curse"
+  projectID = 229449
+  fileID    = 2874756
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/bloodmoon
+  https://github.com/lumien231/Bloodmoon
+
+  Mar 6, 2018 (1.5.3)
+  https://curseforge.com/minecraft/mc-mods/bloodmoon/files/2537917
+*/
+mod "mods/Bloodmoon.jar" {
+  method    = "curse"
+  projectID = 226321
+  fileID    = 2537917
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/hardcore-darkness
+  https://github.com/lumien231/Hardcore-Darkness
+
+  Nov 12, 2017 (2.0)
+  https://curseforge.com/minecraft/mc-mods/hardcore-darkness/files/2499443
+*/
+mod "mods/HardcoreDarkness.jar" {
+  method    = "curse"
+  projectID = 225957
+  fileID    = 2499443
+}

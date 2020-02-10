@@ -1,0 +1,74 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/just-enough-calculation
+  https://github.com/Towdium/JustEnoughCalculation
+
+  Dec 26, 2019 (3.2.3)
+  https://curseforge.com/minecraft/mc-mods/just-enough-calculation/files/2849567
+
+  Requires: JEI
+*/
+mod "mods/JEC.jar" {
+  method    = "curse"
+  projectID = 242223
+  fileID    = 2849567
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+  https://github.com/way2muchnoise/JustEnoughResources
+
+  Jun 23, 2019 (0.9.2.60)
+  https://curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585
+
+  Requires: JEI
+*/
+mod "mods/JER.jar" {
+  method    = "curse"
+  projectID = 240630
+  fileID    = 2728585
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/jetif
+  https://github.com/Lykrast/JETIF
+
+  Jun 30, 2019 (1.5.1)
+  https://curseforge.com/minecraft/mc-mods/jetif/files/2733301
+
+  Requires: JEI
+*/
+mod "mods/JETIF.jar" {
+  method    = "curse"
+  projectID = 303122
+  fileID    = 2733301
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/just-enough-harvestcraft
+  https://github.com/pearxteam/just-enough-harvestcraft
+
+  Dec 25, 2019 (1.7.0)
+  https://curseforge.com/minecraft/mc-mods/just-enough-harvestcraft/files/2849443
+
+  Requires: JEI, HarvestCraft
+*/
+mod "mods/JEHC.jar" {
+  method    = "curse"
+  projectID = 267939
+  fileID    = 2849443
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/just-enough-pattern-banners
+  https://github.com/Lorexe/JustEnoughPatternBanners
+
+  Jul 25, 2017 (1.2.1)
+  https://curseforge.com/minecraft/mc-mods/just-enough-pattern-banners/files/2455920
+
+  Requires: JEI
+*/
+mod "mods/JEPB.jar" {
+  method    = "curse"
+  projectID = 263590
+  fileID    = 2455920
+}

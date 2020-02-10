@@ -1,0 +1,59 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/opencomputers
+  https://github.com/MightyPirates/OpenComputers
+
+  Nov 17, 2019 (1.7.5.192)
+  https://curseforge.com/minecraft/mc-mods/opencomputers/files/2828357
+
+  Dependent: OpenScreens, OpenSec, TinkersOC, OCSensors, XNetOC, EnderOC
+*/
+mod "mods/OpenComputers.jar" {
+  method    = "curse"
+  projectID = 223008
+  fileID    = 2828357
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/openscreens
+  https://github.com/itsmeow/OpenScreens
+
+  Aug 5, 2019 (1.0.1)
+  https://curseforge.com/minecraft/mc-mods/openscreens/files/275495)
+
+  Requires: OpenComputers
+*/
+mod "mods/OpenScreens.jar" {
+  method    = "curse"
+  projectID = 325357
+  fileID    = 2754959
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/opensecurity
+  https://github.com/PC-Logix/OpenSecurity
+
+  Oct 13, 2019 (1.0-39)
+  https://curseforge.com/minecraft/mc-mods/opensecurity/files/2808550
+
+  Requires: OpenComputers
+*/
+mod "mods/OpenSec.jar" {
+  method    = "curse"
+  projectID = 231687
+  fileID    = 2808550
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/oc-sensors
+  https://github.com/thraaawn/ocsensors
+
+  Jan 28, 2018 (1.0.4-b23)
+  https://curseforge.com/minecraft/mc-mods/oc-sensors/files/2525195
+
+  Requires: OpenComputers
+*/
+mod "mods/OCSensors.jar" {
+  method    = "curse"
+  projectID = 269054
+  fileID    = 2525195
+}

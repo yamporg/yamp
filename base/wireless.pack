@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/flux-networks
+  https://github.com/SonarSonic/Flux-Networks
+
+  Dec 14, 2019 (4.0.14-31)
+  https://curseforge.com/minecraft/mc-mods/flux-networks/files/2842381
+*/
+mod "mods/FluxNetworks.jar" {
+  method    = "curse"
+  projectID = 248020
+  fileID    = 2842381
+}

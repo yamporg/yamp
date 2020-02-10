@@ -1,0 +1,43 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/academycraft
+  https://github.com/LambdaInnovation/AcademyCraft
+
+  Jun 15, 2019 (1.1.2)
+  https://curseforge.com/minecraft/mc-mods/academycraft/files/2724775
+*/
+mod "mods/AcademyCraft.jar" {
+  method    = "curse"
+  projectID = 236188
+  fileID    = 2724775
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/psi
+  https://github.com/Vazkii/Psi
+
+  Jun 15, 2019 (1.1-77)
+  https://curseforge.com/minecraft/mc-mods/psi/files/2724967
+
+  Requires: AutoRegLib
+  Dependent: PSIdeas
+*/
+mod "mods/Psi.jar" {
+  method    = "curse"
+  projectID = 241665
+  fileID    = 2724967
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/random-psideas
+  https://github.com/Kamefrede/psitestaddon
+
+  Jun 17, 2019 (2.4.2)
+  https://curseforge.com/minecraft/mc-mods/random-psideas/files/2725942
+
+  Requires: Psi, AutoRegLib, Forgelin, LibrarianLib
+*/
+mod "mods/PSIdeas.jar" {
+  method    = "curse"
+  projectID = 302313
+  fileID    = 2725942
+}

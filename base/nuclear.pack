@@ -1,0 +1,29 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/nuclearcraft-mod
+  https://github.com/turbodiesel4598/NuclearCraft
+
+  Jan 2, 2020 (2.18o)
+  https://curseforge.com/minecraft/mc-mods/nuclearcraft-mod/files/2853541
+
+  Dependent: NuclearCraftRTGs
+*/
+mod "mods/NuclearCraft.jar" {
+  method    = "curse"
+  projectID = 226254
+  fileID    = 2853541
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/not-enough-rtgs
+  https://github.com/Tfarcenim/Not-Enough-RTG
+
+  May 28, 2019 (1.2a)
+  https://curseforge.com/minecraft/mc-mods/not-enough-rtgs/files/2716799
+
+  Requires: NuclearCraft
+*/
+mod "mods/NuclearCraftRTGs.jar" {
+  method    = "curse"
+  projectID = 312696
+  fileID    = 2716799
+}

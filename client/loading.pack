@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/waitingtime
+  https://github.com/jaredlll08/WaitingTime
+
+  Jan 29, 2019 (1.0.1)
+  https://curseforge.com/minecraft/mc-mods/waitingtime/files/2666185
+*/
+mod "mods/WaitingTime.jar" {
+  method    = "curse"
+  projectID = 284183
+  fileID    = 2666185
+}

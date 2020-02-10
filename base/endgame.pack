@@ -1,0 +1,75 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/avaritia-1-10
+  https://github.com/Morpheus1101/Avaritia
+
+  Jan 16, 2019 (3.3.0.33)
+  https://curseforge.com/minecraft/mc-mods/avaritia-1-10/files/2660801
+
+  Requires: CodeChickenLib
+*/
+mod "mods/Avaritia.jar" {
+  method    = "curse"
+  projectID = 261348
+  fileID    = 2660801
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/draconic-evolution
+  https://github.com/brandon3055/Draconic-Evolution
+
+  Jan 24, 2020 (2.3.25.351)
+  https://curseforge.com/minecraft/mc-mods/draconic-evolution/files/2867186
+
+  Requires: CodeChickenLib, BrandonCore, RedstoneFlux
+*/
+mod "mods/DraconicEvolution.jar" {
+  method    = "curse"
+  projectID = 223565
+  fileID    = 2867186
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
+  https://github.com/TheCBProject/CodeChickenLib
+
+  Sep 7, 2019 (3.2.3.358)
+  https://curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/files/2779848
+
+  Dependent: DraconicEvolution, Avaritia, BrandonCore
+*/
+mod "mods/CodeChickenLib.jar" {
+  method    = "curse"
+  projectID = 242818
+  fileID    = 2779848
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/brandons-core
+  https://github.com/brandon3055/BrandonsCore
+
+  Jan 24, 2020 (2.4.18.210)
+  https://curseforge.com/minecraft/mc-mods/brandons-core/files/2867147
+
+  Requires: RedstoneFlux, CodeChickenLib
+  Dependent: DraconicEvolution
+*/
+mod "mods/BrandonCore.jar" {
+  method    = "curse"
+  projectID = 231382
+  fileID    = 2867147
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/redstone-flux
+  https://github.com/CoFH/RedstoneFlux
+
+  Oct 2, 2018 (2.1.0.6)
+  https://curseforge.com/minecraft/mc-mods/redstone-flux/files/2623090
+
+  Dependent: DraconicEvolution, BrandonCore
+*/
+mod "mods/RedstoneFlux.jar" {
+  method    = "curse"
+  projectID = 270789
+  fileID    = 2623090
+}
