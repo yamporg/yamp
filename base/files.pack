@@ -74,6 +74,10 @@ mod "config/netherex/netherex.cfg" {
   file = "overrides/config/netherex/netherex.cfg"
 }
 
+mod "config/tconstruct.cfg" {
+  file = "overrides/config/tconstruct.cfg"
+}
+
 mod "config/openblocks.cfg" {
   file = "overrides/config/openblocks.cfg"
 }
