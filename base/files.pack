@@ -69,3 +69,7 @@ mod "config/harvestcraft.pack" {
 mod "config/jei/jei.cfg" {
   file = "overrides/config/jei/jei.cfg"
 }
+
+mod "config/PluginMetrics.cfg" {
+  file = "overrides/config/PluginMetrics.cfg"
+}
