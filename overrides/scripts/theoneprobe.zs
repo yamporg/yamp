@@ -1,1 +1,1 @@
-recipes.removeByRecipeName(<theoneprobe:probenote>);
+recipes.removeByRecipeName("theoneprobe:probenote");
