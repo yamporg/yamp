@@ -70,6 +70,10 @@ mod "config/jei/jei.cfg" {
   file = "overrides/config/jei/jei.cfg"
 }
 
+mod "config/netherex/netherex.cfg" {
+  file = "overrides/config/netherex/netherex.cfg"
+}
+
 mod "config/PluginMetrics.cfg" {
   file = "overrides/config/PluginMetrics.cfg"
 }
