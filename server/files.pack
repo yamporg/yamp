@@ -13,3 +13,7 @@ mod "dynmap/configuration.txt" {
 mod "dynmap/worlds.txt" {
   file = "overrides/dynmap/worlds.txt"
 }
+
+mod "config/backups.cfg" {
+  file = "overrides/config/backups.cfg"
+}
