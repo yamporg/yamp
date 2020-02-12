@@ -35,6 +35,9 @@ worlds:
         shader: cave
         lighting: default
         mapzoomin: 3
+  # TODO hide CompactMachines dimension from list
+  - name: DIM144
+    title: "Compact Machines"
   - name: DIM7
     title: "The Twilight Forest"
   - name: DIM1
