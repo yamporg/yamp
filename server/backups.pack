@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/backups
+  https://github.com/Silly511/Backups-Mod
+
+  Jan 23, 2020 (1.5.3)
+  https://curseforge.com/minecraft/mc-mods/backups/files/2866190
+*/
+mod "mods/Backups.jar" {
+  method    = "curse"
+  projectID = 293610
+  fileID    = 2866190
+}
