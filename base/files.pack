@@ -58,12 +58,12 @@ mod "config/brandon3055/ProjectIntelligence/options.json" {
   file = "overrides/config/brandon3055/ProjectIntelligence/options.json"
 }
 
-mod "config/nuclearcraft.pack" {
-  file = "overrides/config/nuclearcraft.pack"
+mod "config/nuclearcraft.cfg" {
+  file = "overrides/config/nuclearcraft.cfg"
 }
 
-mod "config/harvestcraft.pack" {
-  file = "overrides/config/harvestcraft.pack"
+mod "config/harvestcraft.cfg" {
+  file = "overrides/config/harvestcraft.cfg"
 }
 
 mod "config/jei/jei.cfg" {
