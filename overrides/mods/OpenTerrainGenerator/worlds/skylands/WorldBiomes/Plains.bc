@@ -23,8 +23,8 @@ Ore(LAPIS_ORE,    8,  8,  75,  0, 255, STONE)
 Ore(DIAMOND_ORE,  8,  4,  75,  0, 255, STONE)
 Ore(EMERALD_ORE,  8,  4,  75,  0, 255, STONE)
 
-Ore(LAPIS_ORE,   8, 10, 100, 150, 250, STONE)
-Ore(DIAMOND_ORE, 8, 25, 100, 150, 250, STONE)
+Ore(LAPIS_ORE,   8, 40, 100, 150, 250, STONE)
+Ore(DIAMOND_ORE, 8, 30, 100, 150, 250, STONE)
 
 # Vein(BlockName,MinRadius,MaxRadius,Rarity,OreSize,OreFrequency,OreRarity,MinAltitude,MaxAltitude,BlockSource[,BlockSource2,..])
 Vein(COAL_ORE,     10, 30, 90, 12, 18, 75, 0, 255, STONE, DIRT)
