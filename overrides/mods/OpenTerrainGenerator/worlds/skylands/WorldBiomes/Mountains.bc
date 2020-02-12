@@ -1,0 +1,19 @@
+BiomeExtends: Plains
+
+ReplaceToBiomeName: minecraft:extreme_hills
+
+StoneBlock: STONE
+SurfaceBlock: STONE
+GroundBlock: STONE
+BiomeSize: 6
+BiomeVolatility: 14
+Volatility1: 5
+Volatility2: 5
+UnderGroundLake(10,80,4,8,0,60)
+Liquid(STATIONARY_WATER,30,100,8,250,STONE)
+Liquid(STATIONARY_LAVA,7,100,8,128,STONE)
+SmallLake(GRAVEL,4,7,8,255)
+SmallLake(STATIONARY_WATER,8,16,8,255)
+SmallLake(STATIONARY_LAVA,2,1,8,255)
+Tree(3,Taiga2,8,BigTree,1,Tree,7)
+Plant(Dandelion,4,100.0,0,128,GRASS,DIRT)
