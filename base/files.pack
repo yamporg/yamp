@@ -89,3 +89,7 @@ mod "config/academy.cfg" {
 mod "config/PluginMetrics.cfg" {
   file = "overrides/config/PluginMetrics.cfg"
 }
+
+mod "config/phosphor.json" {
+  file = "overrides/config/phosphor.json"
+}
