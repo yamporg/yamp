@@ -93,3 +93,7 @@ mod "config/PluginMetrics.cfg" {
 mod "config/phosphor.json" {
   file = "overrides/config/phosphor.json"
 }
+
+mod "config/foamfix.cfg" {
+  file = "overrides/config/foamfix.cfg"
+}
