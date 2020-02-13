@@ -6,14 +6,6 @@ mod "server.properties" {
   file = "overrides/server.properties"
 }
 
-mod "dynmap/configuration.txt" {
-  file = "overrides/dynmap/configuration.txt"
-}
-
-mod "dynmap/worlds.txt" {
-  file = "overrides/dynmap/worlds.txt"
-}
-
 mod "config/stackie.cfg" {
   file = "overrides/config/stackie.cfg"
 }
