@@ -20,7 +20,7 @@ mod "mods/UniDict.jar" {
   Feb 9, 2019 (0.13)
   https://curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/files/2671230
 */
-mod "mods/NoRecipeConflicts.jar" {
+mod "mods/RecipeHandler.jar" {
   method    = "curse"
   projectID = 238123
   fileID    = 2671230
