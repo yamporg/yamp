@@ -50,6 +50,10 @@ mod "config/icbmclassic/launcher.cfg" {
   file = "overrides/config/icbmclassic/launcher.cfg"
 }
 
+mod "config/techguns.cfg" {
+  file = "overrides/config/techguns.cfg"
+}
+
 mod "config/theoneprobe.cfg" {
   file = "overrides/config/theoneprobe.cfg"
 }
