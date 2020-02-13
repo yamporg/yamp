@@ -97,3 +97,7 @@ mod "config/phosphor.json" {
 mod "config/foamfix.cfg" {
   file = "overrides/config/foamfix.cfg"
 }
+
+mod "config/lunatriuscore.cfg" {
+  file = "overrides/config/lunatriuscore.cfg"
+}
