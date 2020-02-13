@@ -1,17 +1,4 @@
 /*
-  https://curseforge.com/minecraft/mc-mods/debugserverinfo
-  https://github.com/dries007/DebugServerInfo
-
-  Oct 17, 2017 (1.0.5)
-  https://curseforge.com/minecraft/mc-mods/debugserverinfo/files/2491601
-*/
-mod "mods/DebugServerInfo.jar" {
-  method    = "curse"
-  projectID = 256400
-  fileID    = 2491601
-}
-
-/*
   https://curseforge.com/minecraft/mc-mods/phosphor
   https://github.com/jellysquid3/Phosphor
 
