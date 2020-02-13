@@ -25,3 +25,16 @@ mod "mods/TwilightForest.jar" {
   projectID = 227639
   fileID    = 2818055
 }
+
+/*
+  https://curseforge.com/minecraft/mc-mods/dimensionaldoors
+  https://github.com/DimensionalDevelopment/DimDoors
+
+  May 5, 2018 (3.0.9-287)
+  https://curseforge.com/minecraft/mc-mods/dimensionaldoors/files/2558528
+*/
+mod "mods/DimDoors.jar" {
+  method    = "curse"
+  projectID = 223797
+  fileID    = 2479308
+}
