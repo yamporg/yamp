@@ -1,4 +1,5 @@
 gamma:1.0
 lang:ru_ru
 fullscreen:true
+mipmapLevels:0
 forceUnicodeFont:true
