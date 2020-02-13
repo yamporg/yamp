@@ -101,3 +101,7 @@ mod "config/foamfix.cfg" {
 mod "config/lunatriuscore.cfg" {
   file = "overrides/config/lunatriuscore.cfg"
 }
+
+mod "config/betterfps.json" {
+  file = "overrides/config/betterfps.json"
+}
