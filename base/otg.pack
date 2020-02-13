@@ -35,6 +35,14 @@ mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Jungle.bc" {
   file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Jungle.bc"
 }
 
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Mountains.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Mountains.bc"
+}
+
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Swampland.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Swampland.bc"
+}
+
 mod "mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIslandSpawn.bo3" {
   file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldObjects/SkyIslandSpawn.bo3"
 }
