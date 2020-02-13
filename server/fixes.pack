@@ -12,6 +12,19 @@ mod "mods/GottaGoFast.jar" {
 }
 
 /*
+  https://curseforge.com/minecraft/mc-mods/helpfixer
+  https://github.com/matthewprenger/HelpFixer
+
+  Sep 13, 2017
+  https://curseforge.com/minecraft/mc-mods/helpfixer/files/2479308
+*/
+mod "mods/HelpFixer.jar" {
+  method    = "curse"
+  projectID = 223797
+  fileID    = 2479308
+}
+
+/*
   https://curseforge.com/minecraft/mc-mods/rcon-newline-fix
   https://github.com/fraenkelc/RCONNewlineFix
 
