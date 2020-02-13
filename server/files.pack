@@ -14,6 +14,10 @@ mod "dynmap/worlds.txt" {
   file = "overrides/dynmap/worlds.txt"
 }
 
+mod "config/stackie.cfg" {
+  file = "overrides/config/stackie.cfg"
+}
+
 mod "config/backups.cfg" {
   file = "overrides/config/backups.cfg"
 }
