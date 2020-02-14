@@ -18,6 +18,10 @@ mod "config/bloodmoon.cfg" {
   file = "overrides/config/bloodmoon.cfg"
 }
 
+mod "config/hardcoredarkness.cfg" {
+  file = "overrides/config/hardcoredarkness.cfg"
+}
+
 mod "config/opencomputers/settings.conf" {
   file = "overrides/config/opencomputers/settings.conf"
 }
