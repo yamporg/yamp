@@ -25,14 +25,14 @@ mod "mods/Bloodmoon.jar" {
 }
 
 /*
-  https://curseforge.com/minecraft/mc-mods/hardcore-darkness
-  https://github.com/lumien231/Hardcore-Darkness
+  https://curseforge.com/minecraft/mc-mods/dynamic-darkness
+  https://github.com/yamporg/darkness
 
-  Nov 12, 2017 (2.0)
-  https://curseforge.com/minecraft/mc-mods/hardcore-darkness/files/2499443
+  Feb 19, 2020 (0.2.1)
+  https://curseforge.com/minecraft/mc-mods/dynamic-darkness/files/2884541
 */
-mod "mods/HardcoreDarkness.jar" {
+mod "mods/DynamicDarkness.jar" {
   method    = "curse"
-  projectID = 225957
-  fileID    = 2499443
+  projectID = 363102
+  fileID    = 2884541
 }
