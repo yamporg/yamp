@@ -35,6 +35,6 @@ mod "mods/TwilightForest.jar" {
 */
 mod "mods/DimDoors.jar" {
   method    = "curse"
-  projectID = 223797
-  fileID    = 2479308
+  projectID = 284876
+  fileID    = 2558528
 }
