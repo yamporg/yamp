@@ -1,15 +1,4 @@
 /*
-  https://github.com/djpadbit/Sound-Physics
-
-  Nov 24, 2019 (1.0.8-1)
-  https://github.com/djpadbit/Sound-Physics/releases/tag/1.0.8-1
-*/
-mod "mods/SoundPhysics.jar" {
-  method = "http"
-  file   = "https://github.com/djpadbit/Sound-Physics/releases/download/1.0.8-1/Sound-Physics-1.12.2.jar"
-}
-
-/*
   https://curseforge.com/minecraft/mc-mods/ambience-music-mod
   https://github.com/Vazkii/Ambience
 

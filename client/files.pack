@@ -9,7 +9,3 @@ mod "config/antiqueatlas/atlas_overlay.cfg" {
 mod "config/shouldersurfing.cfg" {
   file = "overrides/config/shouldersurfing.cfg"
 }
-
-mod "config/soundphysics.cfg" {
-  file = "overrides/config/soundphysics.cfg"
-}
