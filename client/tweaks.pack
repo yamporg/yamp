@@ -1,17 +1,4 @@
 /*
-  https://curseforge.com/minecraft/mc-mods/neat
-  https://github.com/Vazkii/Neat
-
-  Jul 31, 2018 (1.4-17)
-  https://curseforge.com/minecraft/mc-mods/neat/files/2595310
-*/
-mod "mods/Neat.jar" {
-  method    = "curse"
-  projectID = 238372
-  fileID    = 2595310
-}
-
-/*
   https://curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer
   https://github.com/gbl/DurabilityViewer
 
