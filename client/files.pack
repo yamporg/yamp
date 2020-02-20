@@ -9,3 +9,7 @@ mod "config/antiqueatlas/atlas_overlay.cfg" {
 mod "config/shouldersurfing.cfg" {
   file = "overrides/config/shouldersurfing.cfg"
 }
+
+mod "config/placebo.cfg" {
+  file = "overrides/config/placebo.cfg"
+}
