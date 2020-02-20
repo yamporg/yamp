@@ -29,10 +29,10 @@ mod "mods/Bloodmoon.jar" {
   https://github.com/yamporg/darkness
 
   Feb 19, 2020 (0.2.1)
-  https://curseforge.com/minecraft/mc-mods/dynamic-darkness/files/2884541
+  https://www.curseforge.com/minecraft/mc-mods/dynamic-darkness/files/2884543
 */
 mod "mods/DynamicDarkness.jar" {
   method    = "curse"
   projectID = 363102
-  fileID    = 2884541
+  fileID    = 2884543
 }
