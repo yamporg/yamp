@@ -3,10 +3,10 @@
   https://circleci.com/gh/ValkyrienSkies/Valkyrien-Skies
   https://github.com/ValkyrienSkies/Valkyrien-Skies
 
-  Mar 30, 2020 (commit 587841f)
-  https://circleci.com/gh/ValkyrienSkies/Valkyrien-Skies/224#artifacts
+  Mar 13, 2020 (commit 51cb889)
+  https://circleci.com/gh/ValkyrienSkies/Valkyrien-Skies/221#artifacts
 */
 mod "mods/VS.jar" {
   method = "http"
-  file   = "https://224-60307938-gh.circle-artifacts.com/0/ValkyrienSkies-1.12.2-1.0.jar"
+  file   = "https://221-60307938-gh.circle-artifacts.com/0/ValkyrienSkies-1.12.2-1.0.jar"
 }
