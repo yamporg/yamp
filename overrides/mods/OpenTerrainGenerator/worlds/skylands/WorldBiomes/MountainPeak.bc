@@ -1,0 +1,13 @@
+BiomeExtends: Mountains
+
+SurfaceBlock: STONE
+IsleInBiome: Mountains
+BiomeHeight: 7
+BiomeSizeWhenIsle: 7
+BiomeRarityWhenIsle: 98
+BiomeVolatility: 20
+Volatility1: 7
+Volatility2: 7
+SmoothRadius: 1
+SmallLake(STATIONARY_LAVA,2,1,8,255)
+Tree(9,Taiga2,16,BigTree,1,Tree,7)

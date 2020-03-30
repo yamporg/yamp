@@ -39,6 +39,10 @@ mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Mountains.bc" {
   file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Mountains.bc"
 }
 
+mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/MountainPeak.bc" {
+  file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/MountainPeak.bc"
+}
+
 mod "mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Swampland.bc" {
   file = "overrides/mods/OpenTerrainGenerator/worlds/skylands/WorldBiomes/Swampland.bc"
 }
