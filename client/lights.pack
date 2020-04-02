@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/dynamic-lights
+  https://github.com/AtomicStryker/atomicstrykers-minecraft-mods
+
+  May 19, 2018 (1.12.2)
+  https://curseforge.com/minecraft/mc-mods/dynamic-lights/files/2563244
+*/
+mod "mods/DynamicLights.jar" {
+  method    = "curse"
+  projectID = 227874
+  fileID    = 2563244
+}
