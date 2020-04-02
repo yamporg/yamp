@@ -1,3 +1,11 @@
+mod "scripts/vanilla.zs" {
+  file = "overrides/scripts/vanilla.zs"
+}
+
 mod "scripts/theoneprobe.zs" {
   file = "overrides/scripts/theoneprobe.zs"
+}
+
+mod "scripts/enderio.zs" {
+  file = "overrides/scripts/enderio.zs"
 }
