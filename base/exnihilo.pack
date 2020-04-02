@@ -12,3 +12,16 @@ mod "mods/ExNihilo.jar" {
   projectID = 274456
   fileID    = 2817545
 }
+
+/*
+  https://curseforge.com/minecraft/mc-mods/ex-compressum
+  https://github.com/blay09/ExCompressum
+
+  Jul 1, 2019 (3.0.31)
+  https://curseforge.com/minecraft/mc-mods/ex-compressum/files/2733536
+*/
+mod "mods/ExCompressum.jar" {
+  method    = "curse"
+  projectID = 241967
+  fileID    = 2733536
+}
