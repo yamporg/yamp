@@ -1,0 +1,14 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/ex-nihilo-creatio
+  https://github.com/BloodWorkXGaming/ExNihiloCreatio
+
+  Oct 27, 2019 (0.4.7.2)
+  https://curseforge.com/minecraft/mc-mods/ex-nihilo-creatio/files/2817545
+
+  Requires: Forgelin
+*/
+mod "mods/ExNihilo.jar" {
+  method    = "curse"
+  projectID = 274456
+  fileID    = 2817545
+}

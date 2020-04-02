@@ -111,7 +111,7 @@ mod "mods/CreativeCore.jar" {
   Sep 13, 2019 (1.8.4)
   https://curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/files/2785465
 
-  Dependent: PSIdeas, LibrarianLib, TeslaCoreLib
+  Dependent: PSIdeas, LibrarianLib, TeslaCoreLib, ExNihilo
 */
 mod "mods/Forgelin.jar" {
   method    = "curse"
