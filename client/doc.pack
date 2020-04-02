@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/project-intelligence
+  https://github.com/brandon3055/ProjectIntelligence
+
+  Nov 28, 2019 (1.0.9.28)
+  https://curseforge.com/minecraft/mc-mods/project-intelligence/files/2833640
+*/
+mod "mods/ProjectIntelligence.jar" {
+  method    = "curse"
+  projectID = 306028
+  fileID    = 2833640
+}
