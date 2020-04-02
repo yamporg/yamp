@@ -23,3 +23,16 @@ mod "mods/ProjectEX.jar" {
   projectID = 311378
   fileID    = 2748127
 }
+
+/*
+  https://curseforge.com/minecraft/mc-mods/refined-exchange
+  https://github.com/Bartz24/RefinedExchange
+
+  Jan 2, 2019 (2.1.1)
+  https://curseforge.com/minecraft/mc-mods/refined-exchange/files/2655177
+*/
+mod "mods/RefinedExchange.jar" {
+  method    = "curse"
+  projectID = 260343
+  fileID    = 2655177
+}
