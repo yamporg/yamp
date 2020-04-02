@@ -1,17 +1,4 @@
 /*
-  https://curseforge.com/minecraft/mc-mods/phosphor
-  https://github.com/jellysquid3/Phosphor
-
-  Jul 24, 2019 (0.2.6-50)
-  https://curseforge.com/minecraft/mc-mods/phosphor/files/2747710
-*/
-mod "mods/Phosphor.jar" {
-  method    = "curse"
-  projectID = 318255
-  fileID    = 2747710
-}
-
-/*
   https://curseforge.com/minecraft/mc-mods/ai-improvements
   https://github.com/BuiltBrokenModding/AI-Improvements
 
