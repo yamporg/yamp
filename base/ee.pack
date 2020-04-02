@@ -10,3 +10,16 @@ mod "mods/ProjectE.jar" {
   projectID = 226410
   fileID    = 2702991
 }
+
+/*
+  https://curseforge.com/minecraft/mc-mods/project-ex
+  https://github.com/LatvianModder/Project-EX
+
+  Jul 25, 2019 (1.2.0.39)
+  https://curseforge.com/minecraft/mc-mods/project-ex/files/2748127
+*/
+mod "mods/ProjectEX.jar" {
+  method    = "curse"
+  projectID = 311378
+  fileID    = 2748127
+}
