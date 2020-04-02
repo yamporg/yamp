@@ -25,6 +25,19 @@ mod "mods/ProjectEX.jar" {
 }
 
 /*
+  https://curseforge.com/minecraft/mc-mods/projecte-integration
+  https://github.com/TagnumElite/ProjectE-Integration
+
+  Jul 21, 2019 (2.3.1)
+  https://curseforge.com/minecraft/mc-mods/projecte-integration/files/2745445
+*/
+mod "mods/ProjectIntegration.jar" {
+  method    = "curse"
+  projectID = 313402
+  fileID    = 2745445
+}
+
+/*
   https://curseforge.com/minecraft/mc-mods/refined-exchange
   https://github.com/Bartz24/RefinedExchange
 
