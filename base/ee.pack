@@ -1,0 +1,12 @@
+/*
+  https://curseforge.com/minecraft/mc-mods/projecte
+  https://github.com/sinkillerj/ProjectE
+
+  Apr 24, 2019 (1.4.1)
+  https://curseforge.com/minecraft/mc-mods/projecte/files/2702991
+*/
+mod "mods/ProjectE.jar" {
+  method    = "curse"
+  projectID = 226410
+  fileID    = 2702991
+}
