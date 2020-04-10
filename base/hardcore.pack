@@ -12,19 +12,6 @@ mod "mods/ESM.jar" {
 }
 
 /*
-  https://curseforge.com/minecraft/mc-mods/bloodmoon
-  https://github.com/lumien231/Bloodmoon
-
-  Mar 6, 2018 (1.5.3)
-  https://curseforge.com/minecraft/mc-mods/bloodmoon/files/2537917
-*/
-mod "mods/Bloodmoon.jar" {
-  method    = "curse"
-  projectID = 226321
-  fileID    = 2537917
-}
-
-/*
   https://curseforge.com/minecraft/mc-mods/dynamic-darkness
   https://github.com/yamporg/darkness
 
