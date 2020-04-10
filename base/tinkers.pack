@@ -2,8 +2,8 @@
   https://curseforge.com/minecraft/mc-mods/tinkers-construct
   https://github.com/SlimeKnights/TinkersConstruct
 
-  Feb 8, 2020 (2.12.0.157)
-  https://curseforge.com/minecraft/mc-mods/tinkers-construct/files/2877575
+  Mar 15, 2020 (2.13.0.183)
+  https://curseforge.com/minecraft/mc-mods/tinkers-construct/files/2902483
 
   Requires: Mantle
   Dependent: TinkersArmory, TinkersComplement, TinkersOC
@@ -11,7 +11,7 @@
 mod "mods/TConstruct.jar" {
   method    = "curse"
   projectID = 74072
-  fileID    = 2877575
+  fileID    = 2902483
 }
 
 /*
