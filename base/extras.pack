@@ -55,6 +55,19 @@ mod "mods/TestDummy.jar" {
 }
 
 /*
+  https://curseforge.com/minecraft/mc-mods/cyclic
+  https://github.com/Lothrazar/Cyclic
+
+  Mar 1, 2020 (1.19.21)
+  https://curseforge.com/minecraft/mc-mods/cyclic/files/2892633
+*/
+mod "mods/Cyclic.jar" {
+  method    = "curse"
+  projectID = 239286
+  fileID    = 2892633
+}
+
+/*
   https://curseforge.com/minecraft/mc-mods/openblocks
   https://github.com/OpenMods/OpenBlocks
 
