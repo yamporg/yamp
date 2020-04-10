@@ -2,15 +2,15 @@
   https://curseforge.com/minecraft/mc-mods/nuclearcraft-mod
   https://github.com/turbodiesel4598/NuclearCraft
 
-  Jan 2, 2020 (2.18o)
-  https://curseforge.com/minecraft/mc-mods/nuclearcraft-mod/files/2853541
+  Apr 4, 2020 (2.18r)
+  https://curseforge.com/minecraft/mc-mods/nuclearcraft-mod/files/2921192
 
   Dependent: NuclearCraftRTGs
 */
 mod "mods/NuclearCraft.jar" {
   method    = "curse"
   projectID = 226254
-  fileID    = 2853541
+  fileID    = 2921192
 }
 
 /*
