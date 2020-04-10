@@ -1,17 +1,4 @@
 /*
-  https://curseforge.com/minecraft/mc-mods/serene-seasons
-  https://github.com/Glitchfiend/SereneSeasons
-
-  Sep 30, 2019 (1.2.18)
-  https://curseforge.com/minecraft/mc-mods/serene-seasons/files/2799213
-*/
-mod "mods/SereneSeasons.jar" {
-  method    = "curse"
-  projectID = 291874
-  fileID    = 2799213
-}
-
-/*
   https://curseforge.com/minecraft/mc-mods/dynamictrees
   https://github.com/ferreusveritas/DynamicTrees
 
