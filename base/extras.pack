@@ -27,6 +27,21 @@ mod "mods/AkashicTome.jar" {
 }
 
 /*
+  https://curseforge.com/minecraft/mc-mods/morph-o-tool
+  https://github.com/Vazkii/Morph-o-Tool
+
+  Jan 9, 2019 (1.2-21)
+  https://curseforge.com/minecraft/mc-mods/morph-o-tool/files/2658176
+
+  Requires: AutoRegLib
+*/
+mod "mods/AkashicTool.jar" {
+  method    = "curse"
+  projectID = 245287
+  fileID    = 2658176
+}
+
+/*
   https://curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm
   https://github.com/bonii-xx/TestDummy
 
