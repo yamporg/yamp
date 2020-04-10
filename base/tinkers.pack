@@ -6,12 +6,27 @@
   https://curseforge.com/minecraft/mc-mods/tinkers-construct/files/2877575
 
   Requires: Mantle
-  Dependent: TinkersComplement, TinkersOC
+  Dependent: TinkersArmory, TinkersComplement, TinkersOC
 */
 mod "mods/TConstruct.jar" {
   method    = "curse"
   projectID = 74072
   fileID    = 2877575
+}
+
+/*
+  https://curseforge.com/minecraft/mc-mods/constructs-armory
+  https://github.com/TheIllusiveC4/ConstructsArmory
+
+  Feb 16, 2020 (1.2.5.4)
+  https://curseforge.com/minecraft/mc-mods/constructs-armory/files/2882794
+
+  Requires: Mantle, TConstruct
+*/
+mod "mods/TinkersArmory.jar" {
+  method    = "curse"
+  projectID = 287683
+  fileID    = 2882794
 }
 
 /*
