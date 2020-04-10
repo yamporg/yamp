@@ -16,7 +16,7 @@ mod "mods/ESM.jar" {
   https://github.com/yamporg/darkness
 
   Feb 19, 2020 (0.2.1)
-  https://www.curseforge.com/minecraft/mc-mods/dynamic-darkness/files/2884543
+  https://curseforge.com/minecraft/mc-mods/dynamic-darkness/files/2884543
 */
 mod "mods/DynamicDarkness.jar" {
   method    = "curse"
